@@ -1,0 +1,2319 @@
+season,year,home,away,home_score,away_score,round,p_home_win,model,when,divergences
+66,2003,ADMU,AdU,69,55,2,0.65425,"Poisson, one season",halfway,0
+66,2003,DLSU,AdU,82,74,2,0.7065,"Poisson, one season",halfway,0
+66,2003,NU,AdU,67,85,2,0.453,"Poisson, one season",halfway,0
+66,2003,UE,AdU,82,76,2,0.6195,"Poisson, one season",halfway,0
+66,2003,UP,AdU,66,68,2,0.5355,"Poisson, one season",halfway,0
+66,2003,UST,AdU,64,61,2,0.5175,"Poisson, one season",halfway,0
+66,2003,DLSU,ADMU,89,98,2,0.5565,"Poisson, one season",halfway,0
+66,2003,FEU,ADMU,63,87,2,0.59525,"Poisson, one season",halfway,0
+66,2003,NU,ADMU,76,62,2,0.2985,"Poisson, one season",halfway,0
+66,2003,UE,ADMU,67,76,2,0.46575,"Poisson, one season",halfway,0
+66,2003,UP,ADMU,53,56,2,0.363,"Poisson, one season",halfway,0
+66,2003,FEU,DLSU,76,74,2,0.55125,"Poisson, one season",halfway,0
+66,2003,NU,DLSU,80,59,2,0.24625,"Poisson, one season",halfway,0
+66,2003,UE,DLSU,64,62,2,0.388,"Poisson, one season",halfway,0
+66,2003,UP,DLSU,80,70,2,0.30225,"Poisson, one season",halfway,0
+66,2003,UST,DLSU,66,71,2,0.302,"Poisson, one season",halfway,0
+66,2003,NU,FEU,56,69,2,0.221,"Poisson, one season",halfway,0
+66,2003,UE,FEU,77,72,2,0.36925,"Poisson, one season",halfway,0
+66,2003,UP,FEU,61,67,2,0.27725,"Poisson, one season",halfway,0
+66,2003,UST,FEU,58,71,2,0.271,"Poisson, one season",halfway,0
+66,2003,UE,NU,80,69,2,0.66325,"Poisson, one season",halfway,0
+66,2003,UP,NU,75,67,2,0.5775,"Poisson, one season",halfway,0
+66,2003,UST,NU,83,78,2,0.55775,"Poisson, one season",halfway,0
+66,2003,UP,UE,61,68,2,0.40825,"Poisson, one season",halfway,0
+66,2003,UST,UE,69,76,2,0.39975,"Poisson, one season",halfway,0
+66,2003,UST,UP,92,89,2,0.5,"Poisson, one season",halfway,0
+66,2003,ADMU,AdU,69,55,2,0.698,"Pace, one season",halfway,1
+66,2003,DLSU,AdU,82,74,2,0.768,"Pace, one season",halfway,1
+66,2003,NU,AdU,67,85,2,0.45425,"Pace, one season",halfway,1
+66,2003,UE,AdU,82,76,2,0.651,"Pace, one season",halfway,1
+66,2003,UP,AdU,66,68,2,0.53875,"Pace, one season",halfway,1
+66,2003,UST,AdU,64,61,2,0.5085,"Pace, one season",halfway,1
+66,2003,DLSU,ADMU,89,98,2,0.57675,"Pace, one season",halfway,1
+66,2003,FEU,ADMU,63,87,2,0.611,"Pace, one season",halfway,1
+66,2003,NU,ADMU,76,62,2,0.2705,"Pace, one season",halfway,1
+66,2003,UE,ADMU,67,76,2,0.4445,"Pace, one season",halfway,1
+66,2003,UP,ADMU,53,56,2,0.323,"Pace, one season",halfway,1
+66,2003,FEU,DLSU,76,74,2,0.545,"Pace, one season",halfway,1
+66,2003,NU,DLSU,80,59,2,0.196,"Pace, one season",halfway,1
+66,2003,UE,DLSU,64,62,2,0.34925,"Pace, one season",halfway,1
+66,2003,UP,DLSU,80,70,2,0.27025,"Pace, one season",halfway,1
+66,2003,UST,DLSU,66,71,2,0.26025,"Pace, one season",halfway,1
+66,2003,NU,FEU,56,69,2,0.196,"Pace, one season",halfway,1
+66,2003,UE,FEU,77,72,2,0.3425,"Pace, one season",halfway,1
+66,2003,UP,FEU,61,67,2,0.259,"Pace, one season",halfway,1
+66,2003,UST,FEU,58,71,2,0.22675,"Pace, one season",halfway,1
+66,2003,UE,NU,80,69,2,0.684,"Pace, one season",halfway,1
+66,2003,UP,NU,75,67,2,0.5615,"Pace, one season",halfway,1
+66,2003,UST,NU,83,78,2,0.5565,"Pace, one season",halfway,1
+66,2003,UP,UE,61,68,2,0.38125,"Pace, one season",halfway,1
+66,2003,UST,UE,69,76,2,0.3555,"Pace, one season",halfway,1
+66,2003,UST,UP,92,89,2,0.4885,"Pace, one season",halfway,1
+66,2003,ADMU,AdU,69,55,2,0.7025,"Pace, joint",halfway,1
+66,2003,DLSU,AdU,82,74,2,0.7555,"Pace, joint",halfway,1
+66,2003,NU,AdU,67,85,2,0.467,"Pace, joint",halfway,1
+66,2003,UE,AdU,82,76,2,0.6495,"Pace, joint",halfway,1
+66,2003,UP,AdU,66,68,2,0.52425,"Pace, joint",halfway,1
+66,2003,UST,AdU,64,61,2,0.51875,"Pace, joint",halfway,1
+66,2003,DLSU,ADMU,89,98,2,0.57975,"Pace, joint",halfway,1
+66,2003,FEU,ADMU,63,87,2,0.6095,"Pace, joint",halfway,1
+66,2003,NU,ADMU,76,62,2,0.268,"Pace, joint",halfway,1
+66,2003,UE,ADMU,67,76,2,0.436,"Pace, joint",halfway,1
+66,2003,UP,ADMU,53,56,2,0.33325,"Pace, joint",halfway,1
+66,2003,FEU,DLSU,76,74,2,0.53925,"Pace, joint",halfway,1
+66,2003,NU,DLSU,80,59,2,0.2045,"Pace, joint",halfway,1
+66,2003,UE,DLSU,64,62,2,0.35175,"Pace, joint",halfway,1
+66,2003,UP,DLSU,80,70,2,0.27925,"Pace, joint",halfway,1
+66,2003,UST,DLSU,66,71,2,0.25275,"Pace, joint",halfway,1
+66,2003,NU,FEU,56,69,2,0.187,"Pace, joint",halfway,1
+66,2003,UE,FEU,77,72,2,0.345,"Pace, joint",halfway,1
+66,2003,UP,FEU,61,67,2,0.25175,"Pace, joint",halfway,1
+66,2003,UST,FEU,58,71,2,0.23475,"Pace, joint",halfway,1
+66,2003,UE,NU,80,69,2,0.68225,"Pace, joint",halfway,1
+66,2003,UP,NU,75,67,2,0.55925,"Pace, joint",halfway,1
+66,2003,UST,NU,83,78,2,0.54425,"Pace, joint",halfway,1
+66,2003,UP,UE,61,68,2,0.38825,"Pace, joint",halfway,1
+66,2003,UST,UE,69,76,2,0.3585,"Pace, joint",halfway,1
+66,2003,UST,UP,92,89,2,0.4805,"Pace, joint",halfway,1
+71,2008,ADMU,AdU,78,59,2,0.7965,"Poisson, one season",halfway,0
+71,2008,DLSU,AdU,84,79,2,0.73325,"Poisson, one season",halfway,0
+71,2008,FEU,AdU,70,62,2,0.6735,"Poisson, one season",halfway,0
+71,2008,NU,AdU,57,68,2,0.36675,"Poisson, one season",halfway,0
+71,2008,UE,AdU,58,45,2,0.7185,"Poisson, one season",halfway,0
+71,2008,UP,AdU,73,42,2,0.41725,"Poisson, one season",halfway,0
+71,2008,UST,AdU,97,83,2,0.6055,"Poisson, one season",halfway,0
+71,2008,DLSU,ADMU,57,65,2,0.412,"Poisson, one season",halfway,0
+71,2008,FEU,ADMU,74,78,2,0.35125,"Poisson, one season",halfway,0
+71,2008,NU,ADMU,58,83,2,0.12825,"Poisson, one season",halfway,0
+71,2008,UE,ADMU,57,61,2,0.40825,"Poisson, one season",halfway,0
+71,2008,UP,ADMU,58,79,2,0.14075,"Poisson, one season",halfway,0
+71,2008,UST,ADMU,76,85,2,0.2855,"Poisson, one season",halfway,0
+71,2008,FEU,DLSU,83,75,2,0.431,"Poisson, one season",halfway,0
+71,2008,NU,DLSU,67,79,2,0.167,"Poisson, one season",halfway,0
+71,2008,UE,DLSU,61,70,2,0.5065,"Poisson, one season",halfway,0
+71,2008,UP,DLSU,61,81,2,0.1935,"Poisson, one season",halfway,0
+71,2008,UST,DLSU,79,81,2,0.363,"Poisson, one season",halfway,0
+71,2008,NU,FEU,60,64,2,0.215,"Poisson, one season",halfway,0
+71,2008,UE,FEU,73,61,2,0.577,"Poisson, one season",halfway,0
+71,2008,UP,FEU,70,71,2,0.251,"Poisson, one season",halfway,0
+71,2008,UST,FEU,69,74,2,0.432,"Poisson, one season",halfway,0
+71,2008,UE,NU,67,50,2,0.822,"Poisson, one season",halfway,0
+71,2008,UP,NU,59,72,2,0.52425,"Poisson, one season",halfway,0
+71,2008,UST,NU,68,58,2,0.72675,"Poisson, one season",halfway,0
+71,2008,UP,UE,65,95,2,0.19725,"Poisson, one season",halfway,0
+71,2008,UST,UE,87,89,2,0.37725,"Poisson, one season",halfway,0
+71,2008,UST,UP,71,63,2,0.69325,"Poisson, one season",halfway,0
+71,2008,ADMU,AdU,78,59,2,0.813,"Pace, one season",halfway,0
+71,2008,DLSU,AdU,84,79,2,0.77425,"Pace, one season",halfway,0
+71,2008,FEU,AdU,70,62,2,0.69125,"Pace, one season",halfway,0
+71,2008,NU,AdU,57,68,2,0.356,"Pace, one season",halfway,0
+71,2008,UE,AdU,58,45,2,0.7645,"Pace, one season",halfway,0
+71,2008,UP,AdU,73,42,2,0.3955,"Pace, one season",halfway,0
+71,2008,UST,AdU,97,83,2,0.6655,"Pace, one season",halfway,0
+71,2008,DLSU,ADMU,57,65,2,0.43375,"Pace, one season",halfway,0
+71,2008,FEU,ADMU,74,78,2,0.334,"Pace, one season",halfway,0
+71,2008,NU,ADMU,58,83,2,0.113,"Pace, one season",halfway,0
+71,2008,UE,ADMU,57,61,2,0.42375,"Pace, one season",halfway,0
+71,2008,UP,ADMU,58,79,2,0.12325,"Pace, one season",halfway,0
+71,2008,UST,ADMU,76,85,2,0.3005,"Pace, one season",halfway,0
+71,2008,FEU,DLSU,83,75,2,0.415,"Pace, one season",halfway,0
+71,2008,NU,DLSU,67,79,2,0.13575,"Pace, one season",halfway,0
+71,2008,UE,DLSU,61,70,2,0.49225,"Pace, one season",halfway,0
+71,2008,UP,DLSU,61,81,2,0.15275,"Pace, one season",halfway,0
+71,2008,UST,DLSU,79,81,2,0.347,"Pace, one season",halfway,0
+71,2008,NU,FEU,60,64,2,0.196,"Pace, one season",halfway,0
+71,2008,UE,FEU,73,61,2,0.57625,"Pace, one season",halfway,0
+71,2008,UP,FEU,70,71,2,0.211,"Pace, one season",halfway,0
+71,2008,UST,FEU,69,74,2,0.455,"Pace, one season",halfway,0
+71,2008,UE,NU,67,50,2,0.84925,"Pace, one season",halfway,0
+71,2008,UP,NU,59,72,2,0.54025,"Pace, one season",halfway,0
+71,2008,UST,NU,68,58,2,0.77475,"Pace, one season",halfway,0
+71,2008,UP,UE,65,95,2,0.1545,"Pace, one season",halfway,0
+71,2008,UST,UE,87,89,2,0.376,"Pace, one season",halfway,0
+71,2008,UST,UP,71,63,2,0.75775,"Pace, one season",halfway,0
+71,2008,ADMU,AdU,78,59,2,0.80675,"Pace, joint",halfway,0
+71,2008,DLSU,AdU,84,79,2,0.7715,"Pace, joint",halfway,0
+71,2008,FEU,AdU,70,62,2,0.6925,"Pace, joint",halfway,0
+71,2008,NU,AdU,57,68,2,0.36175,"Pace, joint",halfway,0
+71,2008,UE,AdU,58,45,2,0.751,"Pace, joint",halfway,0
+71,2008,UP,AdU,73,42,2,0.40975,"Pace, joint",halfway,0
+71,2008,UST,AdU,97,83,2,0.649,"Pace, joint",halfway,0
+71,2008,DLSU,ADMU,57,65,2,0.4145,"Pace, joint",halfway,0
+71,2008,FEU,ADMU,74,78,2,0.36275,"Pace, joint",halfway,0
+71,2008,NU,ADMU,58,83,2,0.12425,"Pace, joint",halfway,0
+71,2008,UE,ADMU,57,61,2,0.41475,"Pace, joint",halfway,0
+71,2008,UP,ADMU,58,79,2,0.144,"Pace, joint",halfway,0
+71,2008,UST,ADMU,76,85,2,0.29225,"Pace, joint",halfway,0
+71,2008,FEU,DLSU,83,75,2,0.41625,"Pace, joint",halfway,0
+71,2008,NU,DLSU,67,79,2,0.15275,"Pace, joint",halfway,0
+71,2008,UE,DLSU,61,70,2,0.47975,"Pace, joint",halfway,0
+71,2008,UP,DLSU,61,81,2,0.17225,"Pace, joint",halfway,0
+71,2008,UST,DLSU,79,81,2,0.3705,"Pace, joint",halfway,0
+71,2008,NU,FEU,60,64,2,0.205,"Pace, joint",halfway,0
+71,2008,UE,FEU,73,61,2,0.55675,"Pace, joint",halfway,0
+71,2008,UP,FEU,70,71,2,0.2355,"Pace, joint",halfway,0
+71,2008,UST,FEU,69,74,2,0.4405,"Pace, joint",halfway,0
+71,2008,UE,NU,67,50,2,0.8345,"Pace, joint",halfway,0
+71,2008,UP,NU,59,72,2,0.54975,"Pace, joint",halfway,0
+71,2008,UST,NU,68,58,2,0.76475,"Pace, joint",halfway,0
+71,2008,UP,UE,65,95,2,0.191,"Pace, joint",halfway,0
+71,2008,UST,UE,87,89,2,0.39,"Pace, joint",halfway,0
+71,2008,UST,UP,71,63,2,0.74075,"Pace, joint",halfway,0
+71,2008,AdU,ADMU,45,72,1,0.47325,"Pace, joint",preseason,0
+71,2008,ADMU,AdU,78,59,2,0.52225,"Pace, joint",preseason,0
+71,2008,AdU,DLSU,61,76,1,0.50225,"Pace, joint",preseason,0
+71,2008,DLSU,AdU,84,79,2,0.496,"Pace, joint",preseason,0
+71,2008,AdU,FEU,71,74,1,0.489,"Pace, joint",preseason,0
+71,2008,FEU,AdU,70,62,2,0.5065,"Pace, joint",preseason,0
+71,2008,AdU,NU,73,65,1,0.5015,"Pace, joint",preseason,0
+71,2008,NU,AdU,57,68,2,0.48125,"Pace, joint",preseason,0
+71,2008,AdU,UE,66,64,1,0.48,"Pace, joint",preseason,0
+71,2008,UE,AdU,58,45,2,0.517,"Pace, joint",preseason,0
+71,2008,AdU,UP,68,76,1,0.50225,"Pace, joint",preseason,0
+71,2008,UP,AdU,73,42,2,0.51,"Pace, joint",preseason,0
+71,2008,AdU,UST,80,88,1,0.51425,"Pace, joint",preseason,0
+71,2008,UST,AdU,97,83,2,0.50425,"Pace, joint",preseason,0
+71,2008,ADMU,DLSU,79,73,1,0.51175,"Pace, joint",preseason,0
+71,2008,DLSU,ADMU,57,65,2,0.5,"Pace, joint",preseason,0
+71,2008,ADMU,FEU,66,72,1,0.50525,"Pace, joint",preseason,0
+71,2008,FEU,ADMU,74,78,2,0.5115,"Pace, joint",preseason,0
+71,2008,ADMU,NU,74,62,1,0.5245,"Pace, joint",preseason,0
+71,2008,NU,ADMU,58,83,2,0.48075,"Pace, joint",preseason,0
+71,2008,ADMU,UE,64,58,1,0.513,"Pace, joint",preseason,0
+71,2008,UE,ADMU,57,61,2,0.5075,"Pace, joint",preseason,0
+71,2008,ADMU,UP,83,66,1,0.517,"Pace, joint",preseason,0
+71,2008,UP,ADMU,58,79,2,0.49225,"Pace, joint",preseason,0
+71,2008,ADMU,UST,64,57,1,0.51375,"Pace, joint",preseason,0
+71,2008,UST,ADMU,76,85,2,0.49,"Pace, joint",preseason,0
+71,2008,DLSU,FEU,73,62,1,0.48725,"Pace, joint",preseason,0
+71,2008,FEU,DLSU,83,75,2,0.51325,"Pace, joint",preseason,0
+71,2008,DLSU,NU,93,69,1,0.501,"Pace, joint",preseason,0
+71,2008,NU,DLSU,67,79,2,0.4955,"Pace, joint",preseason,0
+71,2008,DLSU,UE,62,68,1,0.48525,"Pace, joint",preseason,0
+71,2008,UE,DLSU,61,70,2,0.49875,"Pace, joint",preseason,0
+71,2008,DLSU,UP,82,60,1,0.509,"Pace, joint",preseason,0
+71,2008,UP,DLSU,61,81,2,0.4995,"Pace, joint",preseason,0
+71,2008,DLSU,UST,85,84,1,0.5175,"Pace, joint",preseason,0
+71,2008,UST,DLSU,79,81,2,0.50375,"Pace, joint",preseason,0
+71,2008,FEU,NU,61,69,1,0.524,"Pace, joint",preseason,0
+71,2008,NU,FEU,60,64,2,0.474,"Pace, joint",preseason,0
+71,2008,FEU,UE,71,69,1,0.495,"Pace, joint",preseason,0
+71,2008,UE,FEU,73,61,2,0.508,"Pace, joint",preseason,0
+71,2008,FEU,UP,88,66,1,0.52125,"Pace, joint",preseason,0
+71,2008,UP,FEU,70,71,2,0.481,"Pace, joint",preseason,0
+71,2008,FEU,UST,70,65,1,0.51875,"Pace, joint",preseason,0
+71,2008,UST,FEU,69,74,2,0.48525,"Pace, joint",preseason,0
+71,2008,NU,UE,69,82,1,0.47125,"Pace, joint",preseason,0
+71,2008,UE,NU,67,50,2,0.52525,"Pace, joint",preseason,0
+71,2008,NU,UP,58,87,1,0.4975,"Pace, joint",preseason,0
+71,2008,UP,NU,59,72,2,0.50875,"Pace, joint",preseason,0
+71,2008,NU,UST,77,88,1,0.498,"Pace, joint",preseason,0
+71,2008,UST,NU,68,58,2,0.501,"Pace, joint",preseason,0
+71,2008,UE,UP,87,58,1,0.5005,"Pace, joint",preseason,0
+71,2008,UP,UE,65,95,2,0.49425,"Pace, joint",preseason,0
+71,2008,UE,UST,78,73,1,0.5225,"Pace, joint",preseason,0
+71,2008,UST,UE,87,89,2,0.49175,"Pace, joint",preseason,0
+71,2008,UP,UST,75,94,1,0.50175,"Pace, joint",preseason,0
+71,2008,UST,UP,71,63,2,0.49675,"Pace, joint",preseason,0
+72,2009,ADMU,AdU,61,52,2,0.7805,"Poisson, one season",halfway,0
+72,2009,DLSU,AdU,55,61,2,0.573,"Poisson, one season",halfway,0
+72,2009,FEU,AdU,84,75,2,0.79225,"Poisson, one season",halfway,0
+72,2009,NU,AdU,50,79,2,0.29675,"Poisson, one season",halfway,0
+72,2009,UE,AdU,60,56,2,0.6315,"Poisson, one season",halfway,0
+72,2009,UP,AdU,61,74,2,0.452,"Poisson, one season",halfway,0
+72,2009,UST,AdU,64,83,2,0.4615,"Poisson, one season",halfway,0
+72,2009,DLSU,ADMU,65,81,2,0.30175,"Poisson, one season",halfway,0
+72,2009,FEU,ADMU,73,74,2,0.524,"Poisson, one season",halfway,0
+72,2009,NU,ADMU,54,75,2,0.0925,"Poisson, one season",halfway,0
+72,2009,UE,ADMU,75,80,2,0.323,"Poisson, one season",halfway,0
+72,2009,UP,ADMU,75,93,2,0.17575,"Poisson, one season",halfway,0
+72,2009,UST,ADMU,70,80,2,0.1815,"Poisson, one season",halfway,0
+72,2009,FEU,DLSU,71,69,2,0.7235,"Poisson, one season",halfway,0
+72,2009,NU,DLSU,63,61,2,0.22525,"Poisson, one season",halfway,0
+72,2009,UE,DLSU,66,64,2,0.5575,"Poisson, one season",halfway,0
+72,2009,UP,DLSU,83,78,2,0.356,"Poisson, one season",halfway,0
+72,2009,UST,DLSU,64,68,2,0.386,"Poisson, one season",halfway,0
+72,2009,NU,FEU,66,76,2,0.07975,"Poisson, one season",halfway,0
+72,2009,UE,FEU,87,72,2,0.3025,"Poisson, one season",halfway,0
+72,2009,UP,FEU,74,86,2,0.16375,"Poisson, one season",halfway,0
+72,2009,UST,FEU,67,75,2,0.16225,"Poisson, one season",halfway,0
+72,2009,UE,NU,70,58,2,0.815,"Poisson, one season",halfway,0
+72,2009,UP,NU,78,76,2,0.644,"Poisson, one season",halfway,0
+72,2009,UST,NU,79,58,2,0.71075,"Poisson, one season",halfway,0
+72,2009,UP,UE,72,81,2,0.3165,"Poisson, one season",halfway,0
+72,2009,UST,UE,67,77,2,0.3405,"Poisson, one season",halfway,0
+72,2009,UST,UP,93,88,2,0.53925,"Poisson, one season",halfway,0
+72,2009,ADMU,AdU,61,52,2,0.79075,"Pace, one season",halfway,0
+72,2009,DLSU,AdU,55,61,2,0.59525,"Pace, one season",halfway,0
+72,2009,FEU,AdU,84,75,2,0.8115,"Pace, one season",halfway,0
+72,2009,NU,AdU,50,79,2,0.2855,"Pace, one season",halfway,0
+72,2009,UE,AdU,60,56,2,0.63625,"Pace, one season",halfway,0
+72,2009,UP,AdU,61,74,2,0.42675,"Pace, one season",halfway,0
+72,2009,UST,AdU,64,83,2,0.477,"Pace, one season",halfway,0
+72,2009,DLSU,ADMU,65,81,2,0.29775,"Pace, one season",halfway,0
+72,2009,FEU,ADMU,73,74,2,0.53075,"Pace, one season",halfway,0
+72,2009,NU,ADMU,54,75,2,0.09975,"Pace, one season",halfway,0
+72,2009,UE,ADMU,75,80,2,0.3105,"Pace, one season",halfway,0
+72,2009,UP,ADMU,75,93,2,0.1705,"Pace, one season",halfway,0
+72,2009,UST,ADMU,70,80,2,0.172,"Pace, one season",halfway,0
+72,2009,FEU,DLSU,71,69,2,0.72075,"Pace, one season",halfway,0
+72,2009,NU,DLSU,63,61,2,0.2105,"Pace, one season",halfway,0
+72,2009,UE,DLSU,66,64,2,0.511,"Pace, one season",halfway,0
+72,2009,UP,DLSU,83,78,2,0.3315,"Pace, one season",halfway,0
+72,2009,UST,DLSU,64,68,2,0.365,"Pace, one season",halfway,0
+72,2009,NU,FEU,66,76,2,0.08575,"Pace, one season",halfway,0
+72,2009,UE,FEU,87,72,2,0.262,"Pace, one season",halfway,0
+72,2009,UP,FEU,74,86,2,0.137,"Pace, one season",halfway,0
+72,2009,UST,FEU,67,75,2,0.14975,"Pace, one season",halfway,0
+72,2009,UE,NU,70,58,2,0.817,"Pace, one season",halfway,0
+72,2009,UP,NU,78,76,2,0.649,"Pace, one season",halfway,0
+72,2009,UST,NU,79,58,2,0.71575,"Pace, one season",halfway,0
+72,2009,UP,UE,72,81,2,0.289,"Pace, one season",halfway,0
+72,2009,UST,UE,67,77,2,0.335,"Pace, one season",halfway,0
+72,2009,UST,UP,93,88,2,0.5745,"Pace, one season",halfway,0
+72,2009,ADMU,AdU,61,52,2,0.84725,"Pace, joint",halfway,0
+72,2009,DLSU,AdU,55,61,2,0.68375,"Pace, joint",halfway,0
+72,2009,FEU,AdU,84,75,2,0.82575,"Pace, joint",halfway,0
+72,2009,NU,AdU,50,79,2,0.30425,"Pace, joint",halfway,0
+72,2009,UE,AdU,60,56,2,0.707,"Pace, joint",halfway,0
+72,2009,UP,AdU,61,74,2,0.4225,"Pace, joint",halfway,0
+72,2009,UST,AdU,64,83,2,0.56,"Pace, joint",halfway,0
+72,2009,DLSU,ADMU,65,81,2,0.29375,"Pace, joint",halfway,0
+72,2009,FEU,ADMU,73,74,2,0.45625,"Pace, joint",halfway,0
+72,2009,NU,ADMU,54,75,2,0.0655,"Pace, joint",halfway,0
+72,2009,UE,ADMU,75,80,2,0.30925,"Pace, joint",halfway,0
+72,2009,UP,ADMU,75,93,2,0.11375,"Pace, joint",halfway,0
+72,2009,UST,ADMU,70,80,2,0.15925,"Pace, joint",halfway,0
+72,2009,FEU,DLSU,71,69,2,0.67775,"Pace, joint",halfway,0
+72,2009,NU,DLSU,63,61,2,0.168,"Pace, joint",halfway,0
+72,2009,UE,DLSU,66,64,2,0.536,"Pace, joint",halfway,0
+72,2009,UP,DLSU,83,78,2,0.2495,"Pace, joint",halfway,0
+72,2009,UST,DLSU,64,68,2,0.341,"Pace, joint",halfway,0
+72,2009,NU,FEU,66,76,2,0.075,"Pace, joint",halfway,0
+72,2009,UE,FEU,87,72,2,0.33475,"Pace, joint",halfway,0
+72,2009,UP,FEU,74,86,2,0.136,"Pace, joint",halfway,0
+72,2009,UST,FEU,67,75,2,0.1895,"Pace, joint",halfway,0
+72,2009,UE,NU,70,58,2,0.85275,"Pace, joint",halfway,0
+72,2009,UP,NU,78,76,2,0.62275,"Pace, joint",halfway,0
+72,2009,UST,NU,79,58,2,0.7765,"Pace, joint",halfway,0
+72,2009,UP,UE,72,81,2,0.22,"Pace, joint",halfway,0
+72,2009,UST,UE,67,77,2,0.319,"Pace, joint",halfway,0
+72,2009,UST,UP,93,88,2,0.64075,"Pace, joint",halfway,0
+72,2009,AdU,ADMU,51,61,1,0.258,"Pace, joint",preseason,0
+72,2009,ADMU,AdU,61,52,2,0.745,"Pace, joint",preseason,0
+72,2009,AdU,DLSU,63,64,1,0.29725,"Pace, joint",preseason,0
+72,2009,DLSU,AdU,55,61,2,0.68325,"Pace, joint",preseason,0
+72,2009,AdU,FEU,60,63,1,0.35575,"Pace, joint",preseason,0
+72,2009,FEU,AdU,84,75,2,0.638,"Pace, joint",preseason,0
+72,2009,AdU,NU,70,76,1,0.529,"Pace, joint",preseason,0
+72,2009,NU,AdU,50,79,2,0.468,"Pace, joint",preseason,0
+72,2009,AdU,UE,91,95,1,0.312,"Pace, joint",preseason,0
+72,2009,UE,AdU,60,56,2,0.6975,"Pace, joint",preseason,0
+72,2009,AdU,UP,72,68,1,0.51325,"Pace, joint",preseason,0
+72,2009,UP,AdU,61,74,2,0.4795,"Pace, joint",preseason,0
+72,2009,AdU,UST,75,76,1,0.36075,"Pace, joint",preseason,0
+72,2009,UST,AdU,64,83,2,0.63875,"Pace, joint",preseason,0
+72,2009,ADMU,DLSU,76,72,1,0.583,"Pace, joint",preseason,0
+72,2009,DLSU,ADMU,65,81,2,0.429,"Pace, joint",preseason,0
+72,2009,ADMU,FEU,63,59,1,0.6145,"Pace, joint",preseason,0
+72,2009,FEU,ADMU,73,74,2,0.393,"Pace, joint",preseason,0
+72,2009,ADMU,NU,75,47,1,0.7665,"Pace, joint",preseason,0
+72,2009,NU,ADMU,54,75,2,0.23275,"Pace, joint",preseason,0
+72,2009,ADMU,UE,72,57,1,0.56025,"Pace, joint",preseason,0
+72,2009,UE,ADMU,75,80,2,0.45125,"Pace, joint",preseason,0
+72,2009,ADMU,UP,58,68,1,0.74425,"Pace, joint",preseason,0
+72,2009,UP,ADMU,75,93,2,0.241,"Pace, joint",preseason,0
+72,2009,ADMU,UST,93,77,1,0.63025,"Pace, joint",preseason,0
+72,2009,UST,ADMU,70,80,2,0.383,"Pace, joint",preseason,0
+72,2009,DLSU,FEU,51,65,1,0.5425,"Pace, joint",preseason,0
+72,2009,FEU,DLSU,71,69,2,0.46,"Pace, joint",preseason,0
+72,2009,DLSU,NU,68,48,1,0.7015,"Pace, joint",preseason,0
+72,2009,NU,DLSU,63,61,2,0.275,"Pace, joint",preseason,0
+72,2009,DLSU,UE,46,65,1,0.47175,"Pace, joint",preseason,0
+72,2009,UE,DLSU,66,64,2,0.51525,"Pace, joint",preseason,0
+72,2009,DLSU,UP,73,63,1,0.70875,"Pace, joint",preseason,0
+72,2009,UP,DLSU,83,78,2,0.30125,"Pace, joint",preseason,0
+72,2009,DLSU,UST,101,92,1,0.55725,"Pace, joint",preseason,0
+72,2009,UST,DLSU,64,68,2,0.44725,"Pace, joint",preseason,0
+72,2009,FEU,NU,82,57,1,0.6635,"Pace, joint",preseason,0
+72,2009,NU,FEU,66,76,2,0.33375,"Pace, joint",preseason,0
+72,2009,FEU,UE,76,72,1,0.43475,"Pace, joint",preseason,0
+72,2009,UE,FEU,87,72,2,0.56,"Pace, joint",preseason,0
+72,2009,FEU,UP,75,67,1,0.66375,"Pace, joint",preseason,0
+72,2009,UP,FEU,74,86,2,0.34425,"Pace, joint",preseason,0
+72,2009,FEU,UST,90,63,1,0.51725,"Pace, joint",preseason,0
+72,2009,UST,FEU,67,75,2,0.501,"Pace, joint",preseason,0
+72,2009,NU,UE,59,73,1,0.2635,"Pace, joint",preseason,0
+72,2009,UE,NU,70,58,2,0.7185,"Pace, joint",preseason,0
+72,2009,NU,UP,74,64,1,0.49275,"Pace, joint",preseason,0
+72,2009,UP,NU,78,76,2,0.51025,"Pace, joint",preseason,0
+72,2009,NU,UST,89,104,1,0.33025,"Pace, joint",preseason,0
+72,2009,UST,NU,79,58,2,0.66075,"Pace, joint",preseason,0
+72,2009,UE,UP,77,69,1,0.71725,"Pace, joint",preseason,0
+72,2009,UP,UE,72,81,2,0.2965,"Pace, joint",preseason,0
+72,2009,UE,UST,88,92,1,0.57025,"Pace, joint",preseason,0
+72,2009,UST,UE,67,77,2,0.42325,"Pace, joint",preseason,0
+72,2009,UP,UST,85,95,1,0.34025,"Pace, joint",preseason,0
+72,2009,UST,UP,93,88,2,0.65775,"Pace, joint",preseason,0
+74,2011,ADMU,AdU,46,62,2,0.5405,"Poisson, one season",halfway,0
+74,2011,DLSU,AdU,66,68,2,0.29025,"Poisson, one season",halfway,0
+74,2011,FEU,AdU,62,61,2,0.23825,"Poisson, one season",halfway,0
+74,2011,NU,AdU,53,68,2,0.21125,"Poisson, one season",halfway,0
+74,2011,UE,AdU,57,76,2,0.0925,"Poisson, one season",halfway,0
+74,2011,UP,AdU,51,64,2,0.145,"Poisson, one season",halfway,0
+74,2011,UST,AdU,74,58,2,0.26225,"Poisson, one season",halfway,0
+74,2011,DLSU,ADMU,62,79,2,0.252,"Poisson, one season",halfway,0
+74,2011,FEU,ADMU,67,74,2,0.21475,"Poisson, one season",halfway,0
+74,2011,NU,ADMU,39,61,2,0.17125,"Poisson, one season",halfway,0
+74,2011,UE,ADMU,70,74,2,0.08225,"Poisson, one season",halfway,0
+74,2011,UP,ADMU,58,73,2,0.12575,"Poisson, one season",halfway,0
+74,2011,UST,ADMU,57,82,2,0.23225,"Poisson, one season",halfway,0
+74,2011,FEU,DLSU,66,57,2,0.4285,"Poisson, one season",halfway,0
+74,2011,NU,DLSU,56,40,2,0.3655,"Poisson, one season",halfway,0
+74,2011,UE,DLSU,74,69,2,0.20025,"Poisson, one season",halfway,0
+74,2011,UP,DLSU,72,73,2,0.28075,"Poisson, one season",halfway,0
+74,2011,UST,DLSU,60,52,2,0.45075,"Poisson, one season",halfway,0
+74,2011,NU,FEU,82,84,2,0.44675,"Poisson, one season",halfway,0
+74,2011,UE,FEU,68,79,2,0.26125,"Poisson, one season",halfway,0
+74,2011,UP,FEU,53,59,2,0.376,"Poisson, one season",halfway,0
+74,2011,UST,FEU,77,73,2,0.52225,"Poisson, one season",halfway,0
+74,2011,UE,NU,51,91,2,0.29775,"Poisson, one season",halfway,0
+74,2011,UP,NU,43,65,2,0.405,"Poisson, one season",halfway,0
+74,2011,UST,NU,49,73,2,0.569,"Poisson, one season",halfway,0
+74,2011,UP,UE,54,68,2,0.596,"Poisson, one season",halfway,0
+74,2011,UST,UE,54,45,2,0.74775,"Poisson, one season",halfway,0
+74,2011,UST,UP,77,70,2,0.668,"Poisson, one season",halfway,0
+74,2011,ADMU,AdU,46,62,2,0.54925,"Pace, one season",halfway,0
+74,2011,DLSU,AdU,66,68,2,0.285,"Pace, one season",halfway,0
+74,2011,FEU,AdU,62,61,2,0.20375,"Pace, one season",halfway,0
+74,2011,NU,AdU,53,68,2,0.179,"Pace, one season",halfway,0
+74,2011,UE,AdU,57,76,2,0.09,"Pace, one season",halfway,0
+74,2011,UP,AdU,51,64,2,0.1205,"Pace, one season",halfway,0
+74,2011,UST,AdU,74,58,2,0.237,"Pace, one season",halfway,0
+74,2011,DLSU,ADMU,62,79,2,0.2465,"Pace, one season",halfway,0
+74,2011,FEU,ADMU,67,74,2,0.18225,"Pace, one season",halfway,0
+74,2011,NU,ADMU,39,61,2,0.16425,"Pace, one season",halfway,0
+74,2011,UE,ADMU,70,74,2,0.06175,"Pace, one season",halfway,0
+74,2011,UP,ADMU,58,73,2,0.1,"Pace, one season",halfway,0
+74,2011,UST,ADMU,57,82,2,0.201,"Pace, one season",halfway,0
+74,2011,FEU,DLSU,66,57,2,0.3885,"Pace, one season",halfway,0
+74,2011,NU,DLSU,56,40,2,0.3375,"Pace, one season",halfway,0
+74,2011,UE,DLSU,74,69,2,0.1705,"Pace, one season",halfway,0
+74,2011,UP,DLSU,72,73,2,0.245,"Pace, one season",halfway,0
+74,2011,UST,DLSU,60,52,2,0.41475,"Pace, one season",halfway,0
+74,2011,NU,FEU,82,84,2,0.45175,"Pace, one season",halfway,0
+74,2011,UE,FEU,68,79,2,0.24975,"Pace, one season",halfway,0
+74,2011,UP,FEU,53,59,2,0.34925,"Pace, one season",halfway,0
+74,2011,UST,FEU,77,73,2,0.54,"Pace, one season",halfway,0
+74,2011,UE,NU,51,91,2,0.27725,"Pace, one season",halfway,0
+74,2011,UP,NU,43,65,2,0.393,"Pace, one season",halfway,0
+74,2011,UST,NU,49,73,2,0.58025,"Pace, one season",halfway,0
+74,2011,UP,UE,54,68,2,0.62575,"Pace, one season",halfway,0
+74,2011,UST,UE,54,45,2,0.78125,"Pace, one season",halfway,0
+74,2011,UST,UP,77,70,2,0.68275,"Pace, one season",halfway,0
+74,2011,ADMU,AdU,46,62,2,0.59775,"Pace, joint",halfway,0
+74,2011,DLSU,AdU,66,68,2,0.3005,"Pace, joint",halfway,0
+74,2011,FEU,AdU,62,61,2,0.2195,"Pace, joint",halfway,0
+74,2011,NU,AdU,53,68,2,0.1505,"Pace, joint",halfway,0
+74,2011,UE,AdU,57,76,2,0.0725,"Pace, joint",halfway,0
+74,2011,UP,AdU,51,64,2,0.10175,"Pace, joint",halfway,0
+74,2011,UST,AdU,74,58,2,0.2055,"Pace, joint",halfway,0
+74,2011,DLSU,ADMU,62,79,2,0.228,"Pace, joint",halfway,0
+74,2011,FEU,ADMU,67,74,2,0.15275,"Pace, joint",halfway,0
+74,2011,NU,ADMU,39,61,2,0.1035,"Pace, joint",halfway,0
+74,2011,UE,ADMU,70,74,2,0.04675,"Pace, joint",halfway,0
+74,2011,UP,ADMU,58,73,2,0.05675,"Pace, joint",halfway,0
+74,2011,UST,ADMU,57,82,2,0.14425,"Pace, joint",halfway,0
+74,2011,FEU,DLSU,66,57,2,0.383,"Pace, joint",halfway,0
+74,2011,NU,DLSU,56,40,2,0.294,"Pace, joint",halfway,0
+74,2011,UE,DLSU,74,69,2,0.15075,"Pace, joint",halfway,0
+74,2011,UP,DLSU,72,73,2,0.20125,"Pace, joint",halfway,0
+74,2011,UST,DLSU,60,52,2,0.37975,"Pace, joint",halfway,0
+74,2011,NU,FEU,82,84,2,0.41075,"Pace, joint",halfway,0
+74,2011,UE,FEU,68,79,2,0.24825,"Pace, joint",halfway,0
+74,2011,UP,FEU,53,59,2,0.313,"Pace, joint",halfway,0
+74,2011,UST,FEU,77,73,2,0.49575,"Pace, joint",halfway,0
+74,2011,UE,NU,51,91,2,0.3225,"Pace, joint",halfway,0
+74,2011,UP,NU,43,65,2,0.38325,"Pace, joint",halfway,0
+74,2011,UST,NU,49,73,2,0.599,"Pace, joint",halfway,0
+74,2011,UP,UE,54,68,2,0.563,"Pace, joint",halfway,0
+74,2011,UST,UE,54,45,2,0.7645,"Pace, joint",halfway,0
+74,2011,UST,UP,77,70,2,0.70425,"Pace, joint",halfway,0
+74,2011,AdU,ADMU,51,55,1,0.3665,"Pace, joint",preseason,0
+74,2011,ADMU,AdU,46,62,2,0.63025,"Pace, joint",preseason,0
+74,2011,AdU,DLSU,66,58,1,0.50075,"Pace, joint",preseason,0
+74,2011,DLSU,AdU,66,68,2,0.50775,"Pace, joint",preseason,0
+74,2011,AdU,FEU,78,59,1,0.429,"Pace, joint",preseason,0
+74,2011,FEU,AdU,62,61,2,0.5755,"Pace, joint",preseason,0
+74,2011,AdU,NU,56,63,1,0.64325,"Pace, joint",preseason,0
+74,2011,NU,AdU,53,68,2,0.357,"Pace, joint",preseason,0
+74,2011,AdU,UE,85,54,1,0.4515,"Pace, joint",preseason,0
+74,2011,UE,AdU,57,76,2,0.55775,"Pace, joint",preseason,0
+74,2011,AdU,UP,72,46,1,0.6035,"Pace, joint",preseason,0
+74,2011,UP,AdU,51,64,2,0.4035,"Pace, joint",preseason,0
+74,2011,AdU,UST,81,71,1,0.56175,"Pace, joint",preseason,0
+74,2011,UST,AdU,74,58,2,0.431,"Pace, joint",preseason,0
+74,2011,ADMU,DLSU,81,72,1,0.63825,"Pace, joint",preseason,0
+74,2011,DLSU,ADMU,62,79,2,0.363,"Pace, joint",preseason,0
+74,2011,ADMU,FEU,69,49,1,0.56825,"Pace, joint",preseason,0
+74,2011,FEU,ADMU,67,74,2,0.43075,"Pace, joint",preseason,0
+74,2011,ADMU,NU,86,62,1,0.76425,"Pace, joint",preseason,0
+74,2011,NU,ADMU,39,61,2,0.23375,"Pace, joint",preseason,0
+74,2011,ADMU,UE,73,61,1,0.5815,"Pace, joint",preseason,0
+74,2011,UE,ADMU,70,74,2,0.418,"Pace, joint",preseason,0
+74,2011,ADMU,UP,77,57,1,0.709,"Pace, joint",preseason,0
+74,2011,UP,ADMU,58,73,2,0.27875,"Pace, joint",preseason,0
+74,2011,ADMU,UST,66,53,1,0.695,"Pace, joint",preseason,0
+74,2011,UST,ADMU,57,82,2,0.314,"Pace, joint",preseason,0
+74,2011,DLSU,FEU,65,74,1,0.44175,"Pace, joint",preseason,0
+74,2011,FEU,DLSU,66,57,2,0.57,"Pace, joint",preseason,0
+74,2011,DLSU,NU,74,63,1,0.64925,"Pace, joint",preseason,0
+74,2011,NU,DLSU,56,40,2,0.34575,"Pace, joint",preseason,0
+74,2011,DLSU,UE,87,63,1,0.4425,"Pace, joint",preseason,0
+74,2011,UE,DLSU,74,69,2,0.5525,"Pace, joint",preseason,0
+74,2011,DLSU,UP,79,67,1,0.59575,"Pace, joint",preseason,0
+74,2011,UP,DLSU,72,73,2,0.4075,"Pace, joint",preseason,0
+74,2011,DLSU,UST,74,71,1,0.562,"Pace, joint",preseason,0
+74,2011,UST,DLSU,60,52,2,0.42925,"Pace, joint",preseason,0
+74,2011,FEU,NU,62,59,1,0.70875,"Pace, joint",preseason,0
+74,2011,NU,FEU,82,84,2,0.2855,"Pace, joint",preseason,0
+74,2011,FEU,UE,66,47,1,0.51425,"Pace, joint",preseason,0
+74,2011,UE,FEU,68,79,2,0.47875,"Pace, joint",preseason,0
+74,2011,FEU,UP,63,76,1,0.67825,"Pace, joint",preseason,0
+74,2011,UP,FEU,53,59,2,0.318,"Pace, joint",preseason,0
+74,2011,FEU,UST,62,59,1,0.6325,"Pace, joint",preseason,0
+74,2011,UST,FEU,77,73,2,0.3685,"Pace, joint",preseason,0
+74,2011,NU,UE,71,72,1,0.30525,"Pace, joint",preseason,0
+74,2011,UE,NU,51,91,2,0.69325,"Pace, joint",preseason,0
+74,2011,NU,UP,75,66,1,0.47,"Pace, joint",preseason,0
+74,2011,UP,NU,43,65,2,0.53975,"Pace, joint",preseason,0
+74,2011,NU,UST,72,73,1,0.4155,"Pace, joint",preseason,0
+74,2011,UST,NU,49,73,2,0.58625,"Pace, joint",preseason,0
+74,2011,UE,UP,61,69,1,0.63975,"Pace, joint",preseason,0
+74,2011,UP,UE,54,68,2,0.3395,"Pace, joint",preseason,0
+74,2011,UE,UST,63,70,1,0.61975,"Pace, joint",preseason,0
+74,2011,UST,UE,54,45,2,0.38825,"Pace, joint",preseason,0
+74,2011,UP,UST,49,68,1,0.47025,"Pace, joint",preseason,0
+74,2011,UST,UP,77,70,2,0.53,"Pace, joint",preseason,0
+75,2012,ADMU,AdU,79,72,2,0.794,"Poisson, one season",halfway,0
+75,2012,DLSU,AdU,72,59,2,0.65025,"Poisson, one season",halfway,0
+75,2012,FEU,AdU,76,68,2,0.68425,"Poisson, one season",halfway,0
+75,2012,NU,AdU,81,77,2,0.74875,"Poisson, one season",halfway,0
+75,2012,UE,AdU,69,89,2,0.38725,"Poisson, one season",halfway,0
+75,2012,UP,AdU,70,75,2,0.56075,"Poisson, one season",halfway,0
+75,2012,UST,AdU,83,79,2,0.747,"Poisson, one season",halfway,0
+75,2012,DLSU,ADMU,67,77,2,0.322,"Poisson, one season",halfway,0
+75,2012,FEU,ADMU,64,77,2,0.36725,"Poisson, one season",halfway,0
+75,2012,NU,ADMU,56,70,2,0.451,"Poisson, one season",halfway,0
+75,2012,UE,ADMU,79,77,2,0.1345,"Poisson, one season",halfway,0
+75,2012,UP,ADMU,66,73,2,0.25025,"Poisson, one season",halfway,0
+75,2012,UST,ADMU,66,68,2,0.44725,"Poisson, one season",halfway,0
+75,2012,FEU,DLSU,56,63,2,0.55175,"Poisson, one season",halfway,0
+75,2012,NU,DLSU,72,62,2,0.6365,"Poisson, one season",halfway,0
+75,2012,UE,DLSU,52,73,2,0.26125,"Poisson, one season",halfway,0
+75,2012,UP,DLSU,69,76,2,0.41775,"Poisson, one season",halfway,0
+75,2012,UST,DLSU,51,53,2,0.61425,"Poisson, one season",halfway,0
+75,2012,NU,FEU,84,81,2,0.5755,"Poisson, one season",halfway,0
+75,2012,UE,FEU,78,83,2,0.22275,"Poisson, one season",halfway,0
+75,2012,UP,FEU,63,67,2,0.3495,"Poisson, one season",halfway,0
+75,2012,UST,FEU,60,87,2,0.57275,"Poisson, one season",halfway,0
+75,2012,UE,NU,74,83,2,0.17525,"Poisson, one season",halfway,0
+75,2012,UP,NU,60,65,2,0.28925,"Poisson, one season",halfway,0
+75,2012,UST,NU,58,57,2,0.494,"Poisson, one season",halfway,0
+75,2012,UP,UE,76,79,2,0.67175,"Poisson, one season",halfway,0
+75,2012,UST,UE,87,75,2,0.8295,"Poisson, one season",halfway,0
+75,2012,UST,UP,75,68,2,0.706,"Poisson, one season",halfway,0
+75,2012,ADMU,AdU,79,72,2,0.8825,"Pace, one season",halfway,0
+75,2012,DLSU,AdU,72,59,2,0.719,"Pace, one season",halfway,0
+75,2012,FEU,AdU,76,68,2,0.7695,"Pace, one season",halfway,0
+75,2012,NU,AdU,81,77,2,0.812,"Pace, one season",halfway,0
+75,2012,UE,AdU,69,89,2,0.2755,"Pace, one season",halfway,0
+75,2012,UP,AdU,70,75,2,0.56325,"Pace, one season",halfway,0
+75,2012,UST,AdU,83,79,2,0.81375,"Pace, one season",halfway,0
+75,2012,DLSU,ADMU,67,77,2,0.23175,"Pace, one season",halfway,0
+75,2012,FEU,ADMU,64,77,2,0.29975,"Pace, one season",halfway,0
+75,2012,NU,ADMU,56,70,2,0.33325,"Pace, one season",halfway,0
+75,2012,UE,ADMU,79,77,2,0.05225,"Pace, one season",halfway,0
+75,2012,UP,ADMU,66,73,2,0.143,"Pace, one season",halfway,0
+75,2012,UST,ADMU,66,68,2,0.341,"Pace, one season",halfway,0
+75,2012,FEU,DLSU,56,63,2,0.58,"Pace, one season",halfway,0
+75,2012,NU,DLSU,72,62,2,0.61925,"Pace, one season",halfway,0
+75,2012,UE,DLSU,52,73,2,0.131,"Pace, one season",halfway,0
+75,2012,UP,DLSU,69,76,2,0.359,"Pace, one season",halfway,0
+75,2012,UST,DLSU,51,53,2,0.62075,"Pace, one season",halfway,0
+75,2012,NU,FEU,84,81,2,0.53025,"Pace, one season",halfway,0
+75,2012,UE,FEU,78,83,2,0.09775,"Pace, one season",halfway,0
+75,2012,UP,FEU,63,67,2,0.287,"Pace, one season",halfway,0
+75,2012,UST,FEU,60,87,2,0.5505,"Pace, one season",halfway,0
+75,2012,UE,NU,74,83,2,0.07875,"Pace, one season",halfway,0
+75,2012,UP,NU,60,65,2,0.24025,"Pace, one season",halfway,0
+75,2012,UST,NU,58,57,2,0.496,"Pace, one season",halfway,0
+75,2012,UP,UE,76,79,2,0.7785,"Pace, one season",halfway,0
+75,2012,UST,UE,87,75,2,0.91475,"Pace, one season",halfway,0
+75,2012,UST,UP,75,68,2,0.75525,"Pace, one season",halfway,0
+75,2012,ADMU,AdU,79,72,2,0.8185,"Pace, joint",halfway,0
+75,2012,DLSU,AdU,72,59,2,0.5575,"Pace, joint",halfway,0
+75,2012,FEU,AdU,76,68,2,0.655,"Pace, joint",halfway,0
+75,2012,NU,AdU,81,77,2,0.67025,"Pace, joint",halfway,0
+75,2012,UE,AdU,69,89,2,0.2025,"Pace, joint",halfway,0
+75,2012,UP,AdU,70,75,2,0.42875,"Pace, joint",halfway,0
+75,2012,UST,AdU,83,79,2,0.647,"Pace, joint",halfway,0
+75,2012,DLSU,ADMU,67,77,2,0.2095,"Pace, joint",halfway,0
+75,2012,FEU,ADMU,64,77,2,0.3015,"Pace, joint",halfway,0
+75,2012,NU,ADMU,56,70,2,0.3265,"Pace, joint",halfway,0
+75,2012,UE,ADMU,79,77,2,0.04475,"Pace, joint",halfway,0
+75,2012,UP,ADMU,66,73,2,0.1375,"Pace, joint",halfway,0
+75,2012,UST,ADMU,66,68,2,0.29525,"Pace, joint",halfway,0
+75,2012,FEU,DLSU,56,63,2,0.58375,"Pace, joint",halfway,0
+75,2012,NU,DLSU,72,62,2,0.613,"Pace, joint",halfway,0
+75,2012,UE,DLSU,52,73,2,0.15125,"Pace, joint",halfway,0
+75,2012,UP,DLSU,69,76,2,0.36825,"Pace, joint",halfway,0
+75,2012,UST,DLSU,51,53,2,0.5875,"Pace, joint",halfway,0
+75,2012,NU,FEU,84,81,2,0.523,"Pace, joint",halfway,0
+75,2012,UE,FEU,78,83,2,0.1125,"Pace, joint",halfway,0
+75,2012,UP,FEU,63,67,2,0.28075,"Pace, joint",halfway,0
+75,2012,UST,FEU,60,87,2,0.50525,"Pace, joint",halfway,0
+75,2012,UE,NU,74,83,2,0.0965,"Pace, joint",halfway,0
+75,2012,UP,NU,60,65,2,0.25325,"Pace, joint",halfway,0
+75,2012,UST,NU,58,57,2,0.4785,"Pace, joint",halfway,0
+75,2012,UP,UE,76,79,2,0.74675,"Pace, joint",halfway,0
+75,2012,UST,UE,87,75,2,0.89525,"Pace, joint",halfway,0
+75,2012,UST,UP,75,68,2,0.72875,"Pace, joint",halfway,0
+75,2012,AdU,ADMU,57,73,1,0.44675,"Pace, joint",preseason,0
+75,2012,ADMU,AdU,79,72,2,0.546,"Pace, joint",preseason,0
+75,2012,AdU,DLSU,52,56,1,0.67825,"Pace, joint",preseason,0
+75,2012,DLSU,AdU,72,59,2,0.32425,"Pace, joint",preseason,0
+75,2012,AdU,FEU,62,65,1,0.6315,"Pace, joint",preseason,0
+75,2012,FEU,AdU,76,68,2,0.3765,"Pace, joint",preseason,0
+75,2012,AdU,NU,62,77,1,0.616,"Pace, joint",preseason,0
+75,2012,NU,AdU,81,77,2,0.3825,"Pace, joint",preseason,0
+75,2012,AdU,UE,66,71,1,0.76925,"Pace, joint",preseason,0
+75,2012,UE,AdU,69,89,2,0.21775,"Pace, joint",preseason,0
+75,2012,AdU,UP,69,67,1,0.775,"Pace, joint",preseason,0
+75,2012,UP,AdU,70,75,2,0.2335,"Pace, joint",preseason,0
+75,2012,AdU,UST,60,61,1,0.6605,"Pace, joint",preseason,0
+75,2012,UST,AdU,83,79,2,0.32925,"Pace, joint",preseason,0
+75,2012,ADMU,DLSU,71,61,1,0.71525,"Pace, joint",preseason,0
+75,2012,DLSU,ADMU,67,77,2,0.279,"Pace, joint",preseason,0
+75,2012,ADMU,FEU,74,71,1,0.688,"Pace, joint",preseason,0
+75,2012,FEU,ADMU,64,77,2,0.3135,"Pace, joint",preseason,0
+75,2012,ADMU,NU,89,65,1,0.67425,"Pace, joint",preseason,0
+75,2012,NU,ADMU,56,70,2,0.3355,"Pace, joint",preseason,0
+75,2012,ADMU,UE,68,51,1,0.80675,"Pace, joint",preseason,0
+75,2012,UE,ADMU,79,77,2,0.18625,"Pace, joint",preseason,0
+75,2012,ADMU,UP,76,70,1,0.8165,"Pace, joint",preseason,0
+75,2012,UP,ADMU,66,73,2,0.1935,"Pace, joint",preseason,0
+75,2012,ADMU,UST,70,71,1,0.7055,"Pace, joint",preseason,0
+75,2012,UST,ADMU,66,68,2,0.29475,"Pace, joint",preseason,0
+75,2012,DLSU,FEU,46,48,1,0.4615,"Pace, joint",preseason,0
+75,2012,FEU,DLSU,56,63,2,0.53875,"Pace, joint",preseason,0
+75,2012,DLSU,NU,87,86,1,0.44625,"Pace, joint",preseason,0
+75,2012,NU,DLSU,72,62,2,0.55075,"Pace, joint",preseason,0
+75,2012,DLSU,UE,67,59,1,0.625,"Pace, joint",preseason,0
+75,2012,UE,DLSU,52,73,2,0.382,"Pace, joint",preseason,0
+75,2012,DLSU,UP,73,68,1,0.62975,"Pace, joint",preseason,0
+75,2012,UP,DLSU,69,76,2,0.377,"Pace, joint",preseason,0
+75,2012,DLSU,UST,82,84,1,0.4935,"Pace, joint",preseason,0
+75,2012,UST,DLSU,51,53,2,0.50625,"Pace, joint",preseason,0
+75,2012,FEU,NU,57,61,1,0.481,"Pace, joint",preseason,0
+75,2012,NU,FEU,84,81,2,0.52275,"Pace, joint",preseason,0
+75,2012,FEU,UE,92,66,1,0.656,"Pace, joint",preseason,0
+75,2012,UE,FEU,78,83,2,0.3385,"Pace, joint",preseason,0
+75,2012,FEU,UP,73,70,1,0.65975,"Pace, joint",preseason,0
+75,2012,UP,FEU,63,67,2,0.343,"Pace, joint",preseason,0
+75,2012,FEU,UST,73,72,1,0.5235,"Pace, joint",preseason,0
+75,2012,UST,FEU,60,87,2,0.486,"Pace, joint",preseason,0
+75,2012,NU,UE,90,55,1,0.66975,"Pace, joint",preseason,0
+75,2012,UE,NU,74,83,2,0.3195,"Pace, joint",preseason,0
+75,2012,NU,UP,67,50,1,0.66775,"Pace, joint",preseason,0
+75,2012,UP,NU,60,65,2,0.33275,"Pace, joint",preseason,0
+75,2012,NU,UST,71,77,1,0.5465,"Pace, joint",preseason,0
+75,2012,UST,NU,58,57,2,0.457,"Pace, joint",preseason,0
+75,2012,UE,UP,48,63,1,0.48225,"Pace, joint",preseason,0
+75,2012,UP,UE,76,79,2,0.4985,"Pace, joint",preseason,0
+75,2012,UE,UST,69,85,1,0.37075,"Pace, joint",preseason,0
+75,2012,UST,UE,87,75,2,0.62975,"Pace, joint",preseason,0
+75,2012,UP,UST,58,68,1,0.37175,"Pace, joint",preseason,0
+75,2012,UST,UP,75,68,2,0.6415,"Pace, joint",preseason,0
+76,2013,ADMU,AdU,79,66,2,0.4715,"Poisson, one season",halfway,0
+76,2013,DLSU,AdU,70,69,2,0.53375,"Poisson, one season",halfway,0
+76,2013,FEU,AdU,92,80,2,0.648,"Poisson, one season",halfway,0
+76,2013,NU,AdU,80,48,2,0.551,"Poisson, one season",halfway,0
+76,2013,UE,AdU,77,60,2,0.504,"Poisson, one season",halfway,0
+76,2013,UP,AdU,53,67,2,0.35425,"Poisson, one season",halfway,0
+76,2013,UST,AdU,80,67,2,0.53175,"Poisson, one season",halfway,0
+76,2013,DLSU,ADMU,66,64,2,0.54875,"Poisson, one season",halfway,0
+76,2013,FEU,ADMU,73,92,2,0.65175,"Poisson, one season",halfway,0
+76,2013,NU,ADMU,70,65,2,0.5785,"Poisson, one season",halfway,0
+76,2013,UE,ADMU,72,77,2,0.51075,"Poisson, one season",halfway,0
+76,2013,UP,ADMU,59,67,2,0.37025,"Poisson, one season",halfway,0
+76,2013,UST,ADMU,82,74,2,0.53575,"Poisson, one season",halfway,0
+76,2013,FEU,DLSU,66,75,2,0.61125,"Poisson, one season",halfway,0
+76,2013,NU,DLSU,55,57,2,0.49825,"Poisson, one season",halfway,0
+76,2013,UE,DLSU,65,75,2,0.4575,"Poisson, one season",halfway,0
+76,2013,UP,DLSU,63,85,2,0.31325,"Poisson, one season",halfway,0
+76,2013,UST,DLSU,64,69,2,0.48475,"Poisson, one season",halfway,0
+76,2013,NU,FEU,59,58,2,0.39875,"Poisson, one season",halfway,0
+76,2013,UE,FEU,94,98,2,0.3395,"Poisson, one season",halfway,0
+76,2013,UP,FEU,69,87,2,0.2125,"Poisson, one season",halfway,0
+76,2013,UST,FEU,79,78,2,0.3765,"Poisson, one season",halfway,0
+76,2013,UE,NU,73,81,2,0.44875,"Poisson, one season",halfway,0
+76,2013,UP,NU,62,79,2,0.3085,"Poisson, one season",halfway,0
+76,2013,UST,NU,61,75,2,0.47975,"Poisson, one season",halfway,0
+76,2013,UP,UE,73,76,2,0.3505,"Poisson, one season",halfway,0
+76,2013,UST,UE,67,68,2,0.518,"Poisson, one season",halfway,0
+76,2013,UST,UP,63,39,2,0.6775,"Poisson, one season",halfway,0
+76,2013,ADMU,AdU,79,66,2,0.48925,"Pace, one season",halfway,0
+76,2013,DLSU,AdU,70,69,2,0.54225,"Pace, one season",halfway,0
+76,2013,FEU,AdU,92,80,2,0.8125,"Pace, one season",halfway,0
+76,2013,NU,AdU,80,48,2,0.656,"Pace, one season",halfway,0
+76,2013,UE,AdU,77,60,2,0.43575,"Pace, one season",halfway,0
+76,2013,UP,AdU,53,67,2,0.12475,"Pace, one season",halfway,0
+76,2013,UST,AdU,80,67,2,0.59425,"Pace, one season",halfway,0
+76,2013,DLSU,ADMU,66,64,2,0.5725,"Pace, one season",halfway,0
+76,2013,FEU,ADMU,73,92,2,0.82475,"Pace, one season",halfway,0
+76,2013,NU,ADMU,70,65,2,0.67525,"Pace, one season",halfway,0
+76,2013,UE,ADMU,72,77,2,0.44725,"Pace, one season",halfway,0
+76,2013,UP,ADMU,59,67,2,0.13075,"Pace, one season",halfway,0
+76,2013,UST,ADMU,82,74,2,0.60975,"Pace, one season",halfway,0
+76,2013,FEU,DLSU,66,75,2,0.79025,"Pace, one season",halfway,0
+76,2013,NU,DLSU,55,57,2,0.606,"Pace, one season",halfway,0
+76,2013,UE,DLSU,65,75,2,0.3845,"Pace, one season",halfway,0
+76,2013,UP,DLSU,63,85,2,0.09025,"Pace, one season",halfway,0
+76,2013,UST,DLSU,64,69,2,0.53325,"Pace, one season",halfway,0
+76,2013,NU,FEU,59,58,2,0.31175,"Pace, one season",halfway,0
+76,2013,UE,FEU,94,98,2,0.1365,"Pace, one season",halfway,0
+76,2013,UP,FEU,69,87,2,0.0275,"Pace, one season",halfway,0
+76,2013,UST,FEU,79,78,2,0.252,"Pace, one season",halfway,0
+76,2013,UE,NU,73,81,2,0.27025,"Pace, one season",halfway,0
+76,2013,UP,NU,62,79,2,0.0715,"Pace, one season",halfway,0
+76,2013,UST,NU,61,75,2,0.44325,"Pace, one season",halfway,0
+76,2013,UP,UE,73,76,2,0.158,"Pace, one season",halfway,0
+76,2013,UST,UE,67,68,2,0.65425,"Pace, one season",halfway,0
+76,2013,UST,UP,63,39,2,0.908,"Pace, one season",halfway,0
+76,2013,ADMU,AdU,79,66,2,0.56925,"Pace, joint",halfway,0
+76,2013,DLSU,AdU,70,69,2,0.54475,"Pace, joint",halfway,0
+76,2013,FEU,AdU,92,80,2,0.68925,"Pace, joint",halfway,0
+76,2013,NU,AdU,80,48,2,0.61225,"Pace, joint",halfway,0
+76,2013,UE,AdU,77,60,2,0.3795,"Pace, joint",halfway,0
+76,2013,UP,AdU,53,67,2,0.2495,"Pace, joint",halfway,0
+76,2013,UST,AdU,80,67,2,0.5655,"Pace, joint",halfway,0
+76,2013,DLSU,ADMU,66,64,2,0.46875,"Pace, joint",halfway,0
+76,2013,FEU,ADMU,73,92,2,0.59675,"Pace, joint",halfway,0
+76,2013,NU,ADMU,70,65,2,0.54075,"Pace, joint",halfway,0
+76,2013,UE,ADMU,72,77,2,0.319,"Pace, joint",halfway,0
+76,2013,UP,ADMU,59,67,2,0.212,"Pace, joint",halfway,0
+76,2013,UST,ADMU,82,74,2,0.48175,"Pace, joint",halfway,0
+76,2013,FEU,DLSU,66,75,2,0.64225,"Pace, joint",halfway,0
+76,2013,NU,DLSU,55,57,2,0.56525,"Pace, joint",halfway,0
+76,2013,UE,DLSU,65,75,2,0.337,"Pace, joint",halfway,0
+76,2013,UP,DLSU,63,85,2,0.215,"Pace, joint",halfway,0
+76,2013,UST,DLSU,64,69,2,0.53225,"Pace, joint",halfway,0
+76,2013,NU,FEU,59,58,2,0.408,"Pace, joint",halfway,0
+76,2013,UE,FEU,94,98,2,0.21125,"Pace, joint",halfway,0
+76,2013,UP,FEU,69,87,2,0.12075,"Pace, joint",halfway,0
+76,2013,UST,FEU,79,78,2,0.36675,"Pace, joint",halfway,0
+76,2013,UE,NU,73,81,2,0.27675,"Pace, joint",halfway,0
+76,2013,UP,NU,62,79,2,0.1795,"Pace, joint",halfway,0
+76,2013,UST,NU,61,75,2,0.464,"Pace, joint",halfway,0
+76,2013,UP,UE,73,76,2,0.346,"Pace, joint",halfway,0
+76,2013,UST,UE,67,68,2,0.683,"Pace, joint",halfway,0
+76,2013,UST,UP,63,39,2,0.786,"Pace, joint",halfway,0
+76,2013,AdU,ADMU,59,71,1,0.32925,"Pace, joint",preseason,0
+76,2013,ADMU,AdU,79,66,2,0.669,"Pace, joint",preseason,0
+76,2013,AdU,DLSU,67,70,1,0.44725,"Pace, joint",preseason,0
+76,2013,DLSU,AdU,70,69,2,0.571,"Pace, joint",preseason,0
+76,2013,AdU,FEU,71,74,1,0.425,"Pace, joint",preseason,0
+76,2013,FEU,AdU,92,80,2,0.5655,"Pace, joint",preseason,0
+76,2013,AdU,NU,68,66,1,0.44625,"Pace, joint",preseason,0
+76,2013,NU,AdU,80,48,2,0.56775,"Pace, joint",preseason,0
+76,2013,AdU,UE,78,71,1,0.67375,"Pace, joint",preseason,0
+76,2013,UE,AdU,77,60,2,0.32275,"Pace, joint",preseason,0
+76,2013,AdU,UP,79,67,1,0.5665,"Pace, joint",preseason,0
+76,2013,UP,AdU,53,67,2,0.43625,"Pace, joint",preseason,0
+76,2013,AdU,UST,62,67,1,0.4515,"Pace, joint",preseason,0
+76,2013,UST,AdU,80,67,2,0.5305,"Pace, joint",preseason,0
+76,2013,ADMU,DLSU,73,82,1,0.60725,"Pace, joint",preseason,0
+76,2013,DLSU,ADMU,66,64,2,0.376,"Pace, joint",preseason,0
+76,2013,ADMU,FEU,75,79,1,0.6035,"Pace, joint",preseason,0
+76,2013,FEU,ADMU,73,92,2,0.3915,"Pace, joint",preseason,0
+76,2013,ADMU,NU,54,64,1,0.609,"Pace, joint",preseason,0
+76,2013,NU,ADMU,70,65,2,0.397,"Pace, joint",preseason,0
+76,2013,ADMU,UE,68,72,1,0.80275,"Pace, joint",preseason,0
+76,2013,UE,ADMU,72,77,2,0.18675,"Pace, joint",preseason,0
+76,2013,ADMU,UP,72,64,1,0.73,"Pace, joint",preseason,0
+76,2013,UP,ADMU,59,67,2,0.27475,"Pace, joint",preseason,0
+76,2013,ADMU,UST,61,57,1,0.649,"Pace, joint",preseason,0
+76,2013,UST,ADMU,82,74,2,0.369,"Pace, joint",preseason,0
+76,2013,DLSU,FEU,79,83,1,0.5025,"Pace, joint",preseason,0
+76,2013,FEU,DLSU,66,75,2,0.5165,"Pace, joint",preseason,0
+76,2013,DLSU,NU,56,63,1,0.4785,"Pace, joint",preseason,0
+76,2013,NU,DLSU,55,57,2,0.506,"Pace, joint",preseason,0
+76,2013,DLSU,UE,83,85,1,0.71925,"Pace, joint",preseason,0
+76,2013,UE,DLSU,65,75,2,0.2755,"Pace, joint",preseason,0
+76,2013,DLSU,UP,96,84,1,0.6055,"Pace, joint",preseason,0
+76,2013,UP,DLSU,63,85,2,0.37275,"Pace, joint",preseason,0
+76,2013,DLSU,UST,58,63,1,0.5195,"Pace, joint",preseason,0
+76,2013,UST,DLSU,64,69,2,0.484,"Pace, joint",preseason,0
+76,2013,FEU,NU,87,83,1,0.4985,"Pace, joint",preseason,0
+76,2013,NU,FEU,59,58,2,0.4935,"Pace, joint",preseason,0
+76,2013,FEU,UE,89,78,1,0.729,"Pace, joint",preseason,0
+76,2013,UE,FEU,94,98,2,0.26575,"Pace, joint",preseason,0
+76,2013,FEU,UP,75,57,1,0.63825,"Pace, joint",preseason,0
+76,2013,UP,FEU,69,87,2,0.37225,"Pace, joint",preseason,0
+76,2013,FEU,UST,77,67,1,0.5355,"Pace, joint",preseason,0
+76,2013,UST,FEU,79,78,2,0.47825,"Pace, joint",preseason,0
+76,2013,NU,UE,67,71,1,0.74075,"Pace, joint",preseason,0
+76,2013,UE,NU,73,81,2,0.279,"Pace, joint",preseason,0
+76,2013,NU,UP,74,60,1,0.635,"Pace, joint",preseason,0
+76,2013,UP,NU,62,79,2,0.3705,"Pace, joint",preseason,0
+76,2013,NU,UST,71,67,1,0.52375,"Pace, joint",preseason,0
+76,2013,UST,NU,61,75,2,0.474,"Pace, joint",preseason,0
+76,2013,UE,UP,62,57,1,0.39,"Pace, joint",preseason,0
+76,2013,UP,UE,73,76,2,0.61225,"Pace, joint",preseason,0
+76,2013,UE,UST,77,88,1,0.29325,"Pace, joint",preseason,0
+76,2013,UST,UE,67,68,2,0.704,"Pace, joint",preseason,0
+76,2013,UP,UST,69,79,1,0.39,"Pace, joint",preseason,0
+76,2013,UST,UP,63,39,2,0.61425,"Pace, joint",preseason,0
+77,2014,ADMU,AdU,67,52,2,0.94525,"Poisson, one season",halfway,0
+77,2014,DLSU,AdU,66,57,2,0.94375,"Poisson, one season",halfway,0
+77,2014,FEU,AdU,90,73,2,0.93525,"Poisson, one season",halfway,0
+77,2014,NU,AdU,71,50,2,0.95,"Poisson, one season",halfway,0
+77,2014,UE,AdU,72,59,2,0.9555,"Poisson, one season",halfway,0
+77,2014,UP,AdU,63,67,2,0.6905,"Poisson, one season",halfway,0
+77,2014,UST,AdU,61,59,2,0.82725,"Poisson, one season",halfway,0
+77,2014,DLSU,ADMU,88,86,2,0.4895,"Poisson, one season",halfway,0
+77,2014,FEU,ADMU,64,68,2,0.49025,"Poisson, one season",halfway,0
+77,2014,NU,ADMU,76,66,2,0.57175,"Poisson, one season",halfway,0
+77,2014,UE,ADMU,73,78,2,0.5145,"Poisson, one season",halfway,0
+77,2014,UP,ADMU,69,70,2,0.109,"Poisson, one season",halfway,0
+77,2014,UST,ADMU,58,69,2,0.2565,"Poisson, one season",halfway,0
+77,2014,FEU,DLSU,74,70,2,0.493,"Poisson, one season",halfway,0
+77,2014,NU,DLSU,56,68,2,0.594,"Poisson, one season",halfway,0
+77,2014,UE,DLSU,68,66,2,0.5335,"Poisson, one season",halfway,0
+77,2014,UP,DLSU,65,86,2,0.11425,"Poisson, one season",halfway,0
+77,2014,UST,DLSU,60,67,2,0.27425,"Poisson, one season",halfway,0
+77,2014,NU,FEU,70,74,2,0.59525,"Poisson, one season",halfway,0
+77,2014,UE,FEU,94,71,2,0.52525,"Poisson, one season",halfway,0
+77,2014,UP,FEU,69,75,2,0.12325,"Poisson, one season",halfway,0
+77,2014,UST,FEU,55,66,2,0.27025,"Poisson, one season",halfway,0
+77,2014,UE,NU,64,55,2,0.44125,"Poisson, one season",halfway,0
+77,2014,UP,NU,51,66,2,0.099,"Poisson, one season",halfway,0
+77,2014,UST,NU,64,75,2,0.21575,"Poisson, one season",halfway,0
+77,2014,UP,UE,48,68,2,0.1105,"Poisson, one season",halfway,0
+77,2014,UST,UE,73,78,2,0.26275,"Poisson, one season",halfway,0
+77,2014,UST,UP,77,65,2,0.6925,"Poisson, one season",halfway,0
+77,2014,ADMU,AdU,67,52,2,0.97125,"Pace, one season",halfway,0
+77,2014,DLSU,AdU,66,57,2,0.947,"Pace, one season",halfway,0
+77,2014,FEU,AdU,90,73,2,0.9595,"Pace, one season",halfway,0
+77,2014,NU,AdU,71,50,2,0.953,"Pace, one season",halfway,0
+77,2014,UE,AdU,72,59,2,0.96375,"Pace, one season",halfway,0
+77,2014,UP,AdU,63,67,2,0.69775,"Pace, one season",halfway,0
+77,2014,UST,AdU,61,59,2,0.84625,"Pace, one season",halfway,0
+77,2014,DLSU,ADMU,88,86,2,0.43,"Pace, one season",halfway,0
+77,2014,FEU,ADMU,64,68,2,0.464,"Pace, one season",halfway,0
+77,2014,NU,ADMU,76,66,2,0.53175,"Pace, one season",halfway,0
+77,2014,UE,ADMU,73,78,2,0.489,"Pace, one season",halfway,0
+77,2014,UP,ADMU,69,70,2,0.076,"Pace, one season",halfway,0
+77,2014,UST,ADMU,58,69,2,0.2195,"Pace, one season",halfway,0
+77,2014,FEU,DLSU,74,70,2,0.5235,"Pace, one season",halfway,0
+77,2014,NU,DLSU,56,68,2,0.5935,"Pace, one season",halfway,0
+77,2014,UE,DLSU,68,66,2,0.53925,"Pace, one season",halfway,0
+77,2014,UP,DLSU,65,86,2,0.0995,"Pace, one season",halfway,0
+77,2014,UST,DLSU,60,67,2,0.2705,"Pace, one season",halfway,0
+77,2014,NU,FEU,70,74,2,0.55425,"Pace, one season",halfway,0
+77,2014,UE,FEU,94,71,2,0.52175,"Pace, one season",halfway,0
+77,2014,UP,FEU,69,75,2,0.09575,"Pace, one season",halfway,0
+77,2014,UST,FEU,55,66,2,0.23525,"Pace, one season",halfway,0
+77,2014,UE,NU,64,55,2,0.4505,"Pace, one season",halfway,0
+77,2014,UP,NU,51,66,2,0.1,"Pace, one season",halfway,0
+77,2014,UST,NU,64,75,2,0.23125,"Pace, one season",halfway,0
+77,2014,UP,UE,48,68,2,0.08575,"Pace, one season",halfway,0
+77,2014,UST,UE,73,78,2,0.237,"Pace, one season",halfway,0
+77,2014,UST,UP,77,65,2,0.728,"Pace, one season",halfway,0
+77,2014,ADMU,AdU,67,52,2,0.93875,"Pace, joint",halfway,0
+77,2014,DLSU,AdU,66,57,2,0.925,"Pace, joint",halfway,0
+77,2014,FEU,AdU,90,73,2,0.93375,"Pace, joint",halfway,0
+77,2014,NU,AdU,71,50,2,0.93425,"Pace, joint",halfway,0
+77,2014,UE,AdU,72,59,2,0.92575,"Pace, joint",halfway,0
+77,2014,UP,AdU,63,67,2,0.58175,"Pace, joint",halfway,0
+77,2014,UST,AdU,61,59,2,0.81175,"Pace, joint",halfway,0
+77,2014,DLSU,ADMU,88,86,2,0.48025,"Pace, joint",halfway,0
+77,2014,FEU,ADMU,64,68,2,0.47625,"Pace, joint",halfway,0
+77,2014,NU,ADMU,76,66,2,0.57075,"Pace, joint",halfway,0
+77,2014,UE,ADMU,73,78,2,0.47225,"Pace, joint",halfway,0
+77,2014,UP,ADMU,69,70,2,0.086,"Pace, joint",halfway,0
+77,2014,UST,ADMU,58,69,2,0.29125,"Pace, joint",halfway,0
+77,2014,FEU,DLSU,74,70,2,0.49725,"Pace, joint",halfway,0
+77,2014,NU,DLSU,56,68,2,0.5975,"Pace, joint",halfway,0
+77,2014,UE,DLSU,68,66,2,0.484,"Pace, joint",halfway,0
+77,2014,UP,DLSU,65,86,2,0.095,"Pace, joint",halfway,0
+77,2014,UST,DLSU,60,67,2,0.311,"Pace, joint",halfway,0
+77,2014,NU,FEU,70,74,2,0.59175,"Pace, joint",halfway,0
+77,2014,UE,FEU,94,71,2,0.49275,"Pace, joint",halfway,0
+77,2014,UP,FEU,69,75,2,0.085,"Pace, joint",halfway,0
+77,2014,UST,FEU,55,66,2,0.3065,"Pace, joint",halfway,0
+77,2014,UE,NU,64,55,2,0.405,"Pace, joint",halfway,0
+77,2014,UP,NU,51,66,2,0.079,"Pace, joint",halfway,0
+77,2014,UST,NU,64,75,2,0.262,"Pace, joint",halfway,0
+77,2014,UP,UE,48,68,2,0.0975,"Pace, joint",halfway,0
+77,2014,UST,UE,73,78,2,0.31975,"Pace, joint",halfway,0
+77,2014,UST,UP,77,65,2,0.7665,"Pace, joint",halfway,0
+77,2014,AdU,ADMU,57,79,1,0.366,"Pace, joint",preseason,0
+77,2014,ADMU,AdU,67,52,2,0.6375,"Pace, joint",preseason,0
+77,2014,AdU,DLSU,48,67,1,0.37225,"Pace, joint",preseason,0
+77,2014,DLSU,AdU,66,57,2,0.6355,"Pace, joint",preseason,0
+77,2014,AdU,FEU,62,71,1,0.3715,"Pace, joint",preseason,0
+77,2014,FEU,AdU,90,73,2,0.62575,"Pace, joint",preseason,0
+77,2014,AdU,NU,25,62,1,0.3195,"Pace, joint",preseason,0
+77,2014,NU,AdU,71,50,2,0.67525,"Pace, joint",preseason,0
+77,2014,AdU,UE,72,99,1,0.46575,"Pace, joint",preseason,0
+77,2014,UE,AdU,72,59,2,0.52325,"Pace, joint",preseason,0
+77,2014,AdU,UP,64,77,1,0.598,"Pace, joint",preseason,0
+77,2014,UP,AdU,63,67,2,0.38375,"Pace, joint",preseason,0
+77,2014,AdU,UST,49,50,1,0.37375,"Pace, joint",preseason,0
+77,2014,UST,AdU,61,59,2,0.6245,"Pace, joint",preseason,0
+77,2014,ADMU,DLSU,97,86,1,0.499,"Pace, joint",preseason,0
+77,2014,DLSU,ADMU,88,86,2,0.49525,"Pace, joint",preseason,0
+77,2014,ADMU,FEU,81,78,1,0.50775,"Pace, joint",preseason,0
+77,2014,FEU,ADMU,64,68,2,0.4815,"Pace, joint",preseason,0
+77,2014,ADMU,NU,60,64,1,0.44725,"Pace, joint",preseason,0
+77,2014,NU,ADMU,76,66,2,0.55775,"Pace, joint",preseason,0
+77,2014,ADMU,UE,93,91,1,0.607,"Pace, joint",preseason,0
+77,2014,UE,ADMU,73,78,2,0.40075,"Pace, joint",preseason,0
+77,2014,ADMU,UP,86,75,1,0.731,"Pace, joint",preseason,0
+77,2014,UP,ADMU,69,70,2,0.2715,"Pace, joint",preseason,0
+77,2014,ADMU,UST,63,61,1,0.514,"Pace, joint",preseason,0
+77,2014,UST,ADMU,58,69,2,0.4955,"Pace, joint",preseason,0
+77,2014,DLSU,FEU,77,82,1,0.525,"Pace, joint",preseason,0
+77,2014,FEU,DLSU,74,70,2,0.49,"Pace, joint",preseason,0
+77,2014,DLSU,NU,57,55,1,0.45475,"Pace, joint",preseason,0
+77,2014,NU,DLSU,56,68,2,0.55725,"Pace, joint",preseason,0
+77,2014,DLSU,UE,60,58,1,0.6145,"Pace, joint",preseason,0
+77,2014,UE,DLSU,68,66,2,0.38175,"Pace, joint",preseason,0
+77,2014,DLSU,UP,74,53,1,0.73425,"Pace, joint",preseason,0
+77,2014,UP,DLSU,65,86,2,0.27525,"Pace, joint",preseason,0
+77,2014,DLSU,UST,83,70,1,0.52275,"Pace, joint",preseason,0
+77,2014,UST,DLSU,60,67,2,0.49725,"Pace, joint",preseason,0
+77,2014,FEU,NU,71,62,1,0.44275,"Pace, joint",preseason,0
+77,2014,NU,FEU,70,74,2,0.56775,"Pace, joint",preseason,0
+77,2014,FEU,UE,73,63,1,0.607,"Pace, joint",preseason,0
+77,2014,UE,FEU,94,71,2,0.40625,"Pace, joint",preseason,0
+77,2014,FEU,UP,85,71,1,0.727,"Pace, joint",preseason,0
+77,2014,UP,FEU,69,75,2,0.277,"Pace, joint",preseason,0
+77,2014,FEU,UST,67,69,1,0.51225,"Pace, joint",preseason,0
+77,2014,UST,FEU,55,66,2,0.4935,"Pace, joint",preseason,0
+77,2014,NU,UE,57,55,1,0.64325,"Pace, joint",preseason,0
+77,2014,UE,NU,64,55,2,0.34125,"Pace, joint",preseason,0
+77,2014,NU,UP,70,59,1,0.77125,"Pace, joint",preseason,0
+77,2014,UP,NU,51,66,2,0.24725,"Pace, joint",preseason,0
+77,2014,NU,UST,59,40,1,0.55125,"Pace, joint",preseason,0
+77,2014,UST,NU,64,75,2,0.43475,"Pace, joint",preseason,0
+77,2014,UE,UP,87,59,1,0.65125,"Pace, joint",preseason,0
+77,2014,UP,UE,48,68,2,0.35525,"Pace, joint",preseason,0
+77,2014,UE,UST,72,62,1,0.399,"Pace, joint",preseason,0
+77,2014,UST,UE,73,78,2,0.604,"Pace, joint",preseason,0
+77,2014,UP,UST,57,73,1,0.2855,"Pace, joint",preseason,0
+77,2014,UST,UP,77,65,2,0.721,"Pace, joint",preseason,0
+78,2015,ADMU,AdU,87,72,2,0.73325,"Poisson, one season",halfway,0
+78,2015,DLSU,AdU,74,75,2,0.7005,"Poisson, one season",halfway,0
+78,2015,FEU,AdU,82,69,2,0.86925,"Poisson, one season",halfway,0
+78,2015,NU,AdU,85,79,2,0.75475,"Poisson, one season",halfway,0
+78,2015,UE,AdU,71,74,2,0.66375,"Poisson, one season",halfway,0
+78,2015,UP,AdU,89,84,2,0.56225,"Poisson, one season",halfway,0
+78,2015,UST,AdU,78,63,2,0.8165,"Poisson, one season",halfway,0
+78,2015,DLSU,ADMU,62,73,2,0.453,"Poisson, one season",halfway,0
+78,2015,FEU,ADMU,66,61,2,0.679,"Poisson, one season",halfway,0
+78,2015,NU,ADMU,59,68,2,0.54875,"Poisson, one season",halfway,0
+78,2015,UE,ADMU,74,69,2,0.41,"Poisson, one season",halfway,0
+78,2015,UP,ADMU,65,74,2,0.333,"Poisson, one season",halfway,0
+78,2015,UST,ADMU,74,80,2,0.60425,"Poisson, one season",halfway,0
+78,2015,FEU,DLSU,71,68,2,0.7295,"Poisson, one season",halfway,0
+78,2015,NU,DLSU,81,73,2,0.59825,"Poisson, one season",halfway,0
+78,2015,UE,DLSU,64,72,2,0.47775,"Poisson, one season",halfway,0
+78,2015,UP,DLSU,68,72,2,0.3765,"Poisson, one season",halfway,0
+78,2015,UST,DLSU,81,79,2,0.63925,"Poisson, one season",halfway,0
+78,2015,NU,FEU,70,68,2,0.359,"Poisson, one season",halfway,0
+78,2015,UE,FEU,67,71,2,0.23425,"Poisson, one season",halfway,0
+78,2015,UP,FEU,57,68,2,0.177,"Poisson, one season",halfway,0
+78,2015,UST,FEU,85,76,2,0.41325,"Poisson, one season",halfway,0
+78,2015,UE,NU,52,47,2,0.38,"Poisson, one season",halfway,0
+78,2015,UP,NU,69,75,2,0.29075,"Poisson, one season",halfway,0
+78,2015,UST,NU,65,57,2,0.55925,"Poisson, one season",halfway,0
+78,2015,UP,UE,67,79,2,0.41225,"Poisson, one season",halfway,0
+78,2015,UST,UE,77,91,2,0.678,"Poisson, one season",halfway,0
+78,2015,UST,UP,83,76,2,0.7425,"Poisson, one season",halfway,0
+78,2015,ADMU,AdU,87,72,2,0.7785,"Pace, one season",halfway,0
+78,2015,DLSU,AdU,74,75,2,0.73875,"Pace, one season",halfway,0
+78,2015,FEU,AdU,82,69,2,0.9065,"Pace, one season",halfway,0
+78,2015,NU,AdU,85,79,2,0.814,"Pace, one season",halfway,0
+78,2015,UE,AdU,71,74,2,0.71925,"Pace, one season",halfway,0
+78,2015,UP,AdU,89,84,2,0.6005,"Pace, one season",halfway,0
+78,2015,UST,AdU,78,63,2,0.86325,"Pace, one season",halfway,0
+78,2015,DLSU,ADMU,62,73,2,0.46575,"Pace, one season",halfway,0
+78,2015,FEU,ADMU,66,61,2,0.7415,"Pace, one season",halfway,0
+78,2015,NU,ADMU,59,68,2,0.546,"Pace, one season",halfway,0
+78,2015,UE,ADMU,74,69,2,0.4145,"Pace, one season",halfway,0
+78,2015,UP,ADMU,65,74,2,0.30825,"Pace, one season",halfway,0
+78,2015,UST,ADMU,74,80,2,0.645,"Pace, one season",halfway,0
+78,2015,FEU,DLSU,71,68,2,0.783,"Pace, one season",halfway,0
+78,2015,NU,DLSU,81,73,2,0.595,"Pace, one season",halfway,0
+78,2015,UE,DLSU,64,72,2,0.44575,"Pace, one season",halfway,0
+78,2015,UP,DLSU,68,72,2,0.349,"Pace, one season",halfway,0
+78,2015,UST,DLSU,81,79,2,0.686,"Pace, one season",halfway,0
+78,2015,NU,FEU,70,68,2,0.31325,"Pace, one season",halfway,0
+78,2015,UE,FEU,67,71,2,0.18525,"Pace, one season",halfway,0
+78,2015,UP,FEU,57,68,2,0.1515,"Pace, one season",halfway,0
+78,2015,UST,FEU,85,76,2,0.4175,"Pace, one season",halfway,0
+78,2015,UE,NU,52,47,2,0.36925,"Pace, one season",halfway,0
+78,2015,UP,NU,69,75,2,0.27975,"Pace, one season",halfway,0
+78,2015,UST,NU,65,57,2,0.58675,"Pace, one season",halfway,0
+78,2015,UP,UE,67,79,2,0.39325,"Pace, one season",halfway,0
+78,2015,UST,UE,77,91,2,0.73325,"Pace, one season",halfway,0
+78,2015,UST,UP,83,76,2,0.78825,"Pace, one season",halfway,0
+78,2015,ADMU,AdU,87,72,2,0.8495,"Pace, joint",halfway,0
+78,2015,DLSU,AdU,74,75,2,0.8115,"Pace, joint",halfway,0
+78,2015,FEU,AdU,82,69,2,0.94775,"Pace, joint",halfway,0
+78,2015,NU,AdU,85,79,2,0.8795,"Pace, joint",halfway,0
+78,2015,UE,AdU,71,74,2,0.822,"Pace, joint",halfway,0
+78,2015,UP,AdU,89,84,2,0.615,"Pace, joint",halfway,0
+78,2015,UST,AdU,78,63,2,0.8785,"Pace, joint",halfway,0
+78,2015,DLSU,ADMU,62,73,2,0.448,"Pace, joint",halfway,0
+78,2015,FEU,ADMU,66,61,2,0.73325,"Pace, joint",halfway,0
+78,2015,NU,ADMU,59,68,2,0.56275,"Pace, joint",halfway,0
+78,2015,UE,ADMU,74,69,2,0.408,"Pace, joint",halfway,0
+78,2015,UP,ADMU,65,74,2,0.2285,"Pace, joint",halfway,0
+78,2015,UST,ADMU,74,80,2,0.56575,"Pace, joint",halfway,0
+78,2015,FEU,DLSU,71,68,2,0.7695,"Pace, joint",halfway,0
+78,2015,NU,DLSU,81,73,2,0.605,"Pace, joint",halfway,0
+78,2015,UE,DLSU,64,72,2,0.477,"Pace, joint",halfway,0
+78,2015,UP,DLSU,68,72,2,0.2525,"Pace, joint",halfway,0
+78,2015,UST,DLSU,81,79,2,0.63575,"Pace, joint",halfway,0
+78,2015,NU,FEU,70,68,2,0.3435,"Pace, joint",halfway,0
+78,2015,UE,FEU,67,71,2,0.20125,"Pace, joint",halfway,0
+78,2015,UP,FEU,57,68,2,0.09,"Pace, joint",halfway,0
+78,2015,UST,FEU,85,76,2,0.36025,"Pace, joint",halfway,0
+78,2015,UE,NU,52,47,2,0.356,"Pace, joint",halfway,0
+78,2015,UP,NU,69,75,2,0.2015,"Pace, joint",halfway,0
+78,2015,UST,NU,65,57,2,0.5105,"Pace, joint",halfway,0
+78,2015,UP,UE,67,79,2,0.286,"Pace, joint",halfway,0
+78,2015,UST,UE,77,91,2,0.654,"Pace, joint",halfway,0
+78,2015,UST,UP,83,76,2,0.80425,"Pace, joint",halfway,0
+78,2015,AdU,ADMU,60,84,1,0.222,"Pace, joint",preseason,0
+78,2015,ADMU,AdU,87,72,2,0.78375,"Pace, joint",preseason,0
+78,2015,AdU,DLSU,71,88,1,0.2,"Pace, joint",preseason,0
+78,2015,DLSU,AdU,74,75,2,0.79175,"Pace, joint",preseason,0
+78,2015,AdU,FEU,60,64,1,0.225,"Pace, joint",preseason,0
+78,2015,FEU,AdU,82,69,2,0.75625,"Pace, joint",preseason,0
+78,2015,AdU,NU,54,75,1,0.20475,"Pace, joint",preseason,0
+78,2015,NU,AdU,85,79,2,0.8015,"Pace, joint",preseason,0
+78,2015,AdU,UE,78,89,1,0.20675,"Pace, joint",preseason,0
+78,2015,UE,AdU,71,74,2,0.79525,"Pace, joint",preseason,0
+78,2015,AdU,UP,73,68,1,0.48575,"Pace, joint",preseason,0
+78,2015,UP,AdU,89,84,2,0.5205,"Pace, joint",preseason,0
+78,2015,AdU,UST,64,70,1,0.31775,"Pace, joint",preseason,0
+78,2015,UST,AdU,78,63,2,0.68,"Pace, joint",preseason,0
+78,2015,ADMU,DLSU,76,80,1,0.477,"Pace, joint",preseason,0
+78,2015,DLSU,ADMU,62,73,2,0.50025,"Pace, joint",preseason,0
+78,2015,ADMU,FEU,64,88,1,0.522,"Pace, joint",preseason,0
+78,2015,FEU,ADMU,66,61,2,0.47325,"Pace, joint",preseason,0
+78,2015,ADMU,NU,74,70,1,0.4615,"Pace, joint",preseason,0
+78,2015,NU,ADMU,59,68,2,0.53525,"Pace, joint",preseason,0
+78,2015,ADMU,UE,77,72,1,0.47425,"Pace, joint",preseason,0
+78,2015,UE,ADMU,74,69,2,0.52775,"Pace, joint",preseason,0
+78,2015,ADMU,UP,56,43,1,0.771,"Pace, joint",preseason,0
+78,2015,UP,ADMU,65,74,2,0.2335,"Pace, joint",preseason,0
+78,2015,ADMU,UST,58,68,1,0.6315,"Pace, joint",preseason,0
+78,2015,UST,ADMU,74,80,2,0.37275,"Pace, joint",preseason,0
+78,2015,DLSU,FEU,75,93,1,0.542,"Pace, joint",preseason,0
+78,2015,FEU,DLSU,71,68,2,0.469,"Pace, joint",preseason,0
+78,2015,DLSU,NU,67,63,1,0.4815,"Pace, joint",preseason,0
+78,2015,NU,DLSU,81,73,2,0.53375,"Pace, joint",preseason,0
+78,2015,DLSU,UE,71,64,1,0.488,"Pace, joint",preseason,0
+78,2015,UE,DLSU,64,72,2,0.49925,"Pace, joint",preseason,0
+78,2015,DLSU,UP,66,71,1,0.7865,"Pace, joint",preseason,0
+78,2015,UP,DLSU,68,72,2,0.22525,"Pace, joint",preseason,0
+78,2015,DLSU,UST,61,77,1,0.639,"Pace, joint",preseason,0
+78,2015,UST,DLSU,81,79,2,0.36625,"Pace, joint",preseason,0
+78,2015,FEU,NU,61,59,1,0.4455,"Pace, joint",preseason,0
+78,2015,NU,FEU,70,68,2,0.55925,"Pace, joint",preseason,0
+78,2015,FEU,UE,92,81,1,0.43375,"Pace, joint",preseason,0
+78,2015,UE,FEU,67,71,2,0.557,"Pace, joint",preseason,0
+78,2015,FEU,UP,75,58,1,0.75275,"Pace, joint",preseason,0
+78,2015,UP,FEU,57,68,2,0.24675,"Pace, joint",preseason,0
+78,2015,FEU,UST,71,72,1,0.608,"Pace, joint",preseason,0
+78,2015,UST,FEU,85,76,2,0.399,"Pace, joint",preseason,0
+78,2015,NU,UE,71,76,1,0.51825,"Pace, joint",preseason,0
+78,2015,UE,NU,52,47,2,0.492,"Pace, joint",preseason,0
+78,2015,NU,UP,68,52,1,0.7755,"Pace, joint",preseason,0
+78,2015,UP,NU,69,75,2,0.20475,"Pace, joint",preseason,0
+78,2015,NU,UST,55,54,1,0.646,"Pace, joint",preseason,0
+78,2015,UST,NU,65,57,2,0.3565,"Pace, joint",preseason,0
+78,2015,UE,UP,55,62,1,0.7965,"Pace, joint",preseason,0
+78,2015,UP,UE,67,79,2,0.19925,"Pace, joint",preseason,0
+78,2015,UE,UST,76,83,1,0.64675,"Pace, joint",preseason,0
+78,2015,UST,UE,77,91,2,0.34775,"Pace, joint",preseason,0
+78,2015,UP,UST,59,67,1,0.3415,"Pace, joint",preseason,0
+78,2015,UST,UP,83,76,2,0.66,"Pace, joint",preseason,0
+79,2016,ADMU,AdU,73,67,2,0.4565,"Poisson, one season",halfway,0
+79,2016,DLSU,AdU,86,79,2,0.71925,"Poisson, one season",halfway,0
+79,2016,FEU,AdU,59,61,2,0.473,"Poisson, one season",halfway,0
+79,2016,NU,AdU,53,77,2,0.4535,"Poisson, one season",halfway,0
+79,2016,UE,AdU,71,79,2,0.3655,"Poisson, one season",halfway,0
+79,2016,UP,AdU,70,66,2,0.28825,"Poisson, one season",halfway,0
+79,2016,UST,AdU,61,76,2,0.272,"Poisson, one season",halfway,0
+79,2016,DLSU,ADMU,71,83,2,0.7595,"Poisson, one season",halfway,0
+79,2016,FEU,ADMU,59,74,2,0.498,"Poisson, one season",halfway,0
+79,2016,NU,ADMU,50,65,2,0.472,"Poisson, one season",halfway,0
+79,2016,UE,ADMU,61,75,2,0.363,"Poisson, one season",halfway,0
+79,2016,UP,ADMU,56,52,2,0.302,"Poisson, one season",halfway,0
+79,2016,UST,ADMU,64,74,2,0.291,"Poisson, one season",halfway,0
+79,2016,FEU,DLSU,67,73,2,0.2475,"Poisson, one season",halfway,0
+79,2016,NU,DLSU,88,113,2,0.2365,"Poisson, one season",halfway,0
+79,2016,UE,DLSU,66,95,2,0.1675,"Poisson, one season",halfway,0
+79,2016,UP,DLSU,72,78,2,0.107,"Poisson, one season",halfway,0
+79,2016,UST,DLSU,56,99,2,0.10975,"Poisson, one season",halfway,0
+79,2016,NU,FEU,56,57,2,0.46275,"Poisson, one season",halfway,0
+79,2016,UE,FEU,61,64,2,0.38875,"Poisson, one season",halfway,0
+79,2016,UP,FEU,60,63,2,0.307,"Poisson, one season",halfway,0
+79,2016,UST,FEU,48,59,2,0.28375,"Poisson, one season",halfway,0
+79,2016,UE,NU,52,64,2,0.4165,"Poisson, one season",halfway,0
+79,2016,UP,NU,71,66,2,0.335,"Poisson, one season",halfway,0
+79,2016,UST,NU,73,69,2,0.32525,"Poisson, one season",halfway,0
+79,2016,UP,UE,67,80,2,0.41625,"Poisson, one season",halfway,0
+79,2016,UST,UE,61,71,2,0.407,"Poisson, one season",halfway,0
+79,2016,UST,UP,69,75,2,0.476,"Poisson, one season",halfway,0
+79,2016,ADMU,AdU,73,67,2,0.454,"Pace, one season",halfway,0
+79,2016,DLSU,AdU,86,79,2,0.787,"Pace, one season",halfway,0
+79,2016,FEU,AdU,59,61,2,0.487,"Pace, one season",halfway,0
+79,2016,NU,AdU,53,77,2,0.42525,"Pace, one season",halfway,0
+79,2016,UE,AdU,71,79,2,0.29625,"Pace, one season",halfway,0
+79,2016,UP,AdU,70,66,2,0.19975,"Pace, one season",halfway,0
+79,2016,UST,AdU,61,76,2,0.1815,"Pace, one season",halfway,0
+79,2016,DLSU,ADMU,71,83,2,0.8165,"Pace, one season",halfway,0
+79,2016,FEU,ADMU,59,74,2,0.534,"Pace, one season",halfway,0
+79,2016,NU,ADMU,50,65,2,0.478,"Pace, one season",halfway,0
+79,2016,UE,ADMU,61,75,2,0.3275,"Pace, one season",halfway,0
+79,2016,UP,ADMU,56,52,2,0.235,"Pace, one season",halfway,0
+79,2016,UST,ADMU,64,74,2,0.21,"Pace, one season",halfway,0
+79,2016,FEU,DLSU,67,73,2,0.2095,"Pace, one season",halfway,0
+79,2016,NU,DLSU,88,113,2,0.172,"Pace, one season",halfway,0
+79,2016,UE,DLSU,66,95,2,0.098,"Pace, one season",halfway,0
+79,2016,UP,DLSU,72,78,2,0.05825,"Pace, one season",halfway,0
+79,2016,UST,DLSU,56,99,2,0.05325,"Pace, one season",halfway,0
+79,2016,NU,FEU,56,57,2,0.4625,"Pace, one season",halfway,0
+79,2016,UE,FEU,61,64,2,0.30125,"Pace, one season",halfway,0
+79,2016,UP,FEU,60,63,2,0.21575,"Pace, one season",halfway,0
+79,2016,UST,FEU,48,59,2,0.21225,"Pace, one season",halfway,0
+79,2016,UE,NU,52,64,2,0.3395,"Pace, one season",halfway,0
+79,2016,UP,NU,71,66,2,0.247,"Pace, one season",halfway,0
+79,2016,UST,NU,73,69,2,0.238,"Pace, one season",halfway,0
+79,2016,UP,UE,67,80,2,0.388,"Pace, one season",halfway,0
+79,2016,UST,UE,61,71,2,0.367,"Pace, one season",halfway,0
+79,2016,UST,UP,69,75,2,0.4795,"Pace, one season",halfway,0
+79,2016,ADMU,AdU,73,67,2,0.5365,"Pace, joint",halfway,0
+79,2016,DLSU,AdU,86,79,2,0.79775,"Pace, joint",halfway,0
+79,2016,FEU,AdU,59,61,2,0.57,"Pace, joint",halfway,0
+79,2016,NU,AdU,53,77,2,0.534,"Pace, joint",halfway,0
+79,2016,UE,AdU,71,79,2,0.3635,"Pace, joint",halfway,0
+79,2016,UP,AdU,70,66,2,0.20425,"Pace, joint",halfway,0
+79,2016,UST,AdU,61,76,2,0.2445,"Pace, joint",halfway,0
+79,2016,DLSU,ADMU,71,83,2,0.78675,"Pace, joint",halfway,0
+79,2016,FEU,ADMU,59,74,2,0.56275,"Pace, joint",halfway,0
+79,2016,NU,ADMU,50,65,2,0.4855,"Pace, joint",halfway,0
+79,2016,UE,ADMU,61,75,2,0.32325,"Pace, joint",halfway,0
+79,2016,UP,ADMU,56,52,2,0.194,"Pace, joint",halfway,0
+79,2016,UST,ADMU,64,74,2,0.2115,"Pace, joint",halfway,0
+79,2016,FEU,DLSU,67,73,2,0.264,"Pace, joint",halfway,0
+79,2016,NU,DLSU,88,113,2,0.2305,"Pace, joint",halfway,0
+79,2016,UE,DLSU,66,95,2,0.0965,"Pace, joint",halfway,0
+79,2016,UP,DLSU,72,78,2,0.04625,"Pace, joint",halfway,0
+79,2016,UST,DLSU,56,99,2,0.057,"Pace, joint",halfway,0
+79,2016,NU,FEU,56,57,2,0.436,"Pace, joint",halfway,0
+79,2016,UE,FEU,61,64,2,0.269,"Pace, joint",halfway,0
+79,2016,UP,FEU,60,63,2,0.15325,"Pace, joint",halfway,0
+79,2016,UST,FEU,48,59,2,0.18,"Pace, joint",halfway,0
+79,2016,UE,NU,52,64,2,0.341,"Pace, joint",halfway,0
+79,2016,UP,NU,71,66,2,0.21325,"Pace, joint",halfway,0
+79,2016,UST,NU,73,69,2,0.22975,"Pace, joint",halfway,0
+79,2016,UP,UE,67,80,2,0.3375,"Pace, joint",halfway,0
+79,2016,UST,UE,61,71,2,0.37475,"Pace, joint",halfway,0
+79,2016,UST,UP,69,75,2,0.548,"Pace, joint",halfway,0
+79,2016,AdU,ADMU,62,61,1,0.27725,"Pace, joint",preseason,0
+79,2016,ADMU,AdU,73,67,2,0.71725,"Pace, joint",preseason,0
+79,2016,AdU,DLSU,75,91,1,0.3395,"Pace, joint",preseason,0
+79,2016,DLSU,AdU,86,79,2,0.6635,"Pace, joint",preseason,0
+79,2016,AdU,FEU,65,75,1,0.2345,"Pace, joint",preseason,0
+79,2016,FEU,AdU,59,61,2,0.762,"Pace, joint",preseason,0
+79,2016,AdU,NU,64,51,1,0.27775,"Pace, joint",preseason,0
+79,2016,NU,AdU,53,77,2,0.6985,"Pace, joint",preseason,0
+79,2016,AdU,UE,57,64,1,0.32,"Pace, joint",preseason,0
+79,2016,UE,AdU,71,79,2,0.68975,"Pace, joint",preseason,0
+79,2016,AdU,UP,104,85,1,0.4645,"Pace, joint",preseason,0
+79,2016,UP,AdU,70,66,2,0.5385,"Pace, joint",preseason,0
+79,2016,AdU,UST,79,52,1,0.2685,"Pace, joint",preseason,0
+79,2016,UST,AdU,61,76,2,0.73425,"Pace, joint",preseason,0
+79,2016,ADMU,DLSU,81,97,1,0.573,"Pace, joint",preseason,0
+79,2016,DLSU,ADMU,71,83,2,0.41025,"Pace, joint",preseason,0
+79,2016,ADMU,FEU,76,71,1,0.44225,"Pace, joint",preseason,0
+79,2016,FEU,ADMU,59,74,2,0.564,"Pace, joint",preseason,0
+79,2016,ADMU,NU,60,70,1,0.49625,"Pace, joint",preseason,0
+79,2016,NU,ADMU,50,65,2,0.4955,"Pace, joint",preseason,0
+79,2016,ADMU,UE,84,69,1,0.53775,"Pace, joint",preseason,0
+79,2016,UE,ADMU,61,75,2,0.459,"Pace, joint",preseason,0
+79,2016,ADMU,UP,79,64,1,0.684,"Pace, joint",preseason,0
+79,2016,UP,ADMU,56,52,2,0.3145,"Pace, joint",preseason,0
+79,2016,ADMU,UST,73,69,1,0.5015,"Pace, joint",preseason,0
+79,2016,UST,ADMU,64,74,2,0.506,"Pace, joint",preseason,0
+79,2016,DLSU,FEU,83,78,1,0.374,"Pace, joint",preseason,0
+79,2016,FEU,DLSU,67,73,2,0.6175,"Pace, joint",preseason,0
+79,2016,DLSU,NU,75,66,1,0.4375,"Pace, joint",preseason,0
+79,2016,NU,DLSU,88,113,2,0.56625,"Pace, joint",preseason,0
+79,2016,DLSU,UE,84,78,1,0.4765,"Pace, joint",preseason,0
+79,2016,UE,DLSU,66,95,2,0.5375,"Pace, joint",preseason,0
+79,2016,DLSU,UP,89,71,1,0.62525,"Pace, joint",preseason,0
+79,2016,UP,DLSU,72,78,2,0.37675,"Pace, joint",preseason,0
+79,2016,DLSU,UST,100,62,1,0.4195,"Pace, joint",preseason,0
+79,2016,UST,DLSU,56,99,2,0.572,"Pace, joint",preseason,0
+79,2016,FEU,NU,78,75,1,0.56375,"Pace, joint",preseason,0
+79,2016,NU,FEU,56,57,2,0.4465,"Pace, joint",preseason,0
+79,2016,FEU,UE,67,59,1,0.59775,"Pace, joint",preseason,0
+79,2016,UE,FEU,61,64,2,0.391,"Pace, joint",preseason,0
+79,2016,FEU,UP,51,49,1,0.72825,"Pace, joint",preseason,0
+79,2016,UP,FEU,60,63,2,0.268,"Pace, joint",preseason,0
+79,2016,FEU,UST,79,72,1,0.5635,"Pace, joint",preseason,0
+79,2016,UST,FEU,48,59,2,0.45925,"Pace, joint",preseason,0
+79,2016,NU,UE,72,66,1,0.5455,"Pace, joint",preseason,0
+79,2016,UE,NU,52,64,2,0.461,"Pace, joint",preseason,0
+79,2016,NU,UP,80,69,1,0.68775,"Pace, joint",preseason,0
+79,2016,UP,NU,71,66,2,0.3185,"Pace, joint",preseason,0
+79,2016,NU,UST,75,68,1,0.479,"Pace, joint",preseason,0
+79,2016,UST,NU,73,69,2,0.50625,"Pace, joint",preseason,0
+79,2016,UE,UP,71,75,1,0.63175,"Pace, joint",preseason,0
+79,2016,UP,UE,67,80,2,0.362,"Pace, joint",preseason,0
+79,2016,UE,UST,87,88,1,0.45225,"Pace, joint",preseason,0
+79,2016,UST,UE,61,71,2,0.55775,"Pace, joint",preseason,0
+79,2016,UP,UST,77,83,1,0.31225,"Pace, joint",preseason,0
+79,2016,UST,UP,69,75,2,0.68675,"Pace, joint",preseason,0
+80,2017,ADMU,AdU,71,59,2,0.6965,"Poisson, one season",halfway,0
+80,2017,DLSU,AdU,80,74,2,0.585,"Poisson, one season",halfway,0
+80,2017,FEU,AdU,71,54,2,0.48825,"Poisson, one season",halfway,0
+80,2017,NU,AdU,77,90,2,0.4655,"Poisson, one season",halfway,0
+80,2017,UE,AdU,57,66,2,0.25075,"Poisson, one season",halfway,0
+80,2017,UP,AdU,70,86,2,0.37775,"Poisson, one season",halfway,0
+80,2017,UST,AdU,70,75,2,0.25425,"Poisson, one season",halfway,0
+80,2017,DLSU,ADMU,79,76,2,0.352,"Poisson, one season",halfway,0
+80,2017,FEU,ADMU,59,70,2,0.273,"Poisson, one season",halfway,0
+80,2017,NU,ADMU,72,85,2,0.261,"Poisson, one season",halfway,0
+80,2017,UE,ADMU,73,97,2,0.1215,"Poisson, one season",halfway,0
+80,2017,UP,ADMU,82,96,2,0.20025,"Poisson, one season",halfway,0
+80,2017,UST,ADMU,83,102,2,0.117,"Poisson, one season",halfway,0
+80,2017,FEU,DLSU,73,75,2,0.40225,"Poisson, one season",halfway,0
+80,2017,NU,DLSU,76,101,2,0.3635,"Poisson, one season",halfway,0
+80,2017,UE,DLSU,78,99,2,0.1965,"Poisson, one season",halfway,0
+80,2017,UP,DLSU,62,85,2,0.29225,"Poisson, one season",halfway,0
+80,2017,UST,DLSU,59,94,2,0.17375,"Poisson, one season",halfway,0
+80,2017,NU,FEU,87,84,2,0.478,"Poisson, one season",halfway,0
+80,2017,UE,FEU,63,79,2,0.2665,"Poisson, one season",halfway,0
+80,2017,UP,FEU,59,56,2,0.408,"Poisson, one season",halfway,0
+80,2017,UST,FEU,70,96,2,0.26675,"Poisson, one season",halfway,0
+80,2017,UE,NU,90,77,2,0.2975,"Poisson, one season",halfway,0
+80,2017,UP,NU,106,81,2,0.41925,"Poisson, one season",halfway,0
+80,2017,UST,NU,83,91,2,0.3105,"Poisson, one season",halfway,0
+80,2017,UP,UE,64,73,2,0.6365,"Poisson, one season",halfway,0
+80,2017,UST,UE,88,85,2,0.5,"Poisson, one season",halfway,0
+80,2017,UST,UP,69,71,2,0.37575,"Poisson, one season",halfway,0
+80,2017,ADMU,AdU,71,59,2,0.738,"Pace, one season",halfway,0
+80,2017,DLSU,AdU,80,74,2,0.574,"Pace, one season",halfway,0
+80,2017,FEU,AdU,71,54,2,0.44725,"Pace, one season",halfway,0
+80,2017,NU,AdU,77,90,2,0.43875,"Pace, one season",halfway,0
+80,2017,UE,AdU,57,66,2,0.21175,"Pace, one season",halfway,0
+80,2017,UP,AdU,70,86,2,0.35275,"Pace, one season",halfway,0
+80,2017,UST,AdU,70,75,2,0.19175,"Pace, one season",halfway,0
+80,2017,DLSU,ADMU,79,76,2,0.302,"Pace, one season",halfway,0
+80,2017,FEU,ADMU,59,70,2,0.22125,"Pace, one season",halfway,0
+80,2017,NU,ADMU,72,85,2,0.1915,"Pace, one season",halfway,0
+80,2017,UE,ADMU,73,97,2,0.071,"Pace, one season",halfway,0
+80,2017,UP,ADMU,82,96,2,0.1505,"Pace, one season",halfway,0
+80,2017,UST,ADMU,83,102,2,0.0685,"Pace, one season",halfway,0
+80,2017,FEU,DLSU,73,75,2,0.374,"Pace, one season",halfway,0
+80,2017,NU,DLSU,76,101,2,0.34075,"Pace, one season",halfway,0
+80,2017,UE,DLSU,78,99,2,0.135,"Pace, one season",halfway,0
+80,2017,UP,DLSU,62,85,2,0.28625,"Pace, one season",halfway,0
+80,2017,UST,DLSU,59,94,2,0.12025,"Pace, one season",halfway,0
+80,2017,NU,FEU,87,84,2,0.45875,"Pace, one season",halfway,0
+80,2017,UE,FEU,63,79,2,0.217,"Pace, one season",halfway,0
+80,2017,UP,FEU,59,56,2,0.385,"Pace, one season",halfway,0
+80,2017,UST,FEU,70,96,2,0.204,"Pace, one season",halfway,0
+80,2017,UE,NU,90,77,2,0.24725,"Pace, one season",halfway,0
+80,2017,UP,NU,106,81,2,0.41625,"Pace, one season",halfway,0
+80,2017,UST,NU,83,91,2,0.21125,"Pace, one season",halfway,0
+80,2017,UP,UE,64,73,2,0.67175,"Pace, one season",halfway,0
+80,2017,UST,UE,88,85,2,0.49725,"Pace, one season",halfway,0
+80,2017,UST,UP,69,71,2,0.312,"Pace, one season",halfway,0
+80,2017,ADMU,AdU,71,59,2,0.754,"Pace, joint",halfway,0
+80,2017,DLSU,AdU,80,74,2,0.6,"Pace, joint",halfway,0
+80,2017,FEU,AdU,71,54,2,0.484,"Pace, joint",halfway,0
+80,2017,NU,AdU,77,90,2,0.4075,"Pace, joint",halfway,0
+80,2017,UE,AdU,57,66,2,0.17775,"Pace, joint",halfway,0
+80,2017,UP,AdU,70,86,2,0.3165,"Pace, joint",halfway,0
+80,2017,UST,AdU,70,75,2,0.1415,"Pace, joint",halfway,0
+80,2017,DLSU,ADMU,79,76,2,0.313,"Pace, joint",halfway,0
+80,2017,FEU,ADMU,59,70,2,0.22075,"Pace, joint",halfway,0
+80,2017,NU,ADMU,72,85,2,0.15575,"Pace, joint",halfway,0
+80,2017,UE,ADMU,73,97,2,0.0455,"Pace, joint",halfway,0
+80,2017,UP,ADMU,82,96,2,0.1225,"Pace, joint",halfway,0
+80,2017,UST,ADMU,83,102,2,0.037,"Pace, joint",halfway,0
+80,2017,FEU,DLSU,73,75,2,0.344,"Pace, joint",halfway,0
+80,2017,NU,DLSU,76,101,2,0.282,"Pace, joint",halfway,0
+80,2017,UE,DLSU,78,99,2,0.09475,"Pace, joint",halfway,0
+80,2017,UP,DLSU,62,85,2,0.20525,"Pace, joint",halfway,0
+80,2017,UST,DLSU,59,94,2,0.0645,"Pace, joint",halfway,0
+80,2017,NU,FEU,87,84,2,0.4345,"Pace, joint",halfway,0
+80,2017,UE,FEU,63,79,2,0.20175,"Pace, joint",halfway,0
+80,2017,UP,FEU,59,56,2,0.35225,"Pace, joint",halfway,0
+80,2017,UST,FEU,70,96,2,0.165,"Pace, joint",halfway,0
+80,2017,UE,NU,90,77,2,0.246,"Pace, joint",halfway,0
+80,2017,UP,NU,106,81,2,0.40375,"Pace, joint",halfway,0
+80,2017,UST,NU,83,91,2,0.1975,"Pace, joint",halfway,0
+80,2017,UP,UE,64,73,2,0.67575,"Pace, joint",halfway,0
+80,2017,UST,UE,88,85,2,0.45925,"Pace, joint",halfway,0
+80,2017,UST,UP,69,71,2,0.2905,"Pace, joint",halfway,0
+80,2017,AdU,ADMU,65,85,1,0.4605,"Pace, joint",preseason,0
+80,2017,ADMU,AdU,71,59,2,0.54575,"Pace, joint",preseason,0
+80,2017,AdU,DLSU,73,85,1,0.36675,"Pace, joint",preseason,0
+80,2017,DLSU,AdU,80,74,2,0.644,"Pace, joint",preseason,0
+80,2017,AdU,FEU,95,79,1,0.5045,"Pace, joint",preseason,0
+80,2017,FEU,AdU,71,54,2,0.50125,"Pace, joint",preseason,0
+80,2017,AdU,NU,83,76,1,0.58375,"Pace, joint",preseason,0
+80,2017,NU,AdU,77,90,2,0.4145,"Pace, joint",preseason,0
+80,2017,AdU,UE,79,60,1,0.626,"Pace, joint",preseason,0
+80,2017,UE,AdU,57,66,2,0.3695,"Pace, joint",preseason,0
+80,2017,AdU,UP,73,71,1,0.63025,"Pace, joint",preseason,0
+80,2017,UP,AdU,70,86,2,0.3775,"Pace, joint",preseason,0
+80,2017,AdU,UST,88,81,1,0.6965,"Pace, joint",preseason,0
+80,2017,UST,AdU,70,75,2,0.30475,"Pace, joint",preseason,0
+80,2017,ADMU,DLSU,76,75,1,0.40125,"Pace, joint",preseason,0
+80,2017,DLSU,ADMU,79,76,2,0.602,"Pace, joint",preseason,0
+80,2017,ADMU,FEU,94,82,1,0.541,"Pace, joint",preseason,0
+80,2017,FEU,ADMU,59,70,2,0.453,"Pace, joint",preseason,0
+80,2017,ADMU,NU,96,83,1,0.63525,"Pace, joint",preseason,0
+80,2017,NU,ADMU,72,85,2,0.368,"Pace, joint",preseason,0
+80,2017,ADMU,UE,83,65,1,0.6545,"Pace, joint",preseason,0
+80,2017,UE,ADMU,73,97,2,0.33725,"Pace, joint",preseason,0
+80,2017,ADMU,UP,92,71,1,0.67375,"Pace, joint",preseason,0
+80,2017,UP,ADMU,82,96,2,0.33375,"Pace, joint",preseason,0
+80,2017,ADMU,UST,94,84,1,0.7185,"Pace, joint",preseason,0
+80,2017,UST,ADMU,83,102,2,0.27575,"Pace, joint",preseason,0
+80,2017,DLSU,FEU,95,90,1,0.6475,"Pace, joint",preseason,0
+80,2017,FEU,DLSU,73,75,2,0.35675,"Pace, joint",preseason,0
+80,2017,DLSU,NU,115,109,1,0.716,"Pace, joint",preseason,0
+80,2017,NU,DLSU,76,101,2,0.2895,"Pace, joint",preseason,0
+80,2017,DLSU,UE,106,100,1,0.73025,"Pace, joint",preseason,0
+80,2017,UE,DLSU,78,99,2,0.2535,"Pace, joint",preseason,0
+80,2017,DLSU,UP,87,98,1,0.7565,"Pace, joint",preseason,0
+80,2017,UP,DLSU,62,85,2,0.244,"Pace, joint",preseason,0
+80,2017,DLSU,UST,115,86,1,0.8055,"Pace, joint",preseason,0
+80,2017,UST,DLSU,59,94,2,0.198,"Pace, joint",preseason,0
+80,2017,FEU,NU,90,83,1,0.57,"Pace, joint",preseason,0
+80,2017,NU,FEU,87,84,2,0.41975,"Pace, joint",preseason,0
+80,2017,FEU,UE,90,83,1,0.60225,"Pace, joint",preseason,0
+80,2017,UE,FEU,63,79,2,0.387,"Pace, joint",preseason,0
+80,2017,FEU,UP,78,59,1,0.63,"Pace, joint",preseason,0
+80,2017,UP,FEU,59,56,2,0.38325,"Pace, joint",preseason,0
+80,2017,FEU,UST,78,65,1,0.68425,"Pace, joint",preseason,0
+80,2017,UST,FEU,70,96,2,0.3155,"Pace, joint",preseason,0
+80,2017,NU,UE,86,69,1,0.54225,"Pace, joint",preseason,0
+80,2017,UE,NU,90,77,2,0.47025,"Pace, joint",preseason,0
+80,2017,NU,UP,77,70,1,0.52825,"Pace, joint",preseason,0
+80,2017,UP,NU,106,81,2,0.44425,"Pace, joint",preseason,0
+80,2017,NU,UST,94,84,1,0.60275,"Pace, joint",preseason,0
+80,2017,UST,NU,83,91,2,0.38875,"Pace, joint",preseason,0
+80,2017,UE,UP,71,84,1,0.50625,"Pace, joint",preseason,0
+80,2017,UP,UE,64,73,2,0.49225,"Pace, joint",preseason,0
+80,2017,UE,UST,96,91,1,0.56625,"Pace, joint",preseason,0
+80,2017,UST,UE,88,85,2,0.41075,"Pace, joint",preseason,0
+80,2017,UP,UST,74,73,1,0.56975,"Pace, joint",preseason,0
+80,2017,UST,UP,69,71,2,0.43,"Pace, joint",preseason,0
+81,2018,ADMU,AdU,62,48,2,0.7395,"Poisson, one season",halfway,0
+81,2018,DLSU,AdU,50,57,2,0.516,"Poisson, one season",halfway,0
+81,2018,FEU,AdU,82,56,2,0.48025,"Poisson, one season",halfway,0
+81,2018,NU,AdU,58,69,2,0.48175,"Poisson, one season",halfway,0
+81,2018,UE,AdU,72,85,2,0.24525,"Poisson, one season",halfway,0
+81,2018,UP,AdU,72,80,2,0.4105,"Poisson, one season",halfway,0
+81,2018,UST,AdU,83,96,2,0.354,"Poisson, one season",halfway,0
+81,2018,DLSU,ADMU,62,71,2,0.25725,"Poisson, one season",halfway,0
+81,2018,FEU,ADMU,62,82,2,0.24075,"Poisson, one season",halfway,0
+81,2018,NU,ADMU,64,79,2,0.24125,"Poisson, one season",halfway,0
+81,2018,UE,ADMU,70,90,2,0.09225,"Poisson, one season",halfway,0
+81,2018,UP,ADMU,66,83,2,0.1885,"Poisson, one season",halfway,0
+81,2018,UST,ADMU,62,102,2,0.16075,"Poisson, one season",halfway,0
+81,2018,FEU,DLSU,57,65,2,0.4665,"Poisson, one season",halfway,0
+81,2018,NU,DLSU,77,84,2,0.47025,"Poisson, one season",halfway,0
+81,2018,UE,DLSU,59,79,2,0.2495,"Poisson, one season",halfway,0
+81,2018,UP,DLSU,97,81,2,0.4075,"Poisson, one season",halfway,0
+81,2018,UST,DLSU,69,110,2,0.33925,"Poisson, one season",halfway,0
+81,2018,NU,FEU,74,79,2,0.48525,"Poisson, one season",halfway,0
+81,2018,UE,FEU,61,80,2,0.26675,"Poisson, one season",halfway,0
+81,2018,UP,FEU,95,82,2,0.439,"Poisson, one season",halfway,0
+81,2018,UST,FEU,78,70,2,0.37375,"Poisson, one season",halfway,0
+81,2018,UE,NU,71,79,2,0.2725,"Poisson, one season",halfway,0
+81,2018,UP,NU,82,71,2,0.418,"Poisson, one season",halfway,0
+81,2018,UST,NU,61,69,2,0.38225,"Poisson, one season",halfway,0
+81,2018,UP,UE,94,81,2,0.6705,"Poisson, one season",halfway,0
+81,2018,UST,UE,79,68,2,0.61175,"Poisson, one season",halfway,0
+81,2018,UST,UP,69,83,2,0.43025,"Poisson, one season",halfway,0
+81,2018,ADMU,AdU,62,48,2,0.66925,"Pace, one season",halfway,0
+81,2018,DLSU,AdU,50,57,2,0.5055,"Pace, one season",halfway,0
+81,2018,FEU,AdU,82,56,2,0.4725,"Pace, one season",halfway,0
+81,2018,NU,AdU,58,69,2,0.48075,"Pace, one season",halfway,0
+81,2018,UE,AdU,72,85,2,0.28675,"Pace, one season",halfway,0
+81,2018,UP,AdU,72,80,2,0.43,"Pace, one season",halfway,0
+81,2018,UST,AdU,83,96,2,0.39125,"Pace, one season",halfway,0
+81,2018,DLSU,ADMU,62,71,2,0.328,"Pace, one season",halfway,0
+81,2018,FEU,ADMU,62,82,2,0.31875,"Pace, one season",halfway,0
+81,2018,NU,ADMU,64,79,2,0.3135,"Pace, one season",halfway,0
+81,2018,UE,ADMU,70,90,2,0.18225,"Pace, one season",halfway,0
+81,2018,UP,ADMU,66,83,2,0.2845,"Pace, one season",halfway,0
+81,2018,UST,ADMU,62,102,2,0.2545,"Pace, one season",halfway,0
+81,2018,FEU,DLSU,57,65,2,0.4825,"Pace, one season",halfway,0
+81,2018,NU,DLSU,77,84,2,0.476,"Pace, one season",halfway,0
+81,2018,UE,DLSU,59,79,2,0.29825,"Pace, one season",halfway,0
+81,2018,UP,DLSU,97,81,2,0.456,"Pace, one season",halfway,0
+81,2018,UST,DLSU,69,110,2,0.3735,"Pace, one season",halfway,0
+81,2018,NU,FEU,74,79,2,0.4745,"Pace, one season",halfway,0
+81,2018,UE,FEU,61,80,2,0.31925,"Pace, one season",halfway,0
+81,2018,UP,FEU,95,82,2,0.451,"Pace, one season",halfway,0
+81,2018,UST,FEU,78,70,2,0.409,"Pace, one season",halfway,0
+81,2018,UE,NU,71,79,2,0.319,"Pace, one season",halfway,0
+81,2018,UP,NU,82,71,2,0.47125,"Pace, one season",halfway,0
+81,2018,UST,NU,61,69,2,0.4055,"Pace, one season",halfway,0
+81,2018,UP,UE,94,81,2,0.65125,"Pace, one season",halfway,0
+81,2018,UST,UE,79,68,2,0.599,"Pace, one season",halfway,0
+81,2018,UST,UP,69,83,2,0.44425,"Pace, one season",halfway,0
+81,2018,ADMU,AdU,62,48,2,0.7645,"Pace, joint",halfway,0
+81,2018,DLSU,AdU,50,57,2,0.50775,"Pace, joint",halfway,0
+81,2018,FEU,AdU,82,56,2,0.43025,"Pace, joint",halfway,0
+81,2018,NU,AdU,58,69,2,0.348,"Pace, joint",halfway,0
+81,2018,UE,AdU,72,85,2,0.12125,"Pace, joint",halfway,0
+81,2018,UP,AdU,72,80,2,0.35975,"Pace, joint",halfway,0
+81,2018,UST,AdU,83,96,2,0.217,"Pace, joint",halfway,0
+81,2018,DLSU,ADMU,62,71,2,0.22075,"Pace, joint",halfway,0
+81,2018,FEU,ADMU,62,82,2,0.18575,"Pace, joint",halfway,0
+81,2018,NU,ADMU,64,79,2,0.139,"Pace, joint",halfway,0
+81,2018,UE,ADMU,70,90,2,0.0285,"Pace, joint",halfway,0
+81,2018,UP,ADMU,66,83,2,0.1445,"Pace, joint",halfway,0
+81,2018,UST,ADMU,62,102,2,0.06075,"Pace, joint",halfway,0
+81,2018,FEU,DLSU,57,65,2,0.4275,"Pace, joint",halfway,0
+81,2018,NU,DLSU,77,84,2,0.34025,"Pace, joint",halfway,0
+81,2018,UE,DLSU,59,79,2,0.11575,"Pace, joint",halfway,0
+81,2018,UP,DLSU,97,81,2,0.3475,"Pace, joint",halfway,0
+81,2018,UST,DLSU,69,110,2,0.21475,"Pace, joint",halfway,0
+81,2018,NU,FEU,74,79,2,0.41575,"Pace, joint",halfway,0
+81,2018,UE,FEU,61,80,2,0.16675,"Pace, joint",halfway,0
+81,2018,UP,FEU,95,82,2,0.431,"Pace, joint",halfway,0
+81,2018,UST,FEU,78,70,2,0.268,"Pace, joint",halfway,0
+81,2018,UE,NU,71,79,2,0.22875,"Pace, joint",halfway,0
+81,2018,UP,NU,82,71,2,0.5205,"Pace, joint",halfway,0
+81,2018,UST,NU,61,69,2,0.34625,"Pace, joint",halfway,0
+81,2018,UP,UE,94,81,2,0.7875,"Pace, joint",halfway,0
+81,2018,UST,UE,79,68,2,0.64525,"Pace, joint",halfway,0
+81,2018,UST,UP,69,83,2,0.332,"Pace, joint",halfway,0
+81,2018,AdU,ADMU,74,70,1,0.3815,"Pace, joint",preseason,0
+81,2018,ADMU,AdU,62,48,2,0.61675,"Pace, joint",preseason,0
+81,2018,AdU,DLSU,78,79,1,0.3965,"Pace, joint",preseason,0
+81,2018,DLSU,AdU,50,57,2,0.58125,"Pace, joint",preseason,0
+81,2018,AdU,FEU,85,88,1,0.481,"Pace, joint",preseason,0
+81,2018,FEU,AdU,82,56,2,0.513,"Pace, joint",preseason,0
+81,2018,AdU,NU,63,58,1,0.6035,"Pace, joint",preseason,0
+81,2018,NU,AdU,58,69,2,0.39225,"Pace, joint",preseason,0
+81,2018,AdU,UE,90,76,1,0.6545,"Pace, joint",preseason,0
+81,2018,UE,AdU,72,85,2,0.33725,"Pace, joint",preseason,0
+81,2018,AdU,UP,69,68,1,0.59075,"Pace, joint",preseason,0
+81,2018,UP,AdU,72,80,2,0.40175,"Pace, joint",preseason,0
+81,2018,AdU,UST,79,71,1,0.70075,"Pace, joint",preseason,0
+81,2018,UST,AdU,83,96,2,0.294,"Pace, joint",preseason,0
+81,2018,ADMU,DLSU,71,55,1,0.5265,"Pace, joint",preseason,0
+81,2018,DLSU,ADMU,62,71,2,0.47,"Pace, joint",preseason,0
+81,2018,ADMU,FEU,60,63,1,0.61975,"Pace, joint",preseason,0
+81,2018,FEU,ADMU,62,82,2,0.3835,"Pace, joint",preseason,0
+81,2018,ADMU,NU,72,46,1,0.74,"Pace, joint",preseason,0
+81,2018,NU,ADMU,64,79,2,0.267,"Pace, joint",preseason,0
+81,2018,ADMU,UE,89,62,1,0.7685,"Pace, joint",preseason,0
+81,2018,UE,ADMU,70,90,2,0.232,"Pace, joint",preseason,0
+81,2018,ADMU,UP,87,79,1,0.71125,"Pace, joint",preseason,0
+81,2018,UP,ADMU,66,83,2,0.28675,"Pace, joint",preseason,0
+81,2018,ADMU,UST,85,53,1,0.8095,"Pace, joint",preseason,0
+81,2018,UST,ADMU,62,102,2,0.19775,"Pace, joint",preseason,0
+81,2018,DLSU,FEU,61,68,1,0.59225,"Pace, joint",preseason,0
+81,2018,FEU,DLSU,57,65,2,0.4235,"Pace, joint",preseason,0
+81,2018,DLSU,NU,80,76,1,0.70375,"Pace, joint",preseason,0
+81,2018,NU,DLSU,77,84,2,0.2815,"Pace, joint",preseason,0
+81,2018,DLSU,UE,82,72,1,0.75925,"Pace, joint",preseason,0
+81,2018,UE,DLSU,59,79,2,0.2615,"Pace, joint",preseason,0
+81,2018,DLSU,UP,61,67,1,0.695,"Pace, joint",preseason,0
+81,2018,UP,DLSU,97,81,2,0.307,"Pace, joint",preseason,0
+81,2018,DLSU,UST,99,72,1,0.79025,"Pace, joint",preseason,0
+81,2018,UST,DLSU,69,110,2,0.21425,"Pace, joint",preseason,0
+81,2018,FEU,NU,73,68,1,0.6145,"Pace, joint",preseason,0
+81,2018,NU,FEU,74,79,2,0.3685,"Pace, joint",preseason,0
+81,2018,FEU,UE,65,90,1,0.673,"Pace, joint",preseason,0
+81,2018,UE,FEU,61,80,2,0.3355,"Pace, joint",preseason,0
+81,2018,FEU,UP,89,73,1,0.59925,"Pace, joint",preseason,0
+81,2018,UP,FEU,95,82,2,0.39275,"Pace, joint",preseason,0
+81,2018,FEU,UST,74,76,1,0.714,"Pace, joint",preseason,0
+81,2018,UST,FEU,78,70,2,0.296,"Pace, joint",preseason,0
+81,2018,NU,UE,88,61,1,0.536,"Pace, joint",preseason,0
+81,2018,UE,NU,71,79,2,0.46075,"Pace, joint",preseason,0
+81,2018,NU,UP,88,89,1,0.473,"Pace, joint",preseason,0
+81,2018,UP,NU,82,71,2,0.525,"Pace, joint",preseason,0
+81,2018,NU,UST,75,70,1,0.586,"Pace, joint",preseason,0
+81,2018,UST,NU,61,69,2,0.401,"Pace, joint",preseason,0
+81,2018,UE,UP,58,87,1,0.439,"Pace, joint",preseason,0
+81,2018,UP,UE,94,81,2,0.5465,"Pace, joint",preseason,0
+81,2018,UE,UST,66,80,1,0.5425,"Pace, joint",preseason,0
+81,2018,UST,UE,79,68,2,0.44925,"Pace, joint",preseason,0
+81,2018,UP,UST,72,86,1,0.60125,"Pace, joint",preseason,0
+81,2018,UST,UP,69,83,2,0.39425,"Pace, joint",preseason,0
+82,2019,ADMU,AdU,80,74,2,0.86175,"Poisson, one season",halfway,0
+82,2019,DLSU,AdU,89,63,2,0.55125,"Poisson, one season",halfway,0
+82,2019,FEU,AdU,63,60,2,0.57025,"Poisson, one season",halfway,0
+82,2019,NU,AdU,53,72,2,0.493,"Poisson, one season",halfway,0
+82,2019,UE,AdU,80,74,2,0.373,"Poisson, one season",halfway,0
+82,2019,UP,AdU,81,77,2,0.49875,"Poisson, one season",halfway,0
+82,2019,UST,AdU,80,74,2,0.6305,"Poisson, one season",halfway,0
+82,2019,DLSU,ADMU,69,77,2,0.17275,"Poisson, one season",halfway,0
+82,2019,FEU,ADMU,55,65,2,0.1915,"Poisson, one season",halfway,0
+82,2019,NU,ADMU,51,88,2,0.13475,"Poisson, one season",halfway,0
+82,2019,UE,ADMU,50,84,2,0.0785,"Poisson, one season",halfway,0
+82,2019,UP,ADMU,64,86,2,0.1275,"Poisson, one season",halfway,0
+82,2019,UST,ADMU,52,66,2,0.2045,"Poisson, one season",halfway,0
+82,2019,FEU,DLSU,81,60,2,0.517,"Poisson, one season",halfway,0
+82,2019,NU,DLSU,61,85,2,0.45875,"Poisson, one season",halfway,0
+82,2019,UE,DLSU,59,65,2,0.33075,"Poisson, one season",halfway,0
+82,2019,UP,DLSU,71,68,2,0.4415,"Poisson, one season",halfway,0
+82,2019,UST,DLSU,79,80,2,0.5755,"Poisson, one season",halfway,0
+82,2019,NU,FEU,85,79,2,0.4295,"Poisson, one season",halfway,0
+82,2019,UE,FEU,58,82,2,0.32075,"Poisson, one season",halfway,0
+82,2019,UP,FEU,79,82,2,0.43325,"Poisson, one season",halfway,0
+82,2019,UST,FEU,58,72,2,0.53925,"Poisson, one season",halfway,0
+82,2019,UE,NU,79,77,2,0.37975,"Poisson, one season",halfway,0
+82,2019,UP,NU,80,77,2,0.505,"Poisson, one season",halfway,0
+82,2019,UST,NU,88,76,2,0.61375,"Poisson, one season",halfway,0
+82,2019,UP,UE,78,75,2,0.5985,"Poisson, one season",halfway,0
+82,2019,UST,UE,101,73,2,0.72625,"Poisson, one season",halfway,0
+82,2019,UST,UP,84,78,2,0.618,"Poisson, one season",halfway,0
+82,2019,ADMU,AdU,80,74,2,0.84175,"Pace, one season",halfway,0
+82,2019,DLSU,AdU,89,63,2,0.55875,"Pace, one season",halfway,0
+82,2019,FEU,AdU,63,60,2,0.57125,"Pace, one season",halfway,0
+82,2019,NU,AdU,53,72,2,0.4845,"Pace, one season",halfway,0
+82,2019,UE,AdU,80,74,2,0.3755,"Pace, one season",halfway,0
+82,2019,UP,AdU,81,77,2,0.47075,"Pace, one season",halfway,0
+82,2019,UST,AdU,80,74,2,0.6135,"Pace, one season",halfway,0
+82,2019,DLSU,ADMU,69,77,2,0.181,"Pace, one season",halfway,0
+82,2019,FEU,ADMU,55,65,2,0.21275,"Pace, one season",halfway,0
+82,2019,NU,ADMU,51,88,2,0.15475,"Pace, one season",halfway,0
+82,2019,UE,ADMU,50,84,2,0.105,"Pace, one season",halfway,0
+82,2019,UP,ADMU,64,86,2,0.1635,"Pace, one season",halfway,0
+82,2019,UST,ADMU,52,66,2,0.23025,"Pace, one season",halfway,0
+82,2019,FEU,DLSU,81,60,2,0.53075,"Pace, one season",halfway,0
+82,2019,NU,DLSU,61,85,2,0.4345,"Pace, one season",halfway,0
+82,2019,UE,DLSU,59,65,2,0.31625,"Pace, one season",halfway,0
+82,2019,UP,DLSU,71,68,2,0.43225,"Pace, one season",halfway,0
+82,2019,UST,DLSU,79,80,2,0.55125,"Pace, one season",halfway,0
+82,2019,NU,FEU,85,79,2,0.41,"Pace, one season",halfway,0
+82,2019,UE,FEU,58,82,2,0.30825,"Pace, one season",halfway,0
+82,2019,UP,FEU,79,82,2,0.4065,"Pace, one season",halfway,0
+82,2019,UST,FEU,58,72,2,0.5235,"Pace, one season",halfway,0
+82,2019,UE,NU,79,77,2,0.39275,"Pace, one season",halfway,0
+82,2019,UP,NU,80,77,2,0.49725,"Pace, one season",halfway,0
+82,2019,UST,NU,88,76,2,0.6265,"Pace, one season",halfway,0
+82,2019,UP,UE,78,75,2,0.60525,"Pace, one season",halfway,0
+82,2019,UST,UE,101,73,2,0.7265,"Pace, one season",halfway,0
+82,2019,UST,UP,84,78,2,0.625,"Pace, one season",halfway,0
+82,2019,ADMU,AdU,80,74,2,0.895,"Pace, joint",halfway,0
+82,2019,DLSU,AdU,89,63,2,0.549,"Pace, joint",halfway,0
+82,2019,FEU,AdU,63,60,2,0.5185,"Pace, joint",halfway,0
+82,2019,NU,AdU,53,72,2,0.432,"Pace, joint",halfway,0
+82,2019,UE,AdU,80,74,2,0.29575,"Pace, joint",halfway,0
+82,2019,UP,AdU,81,77,2,0.465,"Pace, joint",halfway,0
+82,2019,UST,AdU,80,74,2,0.57275,"Pace, joint",halfway,0
+82,2019,DLSU,ADMU,69,77,2,0.132,"Pace, joint",halfway,0
+82,2019,FEU,ADMU,55,65,2,0.128,"Pace, joint",halfway,0
+82,2019,NU,ADMU,51,88,2,0.0825,"Pace, joint",halfway,0
+82,2019,UE,ADMU,50,84,2,0.0405,"Pace, joint",halfway,0
+82,2019,UP,ADMU,64,86,2,0.09,"Pace, joint",halfway,0
+82,2019,UST,ADMU,52,66,2,0.13275,"Pace, joint",halfway,0
+82,2019,FEU,DLSU,81,60,2,0.45625,"Pace, joint",halfway,0
+82,2019,NU,DLSU,61,85,2,0.36675,"Pace, joint",halfway,0
+82,2019,UE,DLSU,59,65,2,0.24875,"Pace, joint",halfway,0
+82,2019,UP,DLSU,71,68,2,0.3975,"Pace, joint",halfway,0
+82,2019,UST,DLSU,79,80,2,0.50175,"Pace, joint",halfway,0
+82,2019,NU,FEU,85,79,2,0.4255,"Pace, joint",halfway,0
+82,2019,UE,FEU,58,82,2,0.304,"Pace, joint",halfway,0
+82,2019,UP,FEU,79,82,2,0.444,"Pace, joint",halfway,0
+82,2019,UST,FEU,58,72,2,0.5355,"Pace, joint",halfway,0
+82,2019,UE,NU,79,77,2,0.37425,"Pace, joint",halfway,0
+82,2019,UP,NU,80,77,2,0.52,"Pace, joint",halfway,0
+82,2019,UST,NU,88,76,2,0.63525,"Pace, joint",halfway,0
+82,2019,UP,UE,78,75,2,0.67275,"Pace, joint",halfway,0
+82,2019,UST,UE,101,73,2,0.77,"Pace, joint",halfway,0
+82,2019,UST,UP,84,78,2,0.603,"Pace, joint",halfway,0
+82,2019,AdU,ADMU,52,70,1,0.301,"Pace, joint",preseason,0
+82,2019,ADMU,AdU,80,74,2,0.70725,"Pace, joint",preseason,0
+82,2019,AdU,DLSU,61,68,1,0.47525,"Pace, joint",preseason,0
+82,2019,DLSU,AdU,89,63,2,0.5225,"Pace, joint",preseason,0
+82,2019,AdU,FEU,71,83,1,0.53775,"Pace, joint",preseason,0
+82,2019,FEU,AdU,63,60,2,0.46225,"Pace, joint",preseason,0
+82,2019,AdU,NU,84,83,1,0.58825,"Pace, joint",preseason,0
+82,2019,NU,AdU,53,72,2,0.39625,"Pace, joint",preseason,0
+82,2019,AdU,UE,91,80,1,0.74475,"Pace, joint",preseason,0
+82,2019,UE,AdU,80,74,2,0.2605,"Pace, joint",preseason,0
+82,2019,AdU,UP,82,83,1,0.52325,"Pace, joint",preseason,0
+82,2019,UP,AdU,81,77,2,0.4675,"Pace, joint",preseason,0
+82,2019,AdU,UST,78,71,1,0.688,"Pace, joint",preseason,0
+82,2019,UST,AdU,80,74,2,0.308,"Pace, joint",preseason,0
+82,2019,ADMU,DLSU,81,69,1,0.6775,"Pace, joint",preseason,0
+82,2019,DLSU,ADMU,69,77,2,0.33025,"Pace, joint",preseason,0
+82,2019,ADMU,FEU,63,46,1,0.73325,"Pace, joint",preseason,0
+82,2019,FEU,ADMU,55,65,2,0.26925,"Pace, joint",preseason,0
+82,2019,ADMU,NU,71,50,1,0.779,"Pace, joint",preseason,0
+82,2019,NU,ADMU,51,88,2,0.22975,"Pace, joint",preseason,0
+82,2019,ADMU,UE,85,68,1,0.8765,"Pace, joint",preseason,0
+82,2019,UE,ADMU,50,84,2,0.127,"Pace, joint",preseason,0
+82,2019,ADMU,UP,89,63,1,0.71725,"Pace, joint",preseason,0
+82,2019,UP,ADMU,64,86,2,0.275,"Pace, joint",preseason,0
+82,2019,ADMU,UST,71,70,1,0.857,"Pace, joint",preseason,0
+82,2019,UST,ADMU,52,66,2,0.1425,"Pace, joint",preseason,0
+82,2019,DLSU,FEU,55,66,1,0.54975,"Pace, joint",preseason,0
+82,2019,FEU,DLSU,81,60,2,0.441,"Pace, joint",preseason,0
+82,2019,DLSU,NU,83,82,1,0.61425,"Pace, joint",preseason,0
+82,2019,NU,DLSU,61,85,2,0.398,"Pace, joint",preseason,0
+82,2019,DLSU,UE,88,89,1,0.76025,"Pace, joint",preseason,0
+82,2019,UE,DLSU,59,65,2,0.25275,"Pace, joint",preseason,0
+82,2019,DLSU,UP,71,72,1,0.55125,"Pace, joint",preseason,0
+82,2019,UP,DLSU,71,68,2,0.436,"Pace, joint",preseason,0
+82,2019,DLSU,UST,92,77,1,0.72375,"Pace, joint",preseason,0
+82,2019,UST,DLSU,79,80,2,0.2905,"Pace, joint",preseason,0
+82,2019,FEU,NU,39,61,1,0.56775,"Pace, joint",preseason,0
+82,2019,NU,FEU,85,79,2,0.44675,"Pace, joint",preseason,0
+82,2019,FEU,UE,81,65,1,0.69525,"Pace, joint",preseason,0
+82,2019,UE,FEU,58,82,2,0.2985,"Pace, joint",preseason,0
+82,2019,FEU,UP,55,61,1,0.48725,"Pace, joint",preseason,0
+82,2019,UP,FEU,79,82,2,0.5055,"Pace, joint",preseason,0
+82,2019,FEU,UST,74,82,1,0.6505,"Pace, joint",preseason,0
+82,2019,UST,FEU,58,72,2,0.34225,"Pace, joint",preseason,0
+82,2019,NU,UE,72,78,1,0.6535,"Pace, joint",preseason,0
+82,2019,UE,NU,79,77,2,0.35175,"Pace, joint",preseason,0
+82,2019,NU,UP,79,80,1,0.43575,"Pace, joint",preseason,0
+82,2019,UP,NU,80,77,2,0.56975,"Pace, joint",preseason,0
+82,2019,NU,UST,74,87,1,0.60575,"Pace, joint",preseason,0
+82,2019,UST,NU,88,76,2,0.38025,"Pace, joint",preseason,0
+82,2019,UE,UP,56,62,1,0.28,"Pace, joint",preseason,0
+82,2019,UP,UE,78,75,2,0.72825,"Pace, joint",preseason,0
+82,2019,UE,UST,82,95,1,0.454,"Pace, joint",preseason,0
+82,2019,UST,UE,101,73,2,0.5525,"Pace, joint",preseason,0
+82,2019,UP,UST,69,85,1,0.675,"Pace, joint",preseason,0
+82,2019,UST,UP,84,78,2,0.321,"Pace, joint",preseason,0
+84,2022,ADMU,AdU,91,57,2,0.852,"Poisson, one season",halfway,0
+84,2022,DLSU,AdU,64,51,2,0.6285,"Poisson, one season",halfway,0
+84,2022,FEU,AdU,63,64,2,0.6045,"Poisson, one season",halfway,0
+84,2022,NU,AdU,55,62,2,0.66275,"Poisson, one season",halfway,0
+84,2022,UE,AdU,53,65,2,0.31325,"Poisson, one season",halfway,0
+84,2022,UP,AdU,58,66,2,0.71275,"Poisson, one season",halfway,0
+84,2022,UST,AdU,69,80,2,0.37875,"Poisson, one season",halfway,0
+84,2022,DLSU,ADMU,68,75,2,0.24175,"Poisson, one season",halfway,0
+84,2022,FEU,ADMU,53,70,2,0.2155,"Poisson, one season",halfway,0
+84,2022,NU,ADMU,75,89,2,0.2855,"Poisson, one season",halfway,0
+84,2022,UE,ADMU,63,76,2,0.059,"Poisson, one season",halfway,0
+84,2022,UP,ADMU,84,83,2,0.28975,"Poisson, one season",halfway,0
+84,2022,UST,ADMU,51,101,2,0.091,"Poisson, one season",halfway,0
+84,2022,FEU,DLSU,67,62,2,0.48975,"Poisson, one season",halfway,0
+84,2022,NU,DLSU,65,76,2,0.55075,"Poisson, one season",halfway,0
+84,2022,UE,DLSU,82,85,2,0.224,"Poisson, one season",halfway,0
+84,2022,UP,DLSU,72,69,2,0.59725,"Poisson, one season",halfway,0
+84,2022,UST,DLSU,83,112,2,0.28925,"Poisson, one season",halfway,0
+84,2022,NU,FEU,57,59,2,0.5555,"Poisson, one season",halfway,0
+84,2022,UE,FEU,61,91,2,0.20525,"Poisson, one season",halfway,0
+84,2022,UP,FEU,73,70,2,0.61825,"Poisson, one season",halfway,0
+84,2022,UST,FEU,65,109,2,0.27325,"Poisson, one season",halfway,0
+84,2022,UE,NU,81,100,2,0.172,"Poisson, one season",halfway,0
+84,2022,UP,NU,84,76,2,0.5445,"Poisson, one season",halfway,0
+84,2022,UST,NU,60,73,2,0.22125,"Poisson, one season",halfway,0
+84,2022,UP,UE,81,68,2,0.85325,"Poisson, one season",halfway,0
+84,2022,UST,UE,72,61,2,0.59225,"Poisson, one season",halfway,0
+84,2022,UST,UP,67,96,2,0.19675,"Poisson, one season",halfway,0
+84,2022,ADMU,AdU,91,57,2,0.9095,"Pace, one season",halfway,0
+84,2022,DLSU,AdU,64,51,2,0.63275,"Pace, one season",halfway,0
+84,2022,FEU,AdU,63,64,2,0.65375,"Pace, one season",halfway,0
+84,2022,NU,AdU,55,62,2,0.7075,"Pace, one season",halfway,0
+84,2022,UE,AdU,53,65,2,0.2505,"Pace, one season",halfway,0
+84,2022,UP,AdU,58,66,2,0.75875,"Pace, one season",halfway,0
+84,2022,UST,AdU,69,80,2,0.35425,"Pace, one season",halfway,0
+84,2022,DLSU,ADMU,68,75,2,0.19375,"Pace, one season",halfway,0
+84,2022,FEU,ADMU,53,70,2,0.1555,"Pace, one season",halfway,0
+84,2022,NU,ADMU,75,89,2,0.224,"Pace, one season",halfway,0
+84,2022,UE,ADMU,63,76,2,0.023,"Pace, one season",halfway,0
+84,2022,UP,ADMU,84,83,2,0.24725,"Pace, one season",halfway,0
+84,2022,UST,ADMU,51,101,2,0.0425,"Pace, one season",halfway,0
+84,2022,FEU,DLSU,67,62,2,0.49675,"Pace, one season",halfway,0
+84,2022,NU,DLSU,65,76,2,0.57,"Pace, one season",halfway,0
+84,2022,UE,DLSU,82,85,2,0.159,"Pace, one season",halfway,0
+84,2022,UP,DLSU,72,69,2,0.61075,"Pace, one season",halfway,0
+84,2022,UST,DLSU,83,112,2,0.23975,"Pace, one season",halfway,0
+84,2022,NU,FEU,57,59,2,0.5805,"Pace, one season",halfway,0
+84,2022,UE,FEU,61,91,2,0.13575,"Pace, one season",halfway,0
+84,2022,UP,FEU,73,70,2,0.6345,"Pace, one season",halfway,0
+84,2022,UST,FEU,65,109,2,0.2045,"Pace, one season",halfway,0
+84,2022,UE,NU,81,100,2,0.109,"Pace, one season",halfway,0
+84,2022,UP,NU,84,76,2,0.5555,"Pace, one season",halfway,0
+84,2022,UST,NU,60,73,2,0.18075,"Pace, one season",halfway,0
+84,2022,UP,UE,81,68,2,0.93,"Pace, one season",halfway,0
+84,2022,UST,UE,72,61,2,0.6165,"Pace, one season",halfway,0
+84,2022,UST,UP,67,96,2,0.1195,"Pace, one season",halfway,0
+84,2022,ADMU,AdU,91,57,2,0.902,"Pace, joint",halfway,0
+84,2022,DLSU,AdU,64,51,2,0.66425,"Pace, joint",halfway,0
+84,2022,FEU,AdU,63,64,2,0.64975,"Pace, joint",halfway,0
+84,2022,NU,AdU,55,62,2,0.67575,"Pace, joint",halfway,0
+84,2022,UE,AdU,53,65,2,0.2565,"Pace, joint",halfway,0
+84,2022,UP,AdU,58,66,2,0.73625,"Pace, joint",halfway,0
+84,2022,UST,AdU,69,80,2,0.38325,"Pace, joint",halfway,0
+84,2022,DLSU,ADMU,68,75,2,0.19175,"Pace, joint",halfway,0
+84,2022,FEU,ADMU,53,70,2,0.174,"Pace, joint",halfway,0
+84,2022,NU,ADMU,75,89,2,0.20125,"Pace, joint",halfway,0
+84,2022,UE,ADMU,63,76,2,0.02175,"Pace, joint",halfway,0
+84,2022,UP,ADMU,84,83,2,0.2215,"Pace, joint",halfway,0
+84,2022,UST,ADMU,51,101,2,0.048,"Pace, joint",halfway,0
+84,2022,FEU,DLSU,67,62,2,0.47025,"Pace, joint",halfway,0
+84,2022,NU,DLSU,65,76,2,0.51775,"Pace, joint",halfway,0
+84,2022,UE,DLSU,82,85,2,0.143,"Pace, joint",halfway,0
+84,2022,UP,DLSU,72,69,2,0.5665,"Pace, joint",halfway,0
+84,2022,UST,DLSU,83,112,2,0.24275,"Pace, joint",halfway,0
+84,2022,NU,FEU,57,59,2,0.551,"Pace, joint",halfway,0
+84,2022,UE,FEU,61,91,2,0.13675,"Pace, joint",halfway,0
+84,2022,UP,FEU,73,70,2,0.59175,"Pace, joint",halfway,0
+84,2022,UST,FEU,65,109,2,0.2385,"Pace, joint",halfway,0
+84,2022,UE,NU,81,100,2,0.12925,"Pace, joint",halfway,0
+84,2022,UP,NU,84,76,2,0.5555,"Pace, joint",halfway,0
+84,2022,UST,NU,60,73,2,0.22275,"Pace, joint",halfway,0
+84,2022,UP,UE,81,68,2,0.91375,"Pace, joint",halfway,0
+84,2022,UST,UE,72,61,2,0.65025,"Pace, joint",halfway,0
+84,2022,UST,UP,67,96,2,0.173,"Pace, joint",halfway,0
+84,2022,AdU,ADMU,47,78,1,0.2835,"Pace, joint",preseason,0
+84,2022,ADMU,AdU,91,57,2,0.71475,"Pace, joint",preseason,0
+84,2022,AdU,DLSU,58,61,1,0.45275,"Pace, joint",preseason,0
+84,2022,DLSU,AdU,64,51,2,0.5525,"Pace, joint",preseason,0
+84,2022,AdU,FEU,65,66,1,0.41925,"Pace, joint",preseason,0
+84,2022,FEU,AdU,63,64,2,0.567,"Pace, joint",preseason,0
+84,2022,AdU,NU,69,71,1,0.559,"Pace, joint",preseason,0
+84,2022,NU,AdU,55,62,2,0.4355,"Pace, joint",preseason,0
+84,2022,AdU,UE,82,66,1,0.591,"Pace, joint",preseason,0
+84,2022,UE,AdU,53,65,2,0.41425,"Pace, joint",preseason,0
+84,2022,AdU,UP,71,73,1,0.5015,"Pace, joint",preseason,0
+84,2022,UP,AdU,58,66,2,0.49125,"Pace, joint",preseason,0
+84,2022,AdU,UST,72,79,1,0.466,"Pace, joint",preseason,0
+84,2022,UST,AdU,69,80,2,0.517,"Pace, joint",preseason,0
+84,2022,ADMU,DLSU,74,57,1,0.6585,"Pace, joint",preseason,0
+84,2022,DLSU,ADMU,68,75,2,0.31775,"Pace, joint",preseason,0
+84,2022,ADMU,FEU,79,70,1,0.6455,"Pace, joint",preseason,0
+84,2022,FEU,ADMU,53,70,2,0.34875,"Pace, joint",preseason,0
+84,2022,ADMU,NU,74,64,1,0.749,"Pace, joint",preseason,0
+84,2022,NU,ADMU,75,89,2,0.25025,"Pace, joint",preseason,0
+84,2022,ADMU,UE,94,72,1,0.78525,"Pace, joint",preseason,0
+84,2022,UE,ADMU,63,76,2,0.21125,"Pace, joint",preseason,0
+84,2022,ADMU,UP,90,81,1,0.7175,"Pace, joint",preseason,0
+84,2022,UP,ADMU,84,83,2,0.28625,"Pace, joint",preseason,0
+84,2022,ADMU,UST,91,80,1,0.69475,"Pace, joint",preseason,0
+84,2022,UST,ADMU,51,101,2,0.31475,"Pace, joint",preseason,0
+84,2022,DLSU,FEU,75,65,1,0.46425,"Pace, joint",preseason,0
+84,2022,FEU,DLSU,67,62,2,0.5235,"Pace, joint",preseason,0
+84,2022,DLSU,NU,59,55,1,0.60225,"Pace, joint",preseason,0
+84,2022,NU,DLSU,65,76,2,0.4105,"Pace, joint",preseason,0
+84,2022,DLSU,UE,71,66,1,0.64125,"Pace, joint",preseason,0
+84,2022,UE,DLSU,82,85,2,0.35475,"Pace, joint",preseason,0
+84,2022,DLSU,UP,59,61,1,0.5675,"Pace, joint",preseason,0
+84,2022,UP,DLSU,72,69,2,0.44575,"Pace, joint",preseason,0
+84,2022,DLSU,UST,75,66,1,0.51075,"Pace, joint",preseason,0
+84,2022,UST,DLSU,83,112,2,0.48025,"Pace, joint",preseason,0
+84,2022,FEU,NU,68,73,1,0.623,"Pace, joint",preseason,0
+84,2022,NU,FEU,57,59,2,0.37925,"Pace, joint",preseason,0
+84,2022,FEU,UE,88,74,1,0.65975,"Pace, joint",preseason,0
+84,2022,UE,FEU,61,91,2,0.35325,"Pace, joint",preseason,0
+84,2022,FEU,UP,76,83,1,0.57675,"Pace, joint",preseason,0
+84,2022,UP,FEU,73,70,2,0.4195,"Pace, joint",preseason,0
+84,2022,FEU,UST,76,51,1,0.5565,"Pace, joint",preseason,0
+84,2022,UST,FEU,65,109,2,0.45725,"Pace, joint",preseason,0
+84,2022,NU,UE,77,61,1,0.541,"Pace, joint",preseason,0
+84,2022,UE,NU,81,100,2,0.45675,"Pace, joint",preseason,0
+84,2022,NU,UP,70,80,1,0.446,"Pace, joint",preseason,0
+84,2022,UP,NU,84,76,2,0.5525,"Pace, joint",preseason,0
+84,2022,NU,UST,81,52,1,0.4165,"Pace, joint",preseason,0
+84,2022,UST,NU,60,73,2,0.58875,"Pace, joint",preseason,0
+84,2022,UE,UP,66,81,1,0.40875,"Pace, joint",preseason,0
+84,2022,UP,UE,81,68,2,0.59275,"Pace, joint",preseason,0
+84,2022,UE,UST,62,74,1,0.3725,"Pace, joint",preseason,0
+84,2022,UST,UE,72,61,2,0.618,"Pace, joint",preseason,0
+84,2022,UP,UST,98,82,1,0.4635,"Pace, joint",preseason,0
+84,2022,UST,UP,67,96,2,0.52975,"Pace, joint",preseason,0
+85,2022,ADMU,AdU,66,61,2,0.74825,"Poisson, one season",halfway,0
+85,2022,DLSU,AdU,81,78,2,0.684,"Poisson, one season",halfway,0
+85,2022,FEU,AdU,70,75,2,0.422,"Poisson, one season",halfway,0
+85,2022,NU,AdU,63,64,2,0.502,"Poisson, one season",halfway,0
+85,2022,UE,AdU,64,74,2,0.5525,"Poisson, one season",halfway,0
+85,2022,UP,AdU,91,70,2,0.704,"Poisson, one season",halfway,0
+85,2022,UST,AdU,55,56,2,0.26825,"Poisson, one season",halfway,0
+85,2022,DLSU,ADMU,54,68,2,0.4305,"Poisson, one season",halfway,0
+85,2022,FEU,ADMU,65,71,2,0.19675,"Poisson, one season",halfway,0
+85,2022,NU,ADMU,78,74,2,0.2685,"Poisson, one season",halfway,0
+85,2022,UE,ADMU,66,69,2,0.2995,"Poisson, one season",halfway,0
+85,2022,UP,ADMU,67,75,2,0.44425,"Poisson, one season",halfway,0
+85,2022,UST,ADMU,55,72,2,0.113,"Poisson, one season",halfway,0
+85,2022,FEU,DLSU,57,53,2,0.24525,"Poisson, one season",halfway,0
+85,2022,NU,DLSU,58,63,2,0.32225,"Poisson, one season",halfway,0
+85,2022,UE,DLSU,80,72,2,0.37425,"Poisson, one season",halfway,0
+85,2022,UP,DLSU,80,82,2,0.506,"Poisson, one season",halfway,0
+85,2022,UST,DLSU,72,77,2,0.13925,"Poisson, one season",halfway,0
+85,2022,NU,FEU,71,60,2,0.59425,"Poisson, one season",halfway,0
+85,2022,UE,FEU,68,75,2,0.6465,"Poisson, one season",halfway,0
+85,2022,UP,FEU,73,59,2,0.76625,"Poisson, one season",halfway,0
+85,2022,UST,FEU,62,77,2,0.3435,"Poisson, one season",halfway,0
+85,2022,UE,NU,61,70,2,0.552,"Poisson, one season",halfway,0
+85,2022,UP,NU,75,63,2,0.69575,"Poisson, one season",halfway,0
+85,2022,UST,NU,57,67,2,0.2675,"Poisson, one season",halfway,0
+85,2022,UP,UE,83,69,2,0.646,"Poisson, one season",halfway,0
+85,2022,UST,UE,51,81,2,0.2215,"Poisson, one season",halfway,0
+85,2022,UST,UP,60,78,2,0.12725,"Poisson, one season",halfway,0
+85,2022,ADMU,AdU,66,61,2,0.78775,"Pace, one season",halfway,0
+85,2022,DLSU,AdU,81,78,2,0.6945,"Pace, one season",halfway,0
+85,2022,FEU,AdU,70,75,2,0.41225,"Pace, one season",halfway,0
+85,2022,NU,AdU,63,64,2,0.5245,"Pace, one season",halfway,0
+85,2022,UE,AdU,64,74,2,0.5505,"Pace, one season",halfway,0
+85,2022,UP,AdU,91,70,2,0.727,"Pace, one season",halfway,0
+85,2022,UST,AdU,55,56,2,0.259,"Pace, one season",halfway,0
+85,2022,DLSU,ADMU,54,68,2,0.3705,"Pace, one season",halfway,0
+85,2022,FEU,ADMU,65,71,2,0.1675,"Pace, one season",halfway,0
+85,2022,NU,ADMU,78,74,2,0.25625,"Pace, one season",halfway,0
+85,2022,UE,ADMU,66,69,2,0.24575,"Pace, one season",halfway,0
+85,2022,UP,ADMU,67,75,2,0.432,"Pace, one season",halfway,0
+85,2022,UST,ADMU,55,72,2,0.08675,"Pace, one season",halfway,0
+85,2022,FEU,DLSU,57,53,2,0.23,"Pace, one season",halfway,0
+85,2022,NU,DLSU,58,63,2,0.335,"Pace, one season",halfway,0
+85,2022,UE,DLSU,80,72,2,0.34075,"Pace, one season",halfway,0
+85,2022,UP,DLSU,80,82,2,0.533,"Pace, one season",halfway,0
+85,2022,UST,DLSU,72,77,2,0.12725,"Pace, one season",halfway,0
+85,2022,NU,FEU,71,60,2,0.60725,"Pace, one season",halfway,0
+85,2022,UE,FEU,68,75,2,0.62625,"Pace, one season",halfway,0
+85,2022,UP,FEU,73,59,2,0.7875,"Pace, one season",halfway,0
+85,2022,UST,FEU,62,77,2,0.32675,"Pace, one season",halfway,0
+85,2022,UE,NU,61,70,2,0.53375,"Pace, one season",halfway,0
+85,2022,UP,NU,75,63,2,0.68725,"Pace, one season",halfway,0
+85,2022,UST,NU,57,67,2,0.23875,"Pace, one season",halfway,0
+85,2022,UP,UE,83,69,2,0.68325,"Pace, one season",halfway,0
+85,2022,UST,UE,51,81,2,0.21475,"Pace, one season",halfway,0
+85,2022,UST,UP,60,78,2,0.1125,"Pace, one season",halfway,0
+85,2022,ADMU,AdU,66,61,2,0.837,"Pace, joint",halfway,0
+85,2022,DLSU,AdU,81,78,2,0.65525,"Pace, joint",halfway,0
+85,2022,FEU,AdU,70,75,2,0.48375,"Pace, joint",halfway,0
+85,2022,NU,AdU,63,64,2,0.57525,"Pace, joint",halfway,0
+85,2022,UE,AdU,64,74,2,0.435,"Pace, joint",halfway,0
+85,2022,UP,AdU,91,70,2,0.7085,"Pace, joint",halfway,0
+85,2022,UST,AdU,55,56,2,0.19825,"Pace, joint",halfway,0
+85,2022,DLSU,ADMU,54,68,2,0.2695,"Pace, joint",halfway,0
+85,2022,FEU,ADMU,65,71,2,0.1405,"Pace, joint",halfway,0
+85,2022,NU,ADMU,78,74,2,0.225,"Pace, joint",halfway,0
+85,2022,UE,ADMU,66,69,2,0.10475,"Pace, joint",halfway,0
+85,2022,UP,ADMU,67,75,2,0.3375,"Pace, joint",halfway,0
+85,2022,UST,ADMU,55,72,2,0.032,"Pace, joint",halfway,0
+85,2022,FEU,DLSU,57,53,2,0.316,"Pace, joint",halfway,0
+85,2022,NU,DLSU,58,63,2,0.4145,"Pace, joint",halfway,0
+85,2022,UE,DLSU,80,72,2,0.27475,"Pace, joint",halfway,0
+85,2022,UP,DLSU,80,82,2,0.566,"Pace, joint",halfway,0
+85,2022,UST,DLSU,72,77,2,0.09775,"Pace, joint",halfway,0
+85,2022,NU,FEU,71,60,2,0.615,"Pace, joint",halfway,0
+85,2022,UE,FEU,68,75,2,0.4705,"Pace, joint",halfway,0
+85,2022,UP,FEU,73,59,2,0.752,"Pace, joint",halfway,0
+85,2022,UST,FEU,62,77,2,0.22575,"Pace, joint",halfway,0
+85,2022,UE,NU,61,70,2,0.34075,"Pace, joint",halfway,0
+85,2022,UP,NU,75,63,2,0.6385,"Pace, joint",halfway,0
+85,2022,UST,NU,57,67,2,0.1365,"Pace, joint",halfway,0
+85,2022,UP,UE,83,69,2,0.7835,"Pace, joint",halfway,0
+85,2022,UST,UE,51,81,2,0.23625,"Pace, joint",halfway,0
+85,2022,UST,UP,60,78,2,0.0705,"Pace, joint",halfway,0
+85,2022,AdU,ADMU,55,76,1,0.23525,"Pace, joint",preseason,0
+85,2022,ADMU,AdU,66,61,2,0.78275,"Pace, joint",preseason,0
+85,2022,AdU,DLSU,86,84,1,0.39775,"Pace, joint",preseason,0
+85,2022,DLSU,AdU,81,78,2,0.593,"Pace, joint",preseason,0
+85,2022,AdU,FEU,76,65,1,0.381,"Pace, joint",preseason,0
+85,2022,FEU,AdU,70,75,2,0.63025,"Pace, joint",preseason,0
+85,2022,AdU,NU,54,58,1,0.449,"Pace, joint",preseason,0
+85,2022,NU,AdU,63,64,2,0.568,"Pace, joint",preseason,0
+85,2022,AdU,UE,74,61,1,0.68675,"Pace, joint",preseason,0
+85,2022,UE,AdU,64,74,2,0.3,"Pace, joint",preseason,0
+85,2022,AdU,UP,78,87,1,0.38425,"Pace, joint",preseason,0
+85,2022,UP,AdU,91,70,2,0.60675,"Pace, joint",preseason,0
+85,2022,AdU,UST,60,69,1,0.717,"Pace, joint",preseason,0
+85,2022,UST,AdU,55,56,2,0.268,"Pace, joint",preseason,0
+85,2022,ADMU,DLSU,78,83,1,0.705,"Pace, joint",preseason,0
+85,2022,DLSU,ADMU,54,68,2,0.304,"Pace, joint",preseason,0
+85,2022,ADMU,FEU,79,70,1,0.67625,"Pace, joint",preseason,0
+85,2022,FEU,ADMU,65,71,2,0.33475,"Pace, joint",preseason,0
+85,2022,ADMU,NU,77,60,1,0.741,"Pace, joint",preseason,0
+85,2022,NU,ADMU,78,74,2,0.263,"Pace, joint",preseason,0
+85,2022,ADMU,UE,91,76,1,0.8945,"Pace, joint",preseason,0
+85,2022,UE,ADMU,66,69,2,0.10425,"Pace, joint",preseason,0
+85,2022,ADMU,UP,71,76,1,0.68325,"Pace, joint",preseason,0
+85,2022,UP,ADMU,67,75,2,0.308,"Pace, joint",preseason,0
+85,2022,ADMU,UST,79,52,1,0.90975,"Pace, joint",preseason,0
+85,2022,UST,ADMU,55,72,2,0.084,"Pace, joint",preseason,0
+85,2022,DLSU,FEU,87,70,1,0.46975,"Pace, joint",preseason,0
+85,2022,FEU,DLSU,57,53,2,0.53325,"Pace, joint",preseason,0
+85,2022,DLSU,NU,76,80,1,0.53575,"Pace, joint",preseason,0
+85,2022,NU,DLSU,58,63,2,0.45775,"Pace, joint",preseason,0
+85,2022,DLSU,UE,74,81,1,0.7775,"Pace, joint",preseason,0
+85,2022,UE,DLSU,80,72,2,0.22125,"Pace, joint",preseason,0
+85,2022,DLSU,UP,69,72,1,0.494,"Pace, joint",preseason,0
+85,2022,UP,DLSU,80,82,2,0.51125,"Pace, joint",preseason,0
+85,2022,DLSU,UST,83,63,1,0.8035,"Pace, joint",preseason,0
+85,2022,UST,DLSU,72,77,2,0.192,"Pace, joint",preseason,0
+85,2022,FEU,NU,47,44,1,0.5775,"Pace, joint",preseason,0
+85,2022,NU,FEU,71,60,2,0.434,"Pace, joint",preseason,0
+85,2022,FEU,UE,66,76,1,0.8055,"Pace, joint",preseason,0
+85,2022,UE,FEU,68,75,2,0.19775,"Pace, joint",preseason,0
+85,2022,FEU,UP,67,73,1,0.52325,"Pace, joint",preseason,0
+85,2022,UP,FEU,73,59,2,0.486,"Pace, joint",preseason,0
+85,2022,FEU,UST,75,60,1,0.82675,"Pace, joint",preseason,0
+85,2022,UST,FEU,62,77,2,0.179,"Pace, joint",preseason,0
+85,2022,NU,UE,77,70,1,0.74775,"Pace, joint",preseason,0
+85,2022,UE,NU,61,70,2,0.2585,"Pace, joint",preseason,0
+85,2022,NU,UP,80,75,1,0.43175,"Pace, joint",preseason,0
+85,2022,UP,NU,75,63,2,0.5605,"Pace, joint",preseason,0
+85,2022,NU,UST,69,63,1,0.77025,"Pace, joint",preseason,0
+85,2022,UST,NU,57,67,2,0.224,"Pace, joint",preseason,0
+85,2022,UE,UP,77,84,1,0.21575,"Pace, joint",preseason,0
+85,2022,UP,UE,83,69,2,0.7925,"Pace, joint",preseason,0
+85,2022,UE,UST,78,68,1,0.531,"Pace, joint",preseason,0
+85,2022,UST,UE,51,81,2,0.461,"Pace, joint",preseason,0
+85,2022,UP,UST,76,51,1,0.8175,"Pace, joint",preseason,0
+85,2022,UST,UP,60,78,2,0.1825,"Pace, joint",preseason,0
+86,2023,ADMU,AdU,62,58,2,0.64175,"Poisson, one season",halfway,0
+86,2023,DLSU,AdU,69,57,2,0.706,"Poisson, one season",halfway,0
+86,2023,FEU,AdU,54,63,2,0.49025,"Poisson, one season",halfway,0
+86,2023,NU,AdU,62,68,2,0.702,"Poisson, one season",halfway,0
+86,2023,UE,AdU,61,63,2,0.454,"Poisson, one season",halfway,0
+86,2023,UP,AdU,77,51,2,0.78675,"Poisson, one season",halfway,0
+86,2023,UST,AdU,53,61,2,0.3155,"Poisson, one season",halfway,0
+86,2023,DLSU,ADMU,72,69,2,0.56875,"Poisson, one season",halfway,0
+86,2023,FEU,ADMU,62,59,2,0.33875,"Poisson, one season",halfway,0
+86,2023,NU,ADMU,65,61,2,0.5615,"Poisson, one season",halfway,0
+86,2023,UE,ADMU,74,80,2,0.3135,"Poisson, one season",halfway,0
+86,2023,UP,ADMU,65,60,2,0.66625,"Poisson, one season",halfway,0
+86,2023,UST,ADMU,59,67,2,0.171,"Poisson, one season",halfway,0
+86,2023,FEU,DLSU,70,80,2,0.277,"Poisson, one season",halfway,0
+86,2023,NU,DLSU,78,88,2,0.518,"Poisson, one season",halfway,0
+86,2023,UE,DLSU,76,86,2,0.2585,"Poisson, one season",halfway,0
+86,2023,UP,DLSU,79,88,2,0.60525,"Poisson, one season",halfway,0
+86,2023,UST,DLSU,69,100,2,0.147,"Poisson, one season",halfway,0
+86,2023,NU,FEU,68,57,2,0.69925,"Poisson, one season",halfway,0
+86,2023,UE,FEU,87,86,2,0.46525,"Poisson, one season",halfway,0
+86,2023,UP,FEU,81,64,2,0.79475,"Poisson, one season",halfway,0
+86,2023,UST,FEU,57,53,2,0.33375,"Poisson, one season",halfway,0
+86,2023,UE,NU,61,64,2,0.26825,"Poisson, one season",halfway,0
+86,2023,UP,NU,79,57,2,0.58725,"Poisson, one season",halfway,0
+86,2023,UST,NU,65,76,2,0.15325,"Poisson, one season",halfway,0
+86,2023,UP,UE,79,72,2,0.818,"Poisson, one season",halfway,0
+86,2023,UST,UE,73,86,2,0.35225,"Poisson, one season",halfway,0
+86,2023,UST,UP,61,86,2,0.0845,"Poisson, one season",halfway,0
+86,2023,ADMU,AdU,62,58,2,0.703,"Pace, one season",halfway,0
+86,2023,DLSU,AdU,69,57,2,0.72875,"Pace, one season",halfway,0
+86,2023,FEU,AdU,54,63,2,0.49625,"Pace, one season",halfway,0
+86,2023,NU,AdU,62,68,2,0.74225,"Pace, one season",halfway,0
+86,2023,UE,AdU,61,63,2,0.43625,"Pace, one season",halfway,0
+86,2023,UP,AdU,77,51,2,0.81825,"Pace, one season",halfway,0
+86,2023,UST,AdU,53,61,2,0.239,"Pace, one season",halfway,0
+86,2023,DLSU,ADMU,72,69,2,0.5615,"Pace, one season",halfway,0
+86,2023,FEU,ADMU,62,59,2,0.28625,"Pace, one season",halfway,0
+86,2023,NU,ADMU,65,61,2,0.56425,"Pace, one season",halfway,0
+86,2023,UE,ADMU,74,80,2,0.24625,"Pace, one season",halfway,0
+86,2023,UP,ADMU,65,60,2,0.68925,"Pace, one season",halfway,0
+86,2023,UST,ADMU,59,67,2,0.098,"Pace, one season",halfway,0
+86,2023,FEU,DLSU,70,80,2,0.26425,"Pace, one season",halfway,0
+86,2023,NU,DLSU,78,88,2,0.52075,"Pace, one season",halfway,0
+86,2023,UE,DLSU,76,86,2,0.21375,"Pace, one season",halfway,0
+86,2023,UP,DLSU,79,88,2,0.6395,"Pace, one season",halfway,0
+86,2023,UST,DLSU,69,100,2,0.07975,"Pace, one season",halfway,0
+86,2023,NU,FEU,68,57,2,0.7575,"Pace, one season",halfway,0
+86,2023,UE,FEU,87,86,2,0.45375,"Pace, one season",halfway,0
+86,2023,UP,FEU,81,64,2,0.83675,"Pace, one season",halfway,0
+86,2023,UST,FEU,57,53,2,0.257,"Pace, one season",halfway,0
+86,2023,UE,NU,61,64,2,0.21175,"Pace, one season",halfway,0
+86,2023,UP,NU,79,57,2,0.60025,"Pace, one season",halfway,0
+86,2023,UST,NU,65,76,2,0.08475,"Pace, one season",halfway,0
+86,2023,UP,UE,79,72,2,0.86675,"Pace, one season",halfway,0
+86,2023,UST,UE,73,86,2,0.28975,"Pace, one season",halfway,0
+86,2023,UST,UP,61,86,2,0.04975,"Pace, one season",halfway,0
+86,2023,ADMU,AdU,62,58,2,0.71125,"Pace, joint",halfway,0
+86,2023,DLSU,AdU,69,57,2,0.71025,"Pace, joint",halfway,0
+86,2023,FEU,AdU,54,63,2,0.49475,"Pace, joint",halfway,0
+86,2023,NU,AdU,62,68,2,0.7255,"Pace, joint",halfway,0
+86,2023,UE,AdU,61,63,2,0.432,"Pace, joint",halfway,0
+86,2023,UP,AdU,77,51,2,0.81625,"Pace, joint",halfway,0
+86,2023,UST,AdU,53,61,2,0.22875,"Pace, joint",halfway,0
+86,2023,DLSU,ADMU,72,69,2,0.50375,"Pace, joint",halfway,0
+86,2023,FEU,ADMU,62,59,2,0.281,"Pace, joint",halfway,0
+86,2023,NU,ADMU,65,61,2,0.5255,"Pace, joint",halfway,0
+86,2023,UE,ADMU,74,80,2,0.2415,"Pace, joint",halfway,0
+86,2023,UP,ADMU,65,60,2,0.6335,"Pace, joint",halfway,0
+86,2023,UST,ADMU,59,67,2,0.069,"Pace, joint",halfway,0
+86,2023,FEU,DLSU,70,80,2,0.28,"Pace, joint",halfway,0
+86,2023,NU,DLSU,78,88,2,0.523,"Pace, joint",halfway,0
+86,2023,UE,DLSU,76,86,2,0.24275,"Pace, joint",halfway,0
+86,2023,UP,DLSU,79,88,2,0.6495,"Pace, joint",halfway,0
+86,2023,UST,DLSU,69,100,2,0.07925,"Pace, joint",halfway,0
+86,2023,NU,FEU,68,57,2,0.74375,"Pace, joint",halfway,0
+86,2023,UE,FEU,87,86,2,0.45,"Pace, joint",halfway,0
+86,2023,UP,FEU,81,64,2,0.834,"Pace, joint",halfway,0
+86,2023,UST,FEU,57,53,2,0.2215,"Pace, joint",halfway,0
+86,2023,UE,NU,61,64,2,0.2415,"Pace, joint",halfway,0
+86,2023,UP,NU,79,57,2,0.6135,"Pace, joint",halfway,0
+86,2023,UST,NU,65,76,2,0.074,"Pace, joint",halfway,0
+86,2023,UP,UE,79,72,2,0.864,"Pace, joint",halfway,0
+86,2023,UST,UE,73,86,2,0.25075,"Pace, joint",halfway,0
+86,2023,UST,UP,61,86,2,0.03175,"Pace, joint",halfway,0
+86,2023,AdU,ADMU,74,71,1,0.30525,"Pace, joint",preseason,0
+86,2023,ADMU,AdU,62,58,2,0.68025,"Pace, joint",preseason,0
+86,2023,AdU,DLSU,58,71,1,0.45425,"Pace, joint",preseason,0
+86,2023,DLSU,AdU,69,57,2,0.5305,"Pace, joint",preseason,0
+86,2023,AdU,FEU,46,49,1,0.5095,"Pace, joint",preseason,0
+86,2023,FEU,AdU,54,63,2,0.499,"Pace, joint",preseason,0
+86,2023,AdU,NU,66,69,1,0.4445,"Pace, joint",preseason,0
+86,2023,NU,AdU,62,68,2,0.5575,"Pace, joint",preseason,0
+86,2023,AdU,UE,72,65,1,0.533,"Pace, joint",preseason,0
+86,2023,UE,AdU,61,63,2,0.457,"Pace, joint",preseason,0
+86,2023,AdU,UP,51,68,1,0.35,"Pace, joint",preseason,0
+86,2023,UP,AdU,77,51,2,0.64175,"Pace, joint",preseason,0
+86,2023,AdU,UST,79,76,1,0.69825,"Pace, joint",preseason,0
+86,2023,UST,AdU,53,61,2,0.30325,"Pace, joint",preseason,0
+86,2023,ADMU,DLSU,77,72,1,0.65175,"Pace, joint",preseason,0
+86,2023,DLSU,ADMU,72,69,2,0.342,"Pace, joint",preseason,0
+86,2023,ADMU,FEU,61,66,1,0.6875,"Pace, joint",preseason,0
+86,2023,FEU,ADMU,62,59,2,0.30725,"Pace, joint",preseason,0
+86,2023,ADMU,NU,64,77,1,0.63825,"Pace, joint",preseason,0
+86,2023,NU,ADMU,65,61,2,0.37575,"Pace, joint",preseason,0
+86,2023,ADMU,UE,76,69,1,0.7275,"Pace, joint",preseason,0
+86,2023,UE,ADMU,74,80,2,0.2685,"Pace, joint",preseason,0
+86,2023,ADMU,UP,99,89,1,0.55825,"Pace, joint",preseason,0
+86,2023,UP,ADMU,65,60,2,0.4435,"Pace, joint",preseason,0
+86,2023,ADMU,UST,97,77,1,0.84075,"Pace, joint",preseason,0
+86,2023,UST,ADMU,59,67,2,0.154,"Pace, joint",preseason,0
+86,2023,DLSU,FEU,87,76,1,0.54,"Pace, joint",preseason,0
+86,2023,FEU,DLSU,70,80,2,0.46525,"Pace, joint",preseason,0
+86,2023,DLSU,NU,77,80,1,0.468,"Pace, joint",preseason,0
+86,2023,NU,DLSU,78,88,2,0.52475,"Pace, joint",preseason,0
+86,2023,DLSU,UE,83,75,1,0.59075,"Pace, joint",preseason,0
+86,2023,UE,DLSU,76,86,2,0.426,"Pace, joint",preseason,0
+86,2023,DLSU,UP,64,67,1,0.3905,"Pace, joint",preseason,0
+86,2023,UP,DLSU,79,88,2,0.60725,"Pace, joint",preseason,0
+86,2023,DLSU,UST,91,71,1,0.73875,"Pace, joint",preseason,0
+86,2023,UST,DLSU,69,100,2,0.26175,"Pace, joint",preseason,0
+86,2023,FEU,NU,65,71,1,0.4325,"Pace, joint",preseason,0
+86,2023,NU,FEU,68,57,2,0.56375,"Pace, joint",preseason,0
+86,2023,FEU,UE,58,65,1,0.5375,"Pace, joint",preseason,0
+86,2023,UE,FEU,87,86,2,0.47475,"Pace, joint",preseason,0
+86,2023,FEU,UP,76,80,1,0.35325,"Pace, joint",preseason,0
+86,2023,UP,FEU,81,64,2,0.649,"Pace, joint",preseason,0
+86,2023,FEU,UST,62,68,1,0.69925,"Pace, joint",preseason,0
+86,2023,UST,FEU,57,53,2,0.3095,"Pace, joint",preseason,0
+86,2023,NU,UE,68,49,1,0.58775,"Pace, joint",preseason,0
+86,2023,UE,NU,61,64,2,0.39725,"Pace, joint",preseason,0
+86,2023,NU,UP,60,78,1,0.41225,"Pace, joint",preseason,0
+86,2023,UP,NU,79,57,2,0.58025,"Pace, joint",preseason,0
+86,2023,NU,UST,87,69,1,0.75275,"Pace, joint",preseason,0
+86,2023,UST,NU,65,76,2,0.25675,"Pace, joint",preseason,0
+86,2023,UE,UP,69,84,1,0.30775,"Pace, joint",preseason,0
+86,2023,UP,UE,79,72,2,0.68525,"Pace, joint",preseason,0
+86,2023,UE,UST,80,70,1,0.67275,"Pace, joint",preseason,0
+86,2023,UST,UE,73,86,2,0.326,"Pace, joint",preseason,0
+86,2023,UP,UST,110,79,1,0.81775,"Pace, joint",preseason,0
+86,2023,UST,UP,61,86,2,0.1855,"Pace, joint",preseason,0
+87,2024,ADMU,AdU,55,69,2,0.54975,"Poisson, one season",halfway,0
+87,2024,DLSU,AdU,70,45,2,0.84125,"Poisson, one season",halfway,0
+87,2024,FEU,AdU,76,72,2,0.5055,"Poisson, one season",halfway,0
+87,2024,NU,AdU,41,53,2,0.57925,"Poisson, one season",halfway,0
+87,2024,UE,AdU,37,45,2,0.6045,"Poisson, one season",halfway,0
+87,2024,UP,AdU,70,59,2,0.82375,"Poisson, one season",halfway,0
+87,2024,UST,AdU,75,49,2,0.69425,"Poisson, one season",halfway,0
+87,2024,DLSU,ADMU,80,65,2,0.82525,"Poisson, one season",halfway,0
+87,2024,FEU,ADMU,65,54,2,0.43425,"Poisson, one season",halfway,0
+87,2024,NU,ADMU,68,70,2,0.5325,"Poisson, one season",halfway,0
+87,2024,UE,ADMU,67,71,2,0.55975,"Poisson, one season",halfway,0
+87,2024,UP,ADMU,75,47,2,0.79125,"Poisson, one season",halfway,0
+87,2024,UST,ADMU,64,67,2,0.652,"Poisson, one season",halfway,0
+87,2024,FEU,DLSU,53,58,2,0.14475,"Poisson, one season",halfway,0
+87,2024,NU,DLSU,63,54,2,0.213,"Poisson, one season",halfway,0
+87,2024,UE,DLSU,68,77,2,0.23925,"Poisson, one season",halfway,0
+87,2024,UP,DLSU,66,77,2,0.471,"Poisson, one season",halfway,0
+87,2024,UST,DLSU,87,94,2,0.3045,"Poisson, one season",halfway,0
+87,2024,NU,FEU,58,65,2,0.61,"Poisson, one season",halfway,0
+87,2024,UE,FEU,51,59,2,0.62725,"Poisson, one season",halfway,0
+87,2024,UP,FEU,86,78,2,0.83675,"Poisson, one season",halfway,0
+87,2024,UST,FEU,79,70,2,0.70425,"Poisson, one season",halfway,0
+87,2024,UE,NU,74,58,2,0.51375,"Poisson, one season",halfway,0
+87,2024,UP,NU,47,67,2,0.76025,"Poisson, one season",halfway,0
+87,2024,UST,NU,62,67,2,0.616,"Poisson, one season",halfway,0
+87,2024,UP,UE,77,67,2,0.7485,"Poisson, one season",halfway,0
+87,2024,UST,UE,76,67,2,0.58575,"Poisson, one season",halfway,0
+87,2024,UST,UP,73,83,2,0.321,"Poisson, one season",halfway,0
+87,2024,ADMU,AdU,55,69,2,0.52125,"Pace, one season",halfway,0
+87,2024,DLSU,AdU,70,45,2,0.8705,"Pace, one season",halfway,0
+87,2024,FEU,AdU,76,72,2,0.47425,"Pace, one season",halfway,0
+87,2024,NU,AdU,41,53,2,0.57675,"Pace, one season",halfway,0
+87,2024,UE,AdU,37,45,2,0.62275,"Pace, one season",halfway,0
+87,2024,UP,AdU,70,59,2,0.84525,"Pace, one season",halfway,0
+87,2024,UST,AdU,75,49,2,0.671,"Pace, one season",halfway,0
+87,2024,DLSU,ADMU,80,65,2,0.8675,"Pace, one season",halfway,0
+87,2024,FEU,ADMU,65,54,2,0.479,"Pace, one season",halfway,0
+87,2024,NU,ADMU,68,70,2,0.56375,"Pace, one season",halfway,0
+87,2024,UE,ADMU,67,71,2,0.60275,"Pace, one season",halfway,0
+87,2024,UP,ADMU,75,47,2,0.85025,"Pace, one season",halfway,0
+87,2024,UST,ADMU,64,67,2,0.67625,"Pace, one season",halfway,0
+87,2024,FEU,DLSU,53,58,2,0.13125,"Pace, one season",halfway,0
+87,2024,NU,DLSU,63,54,2,0.168,"Pace, one season",halfway,0
+87,2024,UE,DLSU,68,77,2,0.19525,"Pace, one season",halfway,0
+87,2024,UP,DLSU,66,77,2,0.46725,"Pace, one season",halfway,0
+87,2024,UST,DLSU,87,94,2,0.245,"Pace, one season",halfway,0
+87,2024,NU,FEU,58,65,2,0.5875,"Pace, one season",halfway,0
+87,2024,UE,FEU,51,59,2,0.62075,"Pace, one season",halfway,0
+87,2024,UP,FEU,86,78,2,0.858,"Pace, one season",halfway,0
+87,2024,UST,FEU,79,70,2,0.70475,"Pace, one season",halfway,0
+87,2024,UE,NU,74,58,2,0.5345,"Pace, one season",halfway,0
+87,2024,UP,NU,47,67,2,0.81375,"Pace, one season",halfway,0
+87,2024,UST,NU,62,67,2,0.612,"Pace, one season",halfway,0
+87,2024,UP,UE,77,67,2,0.78075,"Pace, one season",halfway,0
+87,2024,UST,UE,76,67,2,0.56575,"Pace, one season",halfway,0
+87,2024,UST,UP,73,83,2,0.256,"Pace, one season",halfway,0
+87,2024,ADMU,AdU,55,69,2,0.485,"Pace, joint",halfway,0
+87,2024,DLSU,AdU,70,45,2,0.8315,"Pace, joint",halfway,0
+87,2024,FEU,AdU,76,72,2,0.44575,"Pace, joint",halfway,0
+87,2024,NU,AdU,41,53,2,0.51825,"Pace, joint",halfway,0
+87,2024,UE,AdU,37,45,2,0.57175,"Pace, joint",halfway,0
+87,2024,UP,AdU,70,59,2,0.83575,"Pace, joint",halfway,0
+87,2024,UST,AdU,75,49,2,0.5065,"Pace, joint",halfway,0
+87,2024,DLSU,ADMU,80,65,2,0.869,"Pace, joint",halfway,0
+87,2024,FEU,ADMU,65,54,2,0.457,"Pace, joint",halfway,0
+87,2024,NU,ADMU,68,70,2,0.566,"Pace, joint",halfway,0
+87,2024,UE,ADMU,67,71,2,0.6035,"Pace, joint",halfway,0
+87,2024,UP,ADMU,75,47,2,0.8675,"Pace, joint",halfway,0
+87,2024,UST,ADMU,64,67,2,0.532,"Pace, joint",halfway,0
+87,2024,FEU,DLSU,53,58,2,0.11575,"Pace, joint",halfway,0
+87,2024,NU,DLSU,63,54,2,0.16175,"Pace, joint",halfway,0
+87,2024,UE,DLSU,68,77,2,0.20175,"Pace, joint",halfway,0
+87,2024,UP,DLSU,66,77,2,0.511,"Pace, joint",halfway,0
+87,2024,UST,DLSU,87,94,2,0.1365,"Pace, joint",halfway,0
+87,2024,NU,FEU,58,65,2,0.5965,"Pace, joint",halfway,0
+87,2024,UE,FEU,51,59,2,0.63575,"Pace, joint",halfway,0
+87,2024,UP,FEU,86,78,2,0.87675,"Pace, joint",halfway,0
+87,2024,UST,FEU,79,70,2,0.579,"Pace, joint",halfway,0
+87,2024,UE,NU,74,58,2,0.53975,"Pace, joint",halfway,0
+87,2024,UP,NU,47,67,2,0.82625,"Pace, joint",halfway,0
+87,2024,UST,NU,62,67,2,0.46475,"Pace, joint",halfway,0
+87,2024,UP,UE,77,67,2,0.80275,"Pace, joint",halfway,0
+87,2024,UST,UE,76,67,2,0.42525,"Pace, joint",halfway,0
+87,2024,UST,UP,73,83,2,0.12975,"Pace, joint",halfway,0
+87,2024,AdU,ADMU,51,60,1,0.41475,"Pace, joint",preseason,0
+87,2024,ADMU,AdU,55,69,2,0.57975,"Pace, joint",preseason,0
+87,2024,AdU,DLSU,52,82,1,0.3645,"Pace, joint",preseason,0
+87,2024,DLSU,AdU,70,45,2,0.6465,"Pace, joint",preseason,0
+87,2024,AdU,FEU,59,47,1,0.54025,"Pace, joint",preseason,0
+87,2024,FEU,AdU,76,72,2,0.46025,"Pace, joint",preseason,0
+87,2024,AdU,NU,60,58,1,0.4135,"Pace, joint",preseason,0
+87,2024,NU,AdU,41,53,2,0.5825,"Pace, joint",preseason,0
+87,2024,AdU,UE,62,63,1,0.5295,"Pace, joint",preseason,0
+87,2024,UE,AdU,37,45,2,0.46475,"Pace, joint",preseason,0
+87,2024,AdU,UP,57,69,1,0.29725,"Pace, joint",preseason,0
+87,2024,UP,AdU,70,59,2,0.70825,"Pace, joint",preseason,0
+87,2024,AdU,UST,69,56,1,0.69425,"Pace, joint",preseason,0
+87,2024,UST,AdU,75,49,2,0.29425,"Pace, joint",preseason,0
+87,2024,ADMU,DLSU,61,74,1,0.4445,"Pace, joint",preseason,0
+87,2024,DLSU,ADMU,80,65,2,0.55075,"Pace, joint",preseason,0
+87,2024,ADMU,FEU,65,66,1,0.633,"Pace, joint",preseason,0
+87,2024,FEU,ADMU,65,54,2,0.36275,"Pace, joint",preseason,0
+87,2024,ADMU,NU,68,78,1,0.49875,"Pace, joint",preseason,0
+87,2024,NU,ADMU,68,70,2,0.49125,"Pace, joint",preseason,0
+87,2024,ADMU,UE,62,69,1,0.63425,"Pace, joint",preseason,0
+87,2024,UE,ADMU,67,71,2,0.37275,"Pace, joint",preseason,0
+87,2024,ADMU,UP,61,77,1,0.3795,"Pace, joint",preseason,0
+87,2024,UP,ADMU,75,47,2,0.6205,"Pace, joint",preseason,0
+87,2024,ADMU,UST,64,74,1,0.78175,"Pace, joint",preseason,0
+87,2024,UST,ADMU,64,67,2,0.2135,"Pace, joint",preseason,0
+87,2024,DLSU,FEU,68,62,1,0.683,"Pace, joint",preseason,0
+87,2024,FEU,DLSU,53,58,2,0.3095,"Pace, joint",preseason,0
+87,2024,DLSU,NU,78,75,1,0.57,"Pace, joint",preseason,0
+87,2024,NU,DLSU,63,54,2,0.418,"Pace, joint",preseason,0
+87,2024,DLSU,UE,71,75,1,0.68975,"Pace, joint",preseason,0
+87,2024,UE,DLSU,68,77,2,0.3105,"Pace, joint",preseason,0
+87,2024,DLSU,UP,68,56,1,0.44625,"Pace, joint",preseason,0
+87,2024,UP,DLSU,66,77,2,0.5605,"Pace, joint",preseason,0
+87,2024,DLSU,UST,88,67,1,0.8315,"Pace, joint",preseason,0
+87,2024,UST,DLSU,87,94,2,0.17175,"Pace, joint",preseason,0
+87,2024,FEU,NU,60,62,1,0.3725,"Pace, joint",preseason,0
+87,2024,NU,FEU,58,65,2,0.62175,"Pace, joint",preseason,0
+87,2024,FEU,UE,51,56,1,0.48325,"Pace, joint",preseason,0
+87,2024,UE,FEU,51,59,2,0.494,"Pace, joint",preseason,0
+87,2024,FEU,UP,58,69,1,0.25075,"Pace, joint",preseason,0
+87,2024,UP,FEU,86,78,2,0.7435,"Pace, joint",preseason,0
+87,2024,FEU,UST,72,83,1,0.66175,"Pace, joint",preseason,0
+87,2024,UST,FEU,79,70,2,0.3345,"Pace, joint",preseason,0
+87,2024,NU,UE,51,57,1,0.61625,"Pace, joint",preseason,0
+87,2024,UE,NU,74,58,2,0.373,"Pace, joint",preseason,0
+87,2024,NU,UP,62,89,1,0.3655,"Pace, joint",preseason,0
+87,2024,UP,NU,47,67,2,0.633,"Pace, joint",preseason,0
+87,2024,NU,UST,64,67,1,0.7655,"Pace, joint",preseason,0
+87,2024,UST,NU,62,67,2,0.23275,"Pace, joint",preseason,0
+87,2024,UE,UP,71,81,1,0.26275,"Pace, joint",preseason,0
+87,2024,UP,UE,77,67,2,0.739,"Pace, joint",preseason,0
+87,2024,UE,UST,55,70,1,0.684,"Pace, joint",preseason,0
+87,2024,UST,UE,76,67,2,0.3225,"Pace, joint",preseason,0
+87,2024,UP,UST,81,70,1,0.857,"Pace, joint",preseason,0
+87,2024,UST,UP,73,83,2,0.134,"Pace, joint",preseason,0
+88,2025,ADMU,AdU,72,61,2,0.49625,"Poisson, one season",halfway,0
+88,2025,DLSU,AdU,60,61,2,0.45175,"Poisson, one season",halfway,0
+88,2025,FEU,AdU,73,70,2,0.45975,"Poisson, one season",halfway,0
+88,2025,NU,AdU,66,65,2,0.63125,"Poisson, one season",halfway,0
+88,2025,UE,AdU,53,56,2,0.25525,"Poisson, one season",halfway,0
+88,2025,UP,AdU,70,65,2,0.5475,"Poisson, one season",halfway,0
+88,2025,UST,AdU,96,97,2,0.60575,"Poisson, one season",halfway,0
+88,2025,DLSU,ADMU,78,72,2,0.451,"Poisson, one season",halfway,0
+88,2025,FEU,ADMU,75,68,2,0.452,"Poisson, one season",halfway,0
+88,2025,NU,ADMU,66,50,2,0.65225,"Poisson, one season",halfway,0
+88,2025,UE,ADMU,74,78,2,0.24125,"Poisson, one season",halfway,0
+88,2025,UP,ADMU,79,75,2,0.5525,"Poisson, one season",halfway,0
+88,2025,UST,ADMU,67,59,2,0.62975,"Poisson, one season",halfway,0
+88,2025,FEU,DLSU,84,83,2,0.50725,"Poisson, one season",halfway,0
+88,2025,NU,DLSU,75,67,2,0.706,"Poisson, one season",halfway,0
+88,2025,UE,DLSU,72,84,2,0.281,"Poisson, one season",halfway,0
+88,2025,UP,DLSU,72,77,2,0.5855,"Poisson, one season",halfway,0
+88,2025,UST,DLSU,77,86,2,0.6735,"Poisson, one season",halfway,0
+88,2025,NU,FEU,70,64,2,0.68425,"Poisson, one season",halfway,0
+88,2025,UE,FEU,77,84,2,0.3025,"Poisson, one season",halfway,0
+88,2025,UP,FEU,89,75,2,0.59175,"Poisson, one season",halfway,0
+88,2025,UST,FEU,79,81,2,0.66875,"Poisson, one season",halfway,0
+88,2025,UE,NU,74,83,2,0.145,"Poisson, one season",halfway,0
+88,2025,UP,NU,78,74,2,0.40425,"Poisson, one season",halfway,0
+88,2025,UST,NU,80,71,2,0.45875,"Poisson, one season",halfway,0
+88,2025,UP,UE,70,61,2,0.7995,"Poisson, one season",halfway,0
+88,2025,UST,UE,109,97,2,0.85,"Poisson, one season",halfway,0
+88,2025,UST,UP,88,89,2,0.57525,"Poisson, one season",halfway,0
+88,2025,ADMU,AdU,72,61,2,0.48775,"Pace, one season",halfway,0
+88,2025,DLSU,AdU,60,61,2,0.4065,"Pace, one season",halfway,0
+88,2025,FEU,AdU,73,70,2,0.43775,"Pace, one season",halfway,0
+88,2025,NU,AdU,66,65,2,0.63575,"Pace, one season",halfway,0
+88,2025,UE,AdU,53,56,2,0.2225,"Pace, one season",halfway,0
+88,2025,UP,AdU,70,65,2,0.54075,"Pace, one season",halfway,0
+88,2025,UST,AdU,96,97,2,0.632,"Pace, one season",halfway,0
+88,2025,DLSU,ADMU,78,72,2,0.4155,"Pace, one season",halfway,0
+88,2025,FEU,ADMU,75,68,2,0.4385,"Pace, one season",halfway,0
+88,2025,NU,ADMU,66,50,2,0.67675,"Pace, one season",halfway,0
+88,2025,UE,ADMU,74,78,2,0.22075,"Pace, one season",halfway,0
+88,2025,UP,ADMU,79,75,2,0.571,"Pace, one season",halfway,0
+88,2025,UST,ADMU,67,59,2,0.66125,"Pace, one season",halfway,0
+88,2025,FEU,DLSU,84,83,2,0.531,"Pace, one season",halfway,0
+88,2025,NU,DLSU,75,67,2,0.73525,"Pace, one season",halfway,0
+88,2025,UE,DLSU,72,84,2,0.274,"Pace, one season",halfway,0
+88,2025,UP,DLSU,72,77,2,0.63525,"Pace, one season",halfway,0
+88,2025,UST,DLSU,77,86,2,0.73925,"Pace, one season",halfway,0
+88,2025,NU,FEU,70,64,2,0.719,"Pace, one season",halfway,0
+88,2025,UE,FEU,77,84,2,0.262,"Pace, one season",halfway,0
+88,2025,UP,FEU,89,75,2,0.61275,"Pace, one season",halfway,0
+88,2025,UST,FEU,79,81,2,0.7115,"Pace, one season",halfway,0
+88,2025,UE,NU,74,83,2,0.12725,"Pace, one season",halfway,0
+88,2025,UP,NU,78,74,2,0.38475,"Pace, one season",halfway,0
+88,2025,UST,NU,80,71,2,0.45875,"Pace, one season",halfway,0
+88,2025,UP,UE,70,61,2,0.8215,"Pace, one season",halfway,0
+88,2025,UST,UE,109,97,2,0.88825,"Pace, one season",halfway,0
+88,2025,UST,UP,88,89,2,0.58225,"Pace, one season",halfway,0
+88,2025,ADMU,AdU,72,61,2,0.51275,"Pace, joint",halfway,0
+88,2025,DLSU,AdU,60,61,2,0.544,"Pace, joint",halfway,0
+88,2025,FEU,AdU,73,70,2,0.4945,"Pace, joint",halfway,0
+88,2025,NU,AdU,66,65,2,0.652,"Pace, joint",halfway,0
+88,2025,UE,AdU,53,56,2,0.319,"Pace, joint",halfway,0
+88,2025,UP,AdU,70,65,2,0.63,"Pace, joint",halfway,0
+88,2025,UST,AdU,96,97,2,0.6765,"Pace, joint",halfway,0
+88,2025,DLSU,ADMU,78,72,2,0.545,"Pace, joint",halfway,0
+88,2025,FEU,ADMU,75,68,2,0.468,"Pace, joint",halfway,0
+88,2025,NU,ADMU,66,50,2,0.65,"Pace, joint",halfway,0
+88,2025,UE,ADMU,74,78,2,0.27375,"Pace, joint",halfway,0
+88,2025,UP,ADMU,79,75,2,0.63675,"Pace, joint",halfway,0
+88,2025,UST,ADMU,67,59,2,0.675,"Pace, joint",halfway,0
+88,2025,FEU,DLSU,84,83,2,0.43075,"Pace, joint",halfway,0
+88,2025,NU,DLSU,75,67,2,0.655,"Pace, joint",halfway,0
+88,2025,UE,DLSU,72,84,2,0.23425,"Pace, joint",halfway,0
+88,2025,UP,DLSU,72,77,2,0.59925,"Pace, joint",halfway,0
+88,2025,UST,DLSU,77,86,2,0.64175,"Pace, joint",halfway,0
+88,2025,NU,FEU,70,64,2,0.68625,"Pace, joint",halfway,0
+88,2025,UE,FEU,77,84,2,0.295,"Pace, joint",halfway,0
+88,2025,UP,FEU,89,75,2,0.66875,"Pace, joint",halfway,0
+88,2025,UST,FEU,79,81,2,0.70025,"Pace, joint",halfway,0
+88,2025,UE,NU,74,83,2,0.157,"Pace, joint",halfway,0
+88,2025,UP,NU,78,74,2,0.46775,"Pace, joint",halfway,0
+88,2025,UST,NU,80,71,2,0.4785,"Pace, joint",halfway,0
+88,2025,UP,UE,70,61,2,0.82475,"Pace, joint",halfway,0
+88,2025,UST,UE,109,97,2,0.8685,"Pace, joint",halfway,0
+88,2025,UST,UP,88,89,2,0.55475,"Pace, joint",halfway,0
+88,2025,AdU,ADMU,58,77,1,0.53725,"Pace, joint",preseason,0
+88,2025,ADMU,AdU,72,61,2,0.46525,"Pace, joint",preseason,0
+88,2025,AdU,DLSU,58,60,1,0.292,"Pace, joint",preseason,0
+88,2025,DLSU,AdU,60,61,2,0.71575,"Pace, joint",preseason,0
+88,2025,AdU,FEU,58,64,1,0.48,"Pace, joint",preseason,0
+88,2025,FEU,AdU,73,70,2,0.5275,"Pace, joint",preseason,0
+88,2025,AdU,NU,54,56,1,0.45825,"Pace, joint",preseason,0
+88,2025,NU,AdU,66,65,2,0.54625,"Pace, joint",preseason,0
+88,2025,AdU,UE,77,62,1,0.4715,"Pace, joint",preseason,0
+88,2025,UE,AdU,53,56,2,0.52675,"Pace, joint",preseason,0
+88,2025,AdU,UP,62,59,1,0.291,"Pace, joint",preseason,0
+88,2025,UP,AdU,70,65,2,0.71125,"Pace, joint",preseason,0
+88,2025,AdU,UST,69,59,1,0.45825,"Pace, joint",preseason,0
+88,2025,UST,AdU,96,97,2,0.5425,"Pace, joint",preseason,0
+88,2025,ADMU,DLSU,81,74,1,0.2325,"Pace, joint",preseason,0
+88,2025,DLSU,ADMU,78,72,2,0.75175,"Pace, joint",preseason,0
+88,2025,ADMU,FEU,86,83,1,0.439,"Pace, joint",preseason,0
+88,2025,FEU,ADMU,75,68,2,0.555,"Pace, joint",preseason,0
+88,2025,ADMU,NU,66,71,1,0.41375,"Pace, joint",preseason,0
+88,2025,NU,ADMU,66,50,2,0.59825,"Pace, joint",preseason,0
+88,2025,ADMU,UE,62,60,1,0.445,"Pace, joint",preseason,0
+88,2025,UE,ADMU,74,78,2,0.56575,"Pace, joint",preseason,0
+88,2025,ADMU,UP,69,83,1,0.2625,"Pace, joint",preseason,0
+88,2025,UP,ADMU,79,75,2,0.7545,"Pace, joint",preseason,0
+88,2025,ADMU,UST,89,98,1,0.4285,"Pace, joint",preseason,0
+88,2025,UST,ADMU,67,59,2,0.58,"Pace, joint",preseason,0
+88,2025,DLSU,FEU,74,72,1,0.70125,"Pace, joint",preseason,0
+88,2025,FEU,DLSU,84,83,2,0.2905,"Pace, joint",preseason,0
+88,2025,DLSU,NU,78,82,1,0.68525,"Pace, joint",preseason,0
+88,2025,NU,DLSU,75,67,2,0.3225,"Pace, joint",preseason,0
+88,2025,DLSU,UE,111,110,1,0.70725,"Pace, joint",preseason,0
+88,2025,UE,DLSU,72,84,2,0.285,"Pace, joint",preseason,0
+88,2025,DLSU,UP,72,69,1,0.51225,"Pace, joint",preseason,0
+88,2025,UP,DLSU,72,77,2,0.48375,"Pace, joint",preseason,0
+88,2025,DLSU,UST,84,93,1,0.70925,"Pace, joint",preseason,0
+88,2025,UST,DLSU,77,86,2,0.29825,"Pace, joint",preseason,0
+88,2025,FEU,NU,68,84,1,0.46575,"Pace, joint",preseason,0
+88,2025,NU,FEU,70,64,2,0.53575,"Pace, joint",preseason,0
+88,2025,FEU,UE,95,76,1,0.4955,"Pace, joint",preseason,0
+88,2025,UE,FEU,77,84,2,0.513,"Pace, joint",preseason,0
+88,2025,FEU,UP,66,69,1,0.307,"Pace, joint",preseason,0
+88,2025,UP,FEU,89,75,2,0.688,"Pace, joint",preseason,0
+88,2025,FEU,UST,80,92,1,0.47275,"Pace, joint",preseason,0
+88,2025,UST,FEU,79,81,2,0.52625,"Pace, joint",preseason,0
+88,2025,NU,UE,72,57,1,0.534,"Pace, joint",preseason,0
+88,2025,UE,NU,74,83,2,0.4755,"Pace, joint",preseason,0
+88,2025,NU,UP,59,66,1,0.342,"Pace, joint",preseason,0
+88,2025,UP,NU,78,74,2,0.65925,"Pace, joint",preseason,0
+88,2025,NU,UST,76,69,1,0.50875,"Pace, joint",preseason,0
+88,2025,UST,NU,80,71,2,0.499,"Pace, joint",preseason,0
+88,2025,UE,UP,75,92,1,0.29725,"Pace, joint",preseason,0
+88,2025,UP,UE,70,61,2,0.6785,"Pace, joint",preseason,0
+88,2025,UE,UST,99,111,1,0.47075,"Pace, joint",preseason,0
+88,2025,UST,UE,109,97,2,0.5055,"Pace, joint",preseason,0
+88,2025,UP,UST,67,87,1,0.686,"Pace, joint",preseason,0
+88,2025,UST,UP,88,89,2,0.31675,"Pace, joint",preseason,0
