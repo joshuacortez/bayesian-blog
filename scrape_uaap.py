@@ -142,11 +142,15 @@ def scrape_season(season):
     wins = pd.Series(winners).value_counts().reindex(TEAMS, fill_value=0)
 
     # final elimination-round places: the standings table whose wins match the results matrix
+    # (allowing for games missing from the matrix; some pages title the column "Teamvte")
+    played = pd.concat([games.home, games.away]).value_counts().reindex(TEAMS, fill_value=0)
     place = None
     for table in pd.read_html(io.StringIO(html)):
-        if {"Pos", "Team", "W"} <= set(map(str, table.columns)):
-            rows = {team_code(t): (int(re.sub(r"\D", "", str(p)) or 0), w) for p, t, w in zip(table.Pos, table.Team, table.W)}
-            if all(t in rows and str(rows[t][1]) == str(wins[t]) for t in TEAMS):
+        team_col = next((c for c in map(str, table.columns) if c.startswith("Team")), None)
+        if team_col and {"Pos", "W"} <= set(map(str, table.columns)):
+            rows = {team_code(t): (int(re.sub(r"\D", "", str(p)) or 0), int(re.sub(r"\D", "", str(w)) or -1))
+                    for p, t, w in zip(table.Pos, table[team_col], table.W)}
+            if all(t in rows and wins[t] <= rows[t][1] <= wins[t] + 14 - played[t] for t in TEAMS):
                 place = pd.Series({t: rows[t][0] for t in TEAMS})
                 break
     if place is None:  # no standings table: rank by wins (tied teams share a place)
